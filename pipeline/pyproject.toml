@@ -1,0 +1,27 @@
+[project]
+name = "ai-augmented-investment-pipeline"
+version = "0.1.0"
+description = "Seed-stage startup triage pipeline"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4",
+    "httpx",
+    "jinja2",
+    "langchain-openai",
+    "pydantic",
+    "python-dotenv",
+    "python-slugify",
+    "tenacity",
+]
+
+[dependency-groups]
+dev = [
+    "pyright",
+    "pytest",
+    "pytest-asyncio",
+    "respx",
+    "ruff",
+]
+
+[tool.uv]
+package = false

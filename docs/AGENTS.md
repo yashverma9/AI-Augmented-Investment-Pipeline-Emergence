@@ -8,11 +8,12 @@
 
 ## Architecture
 
+- pipeline is the root directory for the python code
 - CLI entrypoint: `run.py` (`--topic`, `--stage source|analyze|memo|all`)
 - Three decoupled, file-based stages — each reads a file and writes a file, never calls another stage's functions directly:
-  - `sourcing.py` -> `candidates.json`
-  - `analysis.py` -> `analysis.json` (reads `candidates.json`)
-  - `memo.py` -> `memos/*.md` (reads `analysis.json`)
+    - `sourcing.py` -> `candidates.json`
+    - `analysis.py` -> `analysis.json` (reads `candidates.json`)
+    - `memo.py` -> `memos/*.md` (reads `analysis.json`)
 - Shared modules: `models.py` (pydantic schemas), `thesis.py` (criteria/weights/thresholds), `llm.py` (LLM client + retry wrapper), `product_hunt.py` (sourcing API client)
 - Raw API responses are cached to disk under `cache/` (gitignored) before parsing
 - Outputs (`candidates.json`, `analysis.json`, `memos/*.md`) are committed to the repo — not gitignored
