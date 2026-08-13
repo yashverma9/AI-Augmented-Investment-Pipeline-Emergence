@@ -1,0 +1,2898 @@
+[
+  {
+    "id": "1181193",
+    "name": "Pazi",
+    "tagline": "Vibe code business operations",
+    "description": "Pazi is an AI team for that idea you keep coming back to — a book, a shop, an app, a skill you want to sell. Tell Pazi what you're trying to do and it builds a team of agents around your idea and starts making things happen: a website, first outreach, content, the next step. Every time you come back, something has moved. You stay in control; your team does the rest alongside you, one real step at a time. Like vibe coding but for business operations.",
+    "website": "https://www.producthunt.com/r/ZFDSZ4CUJ3IHCB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pazi/launches/pazi-2",
+    "ph_product_url": "https://www.producthunt.com/products/pazi/launches/pazi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-14T07:01:00Z",
+    "votes_count": 990,
+    "featured_at": "2026-07-14T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, Vibe coding",
+    "makers": "zvonimir_sabljic1, leon_ostrez, liliiashamrai, kevin_kamau",
+    "logo": "https://ph-files.imgix.net/0cc238aa-08c3-4d44-a509-0289f8806019.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZFDSZ4CUJ3IHCB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OCWYYQ2GLDYFBQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ISQYK75UCJOUS4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1199124",
+    "name": "OpenSEO",
+    "tagline": "The open source Ahrefs alternative",
+    "description": "Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site audits, starting at $10/month instead of a $100-plus monthly subscription. Connect with MCP so that you can work with your agent to build an SEO strategy and write content tailored to your company.",
+    "website": "https://www.producthunt.com/r/Y35NVXDA24JBBT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/openseo/launches/openseo",
+    "ph_product_url": "https://www.producthunt.com/products/openseo/launches/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 944,
+    "featured_at": "2026-07-19T07:01:00Z",
+    "topics": "Open Source, Marketing, SEO",
+    "makers": "bensenescu",
+    "logo": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/Y35NVXDA24JBBT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TS2IACNCFUOGPI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UKI45KNVGY7J6B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1178721",
+    "name": "Fuzzy AI",
+    "tagline": "We warm your prospects before reaching out",
+    "description": "Cold outreach gets ignored because prospects do not know you yet. Fuzzy warms them before you ever reach out by finding people already engaging in your market, helping you stay visible through content and thoughtful comments, then launching personalised LinkedIn and email campaigns in your voice. Research, enrichment, sequences, replies and team workflows live in one place. Customers call it intuitive, seamless and more comprehensive than the tools they used before.",
+    "website": "https://www.producthunt.com/r/TZH7KMCWHJXAY5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2",
+    "ph_product_url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 672,
+    "featured_at": "2026-07-20T07:01:00Z",
+    "topics": "Sales, Marketing, Artificial Intelligence, Vercel Day, OpenAI Day",
+    "makers": "[REDACTED], bladen_lam",
+    "logo": "https://ph-files.imgix.net/2ee5bc35-54be-4e1c-ac23-b791bb72f837.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/TZH7KMCWHJXAY5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EOX5QJZRXEJM33?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KKJTAQUK74M62T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IXZO4C7JSMZAD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4Y4KCGRW2E67IZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1193175",
+    "name": "Unabyss for Claude",
+    "tagline": "Shared memory across all apps and LLMs. In Claude",
+    "description": "Claude doesn't know what happens in GPT. Neither one really knows who you are or what your company does. Now they can. Unabyss gives Claude memories from your other AI agents and everyday apps: email, Drive, GitHub, Notion, meeting recorders, and 20+ more. It saves new memories too, so GPT and Cursor stay in sync with the exact same context - sharper than wiring each tool into Claude one by one. Finally, a real memory that follows you. Private. Portable.",
+    "website": "https://www.producthunt.com/r/AW6GAYWJDAD4GS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/unabyss/launches/unabyss-for-claude",
+    "ph_product_url": "https://www.producthunt.com/products/unabyss/launches/unabyss-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 651,
+    "featured_at": "2026-07-17T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], philip_kubinski",
+    "logo": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AW6GAYWJDAD4GS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1200627",
+    "name": "Prelint",
+    "tagline": "Prevent product drift in AI-written code",
+    "description": "AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.",
+    "website": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prelint/launches/prelint",
+    "ph_product_url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 644,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], krzysztof_kulig",
+    "logo": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JJ63TERVZQ7KYT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZQYP7AO2LQ6CH3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1196222",
+    "name": "Velo 3.0",
+    "tagline": "AI video infrastructure to explain, train, and sell faster.",
+    "description": "Velo 3.0 is here, our third and biggest launch yet. Start with a screen recording or a prompt. Describe the video you need, and Velo writes the script, narrates it in your own voice, and builds the finished cut. It stays grounded in your company knowledge, from your docs and tools you connect through connectors and MCP. Edit by typing changes. Localize the finished video into 25+ languages in one click. Recording or prompt, Velo turns either into a polished video you can ship anywhere.",
+    "website": "https://www.producthunt.com/r/KDX5BM26GQ5BM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/velo-4/launches/velo-3-0",
+    "ph_product_url": "https://www.producthunt.com/products/velo-4/launches/velo-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 628,
+    "featured_at": "2026-07-15T07:01:00Z",
+    "topics": "Productivity, Sales, Video",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], tirth_nandha1",
+    "logo": "https://ph-files.imgix.net/5a395b78-27ac-4662-9eac-cb5ce89d165c.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KDX5BM26GQ5BM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZXSVP2ZRYLTPDQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YQEDFASCMRQKXP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3KE5J2DETV5XYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UK6FYGJQ2AX23C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PHLX3BIQ77GO4N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1208711",
+    "name": "SKI",
+    "tagline": "Free voice coding for Claude Code, Codex and more",
+    "description": "We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac & Windows.",
+    "website": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ski/launches/ski",
+    "ph_product_url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 625,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], anoop_balakrishnan",
+    "logo": "https://ph-files.imgix.net/4936ae7e-f021-4b98-860e-a5bc9ade7829.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1190808",
+    "name": "Prefactor",
+    "tagline": "Evaluate your AI Agents in real-time",
+    "description": "Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.",
+    "website": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prefactor/launches/prefactor",
+    "ph_product_url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 621,
+    "featured_at": "2026-07-28T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], joeys",
+    "logo": "https://ph-files.imgix.net/4ffa8a62-0b8a-4920-813e-e2f34bb5b68d.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/QAODM4FNSULKAP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LRZWS7UQXUFGQW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1212030",
+    "name": "AdAnt AI",
+    "tagline": "Claude for viral, high-converting social ads",
+    "description": "AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Built on the strategies our founding team used to generate 50M+ Organic Views and reduce Paid Acquisition Costs by 60% on average, AdAnt AI creates Scroll-Stopping, High-Converting Ads for TikTok, Instagram, and YouTube.",
+    "website": "https://www.producthunt.com/r/QNPUB2TD4A4RX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/adant-ai/launches/adant-ai",
+    "ph_product_url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 614,
+    "featured_at": "2026-08-05T07:01:00Z",
+    "topics": "Advertising, Artificial Intelligence, Social media marketing",
+    "makers": "[REDACTED], anyt",
+    "logo": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/QNPUB2TD4A4RX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1090720",
+    "name": "Hey Noah",
+    "tagline": "A proactive AI executive assistant for founders",
+    "description": "Noah is a proactive AI executive assistant for founders. Claude talks to you; Noah talks to your network. It's like Tesla Full Self Driving, and not cruise control- an autonomous AI EA that manages your calendar, relationships, and follow-ups across email, text, and WhatsApp - so nothing slips. Think of it as an always-on EA living in your SMS and helping you with meeting logistics.",
+    "website": "https://www.producthunt.com/r/XG4DNYGMW6GCPP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah",
+    "ph_product_url": "https://www.producthunt.com/products/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 608,
+    "featured_at": "2026-08-04T07:01:00Z",
+    "topics": "Productivity, Calendar, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], ryan_brandt4",
+    "logo": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XG4DNYGMW6GCPP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1197421",
+    "name": "Lev8",
+    "tagline": "Find, research, and reach the right people",
+    "description": "Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet. Enrich CSVs with waterfall lookups, monitor intent signals, and send personalized multi-channel messages, all running automatically.",
+    "website": "https://www.producthunt.com/r/IITOSI26P6BQTV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lev8/launches/lev8",
+    "ph_product_url": "https://www.producthunt.com/products/lev8/launches/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 589,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "Sales, Artificial Intelligence, Marketing automation",
+    "makers": "[REDACTED], [REDACTED], richgalulu",
+    "logo": "https://ph-files.imgix.net/0cd8bb27-735c-48f9-9105-4c7d73fbd348.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IITOSI26P6BQTV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Q7RUDQAW62CXI6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MWENX72BHKHGS6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1214897",
+    "name": "Wispr Flow Notetaker",
+    "tagline": "Meeting notes that get the details right.",
+    "description": "Your follow-ups are only as good as your meeting notes. Wispr Notetaker gets your words and your speakers right, so your recaps, follow-ups, and answers are too. Before the meeting starts, it checks the invite so names are spelled correctly, and it brings the terminology you've already taught Wispr Flow into every conversation. Your transcripts use real names instead of \"Speaker 1\" and \"Speaker 2,\" and every meeting is ready to pull into Claude or ChatGPT via MCP. Available on Mac. Free to try.",
+    "website": "https://www.producthunt.com/r/TP2MPL5CRVXSM2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker",
+    "ph_product_url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 587,
+    "featured_at": "2026-08-05T07:01:00Z",
+    "topics": "Notes, Meetings, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], abigail_augustine",
+    "logo": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/TP2MPL5CRVXSM2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YW4NCGQDBHSZA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1203499",
+    "name": "Memmy Agent",
+    "tagline": "Let every AI remember the same you.",
+    "description": "🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes. Gives every AI one shared, full-controlled memory — they all remember the same you. Memmy turns chats, decisions, prefs, progresses, and experiences into long-term memory, brings the right context into matching task, also can take on work directly. Local-first by default. Your memory stay under your control: manage them anytime. Free start with 2M ChatGPT tokens.",
+    "website": "https://www.producthunt.com/r/5S7SGS3F5S6RN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/memmy/launches/memmy-agent",
+    "ph_product_url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 571,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Productivity, Open Source, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], yunn_chen",
+    "logo": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/I3GSTR7Z2X5X7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5S7SGS3F5S6RN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/L477FGLG3PHCA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IBYCZ3GE2UQGM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1112188",
+    "name": "Adomate",
+    "tagline": "Turn data into winning ads. At scale.",
+    "description": "With Adomate you create ads from data, at scale. Take data from your Meta ad account, the ad library and reviews from Trustpilot and Amazon. Build creative research workflows that create branded ad concepts, the way you want. Fully traceable to their original data trigger, no blackbox.",
+    "website": "https://www.producthunt.com/r/EPLPB5QB6JEVTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/adomate/launches/adomate",
+    "ph_product_url": "https://www.producthunt.com/products/adomate/launches/adomate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 560,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Design Tools, Marketing, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], justine7",
+    "logo": "https://ph-files.imgix.net/0b1dc26d-34c2-4318-b041-3b690a4f5a48.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EPLPB5QB6JEVTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PTVNY2PPLQ74L7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1217382",
+    "name": "Dograh",
+    "tagline": "The open source VAPI alternative",
+    "description": "Closed voice platforms make you rent your own agents. Dograh is completely open source- nothing is gated. Visual flow builder, add your model key across 30+ integrations or use local models, telephony, human transfer, and advanced QA & monitoring - all free to self-host in one command. Also connect your claude code with MCP to build voice agents for a use case or call recordings.",
+    "website": "https://www.producthunt.com/r/DAII3FVF5KT5VU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/dograh/launches/dograh-3",
+    "ph_product_url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 537,
+    "featured_at": "2026-08-12T07:01:00Z",
+    "topics": "Open Source, Developer Tools, GitHub, Audio",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], sabiha_khan4",
+    "logo": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FWXMHXVQ73UL7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SFLUCJRGI2NFQD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DAII3FVF5KT5VU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/G2DZGQSLCP4FZN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1198904",
+    "name": "Coldtea.ai",
+    "tagline": "Make your software self-driving",
+    "description": "The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything",
+    "website": "https://www.producthunt.com/r/WB4IUOEMBNYG5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/coldtea/launches/coldtea",
+    "ph_product_url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-07T07:01:00Z",
+    "votes_count": 522,
+    "featured_at": "2026-08-07T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], favour_ohans",
+    "logo": "https://ph-files.imgix.net/a2d8fc0d-0320-49be-888d-788b36d46c10.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WB4IUOEMBNYG5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TXZFYJRLBRSY6V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2BSKJU6BR7U6EX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1187127",
+    "name": "AI Search Console",
+    "tagline": "Prompt analytics and citation mapping for AI search",
+    "description": "AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data. Track brand mentions, rankings, share of voice, competitors, and cited sources across ChatGPT, Claude, Gemini, and Perplexity. Analyze visibility at the individual prompt level, find content and citation gaps, and generate client-ready reports without spreadsheets or screenshots.",
+    "website": "https://www.producthunt.com/r/O7C4XHAKCEG4AF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ai-search-console/launches/ai-search-console",
+    "ph_product_url": "https://www.producthunt.com/products/ai-search-console/launches/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 520,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Marketing, SEO, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], solodnev",
+    "logo": "https://ph-files.imgix.net/6a9b0c41-9e59-4718-afaf-4245f5ea0561.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/O7C4XHAKCEG4AF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1174789",
+    "name": "Paradigm",
+    "tagline": "Turn any goal into a personalized, adaptive learning path.",
+    "description": "Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to mastery without getting lost.",
+    "website": "https://www.producthunt.com/r/BASZVKO22HWWKN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/paradigm-3/launches/paradigm-3",
+    "ph_product_url": "https://www.producthunt.com/products/paradigm-3/launches/paradigm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 511,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "User Experience, Education, Career, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], jiwei_yuan",
+    "logo": "https://ph-files.imgix.net/7c1bc3e9-098d-4b10-9e5b-704460691d83.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BASZVKO22HWWKN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WQXNCIUNY253NT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CUTADGBUVGXULT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AWQRVWJZASRBID?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1186299",
+    "name": "V2Fun",
+    "tagline": "Generate 3D character with 8K textures and AI motion capture",
+    "description": "V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models. It helps creators turn images, prompts, and videos into high-quality 3D models, enhance assets with advanced 8K texture generation, and create motion-ready characters without switching between separate modeling, texturing, and mocap tools. V2Fun also supports image generation through models including Nano Banana and others, so creators can explore visual concepts and bring them into 3D faster.",
+    "website": "https://www.producthunt.com/r/YMZ2X3HYSCQ2UP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/v2fun/launches/v2fun",
+    "ph_product_url": "https://www.producthunt.com/products/v2fun/launches/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 500,
+    "featured_at": "2026-07-15T07:01:00Z",
+    "topics": "Artificial Intelligence, 3D Modeling, Animation",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], pliorea",
+    "logo": "https://ph-files.imgix.net/1ae953dd-1691-4d3d-8eed-f970b24c8131.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YMZ2X3HYSCQ2UP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6GJLJL4NO7NCVP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3X6CRIHS3EOEYY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SCF3YEJIKC4CH7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VTLQYJ2REO637W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": "1199213",
+    "name": "Humalike x Hermes",
+    "tagline": "Social intelligence plugin for Hermes Agent",
+    "description": "One command gives your Hermes agent social intelligence. It decides when to speak, adapts to your group's tone and remembers who said what. Works in group chats on Slack, Telegram and WhatsApp.",
+    "website": "https://www.producthunt.com/r/7WFK7BDIY5DLKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes",
+    "ph_product_url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 500,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "API, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], maks_bilski",
+    "logo": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/3DZ3MASD7HY557?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7WFK7BDIY5DLKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ILTXB5FUDJ5NWE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1220287",
+    "name": "Grok Bot",
+    "tagline": "AI teammates that you can give real work to",
+    "description": "Introducing Grok Bot: AI teammates you can give real work to. Bots sign into your tools, use them like you do, and come back with finished work. Message them like a teammate. They keep context, multitask, and learn your working style on their own cloud computer. Ask Bots to run outbound overnight, code expenses from Gmail, schedule a recruiting onsite, rebalance paid ads, or ship a bug pack. They only come back when something needs your approval.",
+    "website": "https://www.producthunt.com/r/QE45KIR5XX72OH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/grok/launches/grok-bot",
+    "ph_product_url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 493,
+    "featured_at": "2026-08-12T07:01:00Z",
+    "topics": "Productivity, Task Management, Artificial Intelligence",
+    "makers": "lauren_place, lilingxi01, poteto, cezarywojcik, roshansada, alex_maloney, baltaazr, shaoruu, samsokolin, allen_shi1, kenneth_kuh, justinjaywang, jacob_witt2, travis_mcpeak, smmahdad, bohnjai, peng_zheng, aaronweldy, roman_ugarte, andrei_betlen, blakeorwhatever, parkersm1th",
+    "logo": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XVWYTAKZK5DAGR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QE45KIR5XX72OH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/77F6ABFEVNIWOG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ERGXJBMF74NRIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1216472",
+    "name": "Soloop",
+    "tagline": "Approval-first Agent OS for solo founders",
+    "description": "Soloop is an agentic company-building system for solo founders. It takes you from idea to revenue with an AI CEO to plan, manage and prioritize, an AI CTO to build and execute, and an AI CMO to find users and sell. Keep your own judgment and ownership while delegating the unfamiliar work that usually requires a team.",
+    "website": "https://www.producthunt.com/r/K3YBVXDB7SFOVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/soloop/launches/soloop-2",
+    "ph_product_url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-07T07:01:00Z",
+    "votes_count": 491,
+    "featured_at": "2026-08-07T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, Maker Tools",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], qf_meng",
+    "logo": "https://ph-files.imgix.net/206a6062-9874-4dfc-9dbb-87366bd3d63b.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NTX4PFGIHDEXP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LACJK2HELJZMGO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/K3YBVXDB7SFOVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1194188",
+    "name": "Goose Ads Remixer",
+    "tagline": "Remix the ads already winning in your niche",
+    "description": "The winning ads in your niche reveal what works: hooks, offers, copy structures, layouts. Goose learns those patterns and creates new ads for your brand with your real logo, product images, and messaging in minutes. First 10 ads free.",
+    "website": "https://www.producthunt.com/r/YYDC2FEFNNYIMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gooseworks/launches/goose-ads-remixer",
+    "ph_product_url": "https://www.producthunt.com/products/gooseworks/launches/goose-ads-remixer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-14T07:01:00Z",
+    "votes_count": 489,
+    "featured_at": "2026-07-14T07:01:00Z",
+    "topics": "Marketing, Artificial Intelligence, GitHub, Video",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], sohmehta",
+    "logo": "https://ph-files.imgix.net/bcd3299c-5ea5-4879-98ec-68ec1e5026a5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YYDC2FEFNNYIMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7Y2GSTRGZ3JWYL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QEHIXI6LSCKR7L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CWQUYHZI5X2DW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1192199",
+    "name": "Migma AI",
+    "tagline": "AI runs your email marketing. Better with every send.",
+    "description": "Migma creates full campaigns before you ask. It understands your goals and events, creates every email, personalizes and localizes it, and renders consistently across inboxes. It handles sending, preferences and compliance, then learns what drives revenue.",
+    "website": "https://www.producthunt.com/r/XOS6KKLW7EXHLV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4",
+    "ph_product_url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 488,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "Email, Analytics, Marketing",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], boeychen",
+    "logo": "https://ph-files.imgix.net/c71558bf-fae0-40f5-8796-e5126d69f59b.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NWXQTSZUGPCNRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XOS6KKLW7EXHLV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ASHSW7MRTOQOOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1198643",
+    "name": "Kimi K3",
+    "tagline": "The world's first open 3T-class model",
+    "description": "Kimi K3 is the world's first open 3T-class model — frontier performance across coding, knowledge work, and reasoning, with native multimodality and 1M context.",
+    "website": "https://www.producthunt.com/r/YT3DDK5NRLBZDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k3-3",
+    "ph_product_url": "https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k3-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 487,
+    "featured_at": "2026-07-17T07:01:00Z",
+    "topics": "Open Source, Artificial Intelligence, Development",
+    "makers": "[REDACTED], crystal_j",
+    "logo": "https://ph-files.imgix.net/be76baa0-d4e9-4f86-ae51-cb94d9b86787.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YT3DDK5NRLBZDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VZ4EDJNMZJK2R3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7MOH4XFVBUPHKM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1215966",
+    "name": "Cloudflare OS",
+    "tagline": "Build the AI operating system for your company",
+    "description": "Give every person an agent and workspace built around how your company works, what it knows, and the systems it relies on. Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
+    "website": "https://www.producthunt.com/r/VYDPLSA7MSOD7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cloudflare/launches/cloudflare-os-2",
+    "ph_product_url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 476,
+    "featured_at": "2026-08-06T07:01:00Z",
+    "topics": "Open Source, Artificial Intelligence, GitHub, Bots",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], lakeaustin",
+    "logo": "https://ph-files.imgix.net/edcb3719-f3b7-49e8-9676-27631af01cb9.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7DCCN2TQR5YFGD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VAUJWTQFOFIY2I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7BJZUAWWS2KCDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VYDPLSA7MSOD7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1214477",
+    "name": "NextDoor.Company",
+    "tagline": "Discover startups hiring near you, on a map",
+    "description": "Find startups hiring near you, on a map. 400+ hand curated startups globally, 16,000+ live job openings updated weekly. Filter by work mode: remote, hybrid, or on site. See funding, valuation, and revenue details, verified founder profiles, key investors, and their investment details, all in one place.",
+    "website": "https://www.producthunt.com/r/W6SVY7XXFTOVTY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/nextdoor-company/launches/nextdoor-company",
+    "ph_product_url": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 462,
+    "featured_at": "2026-08-05T07:01:00Z",
+    "topics": "Hiring, Maps, Career",
+    "makers": "sankalpdomore",
+    "logo": "https://ph-files.imgix.net/a13767d4-9635-476d-8220-5c0394971562.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/W6SVY7XXFTOVTY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7SFUVGJ5FBH5ZQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1194885",
+    "name": "Nautis",
+    "tagline": "The AI-native Operating System for founders.",
+    "description": "Nautis is the AI-native Operating System for founders. Manage fundraising, planning, finance, documents, meetings, CRM, hiring, and daily operations from one connected workspace. Unlike disconnected SaaS tools, every module shares one AI brain, giving you context-aware automation, smarter insights, and a Chief of Staff that understands your business—not just one app. Spend less time managing tools and more time building.",
+    "website": "https://www.producthunt.com/r/RVQOOZX7DXALRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/nautis/launches/nautis-2",
+    "ph_product_url": "https://www.producthunt.com/products/nautis/launches/nautis-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 458,
+    "featured_at": "2026-07-20T07:01:00Z",
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "baltejsingh88",
+    "logo": "https://ph-files.imgix.net/53e039da-64e9-4358-92e5-bbdd3b71035f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RVQOOZX7DXALRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/37RGV7ARBTZCSR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OHGJXBLO7SG37A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3TBKOD2C7SCK2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1197428",
+    "name": "Zro",
+    "tagline": "Private inference for coding agents",
+    "description": "Fast and optimized open-model inference on multi-region infrastructure with zero request retention.",
+    "website": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zro/launches/zro",
+    "ph_product_url": "https://www.producthunt.com/products/zro/launches/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 457,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "API, Developer Tools, Tech, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], jeremy_felder",
+    "logo": "https://ph-files.imgix.net/fdeb7f10-d431-4e5f-a031-99486525980a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I4PXXCY6JA6O2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DONPFJP7I3YZBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1205704",
+    "name": "Claude Opus 5",
+    "tagline": "Near-Fable 5 intelligence at half the price",
+    "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "website": "https://www.producthunt.com/r/IU2TVFNFIUECW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/claude/launches/claude-opus-5",
+    "ph_product_url": "https://www.producthunt.com/products/claude/launches/claude-opus-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 456,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Messaging, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/a829d914-18d6-43bd-b963-7cd5d7f5b280.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IU2TVFNFIUECW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CMKKIIJB4PUJOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1198265",
+    "name": "Artifacts by Databox",
+    "tagline": "Ask your AI Analyst and get back a ready-to-share report",
+    "description": "Turn any conversation with your AI Analyst into a polished report, slide deck, or interactive document built from your live data. Generate it from a single prompt, then share it via public link or download as a PDF.",
+    "website": "https://www.producthunt.com/r/OT2MF465VDKFTA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/databox/launches/artifacts-by-databox",
+    "ph_product_url": "https://www.producthunt.com/products/databox/launches/artifacts-by-databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 453,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Productivity, Marketing, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], spela_juric",
+    "logo": "https://ph-files.imgix.net/4d622638-2418-4c44-9591-b650270d3c26.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OT2MF465VDKFTA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1211254",
+    "name": "AgentSky",
+    "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+    "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+    "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agentsky/launches/agentsky",
+    "ph_product_url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 453,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], xiaoyin_qu1",
+    "logo": "https://ph-files.imgix.net/a50c630a-ee2b-422e-93ef-44116a39bd2c.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1196080",
+    "name": "Teable 3.0",
+    "tagline": "AI Spreadsheet for Business",
+    "description": "Turn your business data into AI workflows and custom apps. Connect any system, migrate any data, and build anything that fits your business 100%.",
+    "website": "https://www.producthunt.com/r/XNGC556XAKVRWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/teable-4/launches/teable-3-0",
+    "ph_product_url": "https://www.producthunt.com/products/teable-4/launches/teable-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 449,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Productivity, Spreadsheets, Artificial Intelligence, GitHub, OpenAI Day",
+    "makers": "[REDACTED], [REDACTED], jocky",
+    "logo": "https://ph-files.imgix.net/99e1dd98-f4bc-4cfb-99d9-fae6ea597647.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XNGC556XAKVRWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BP5SXVBGCLV5IM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7H6LYVVANPNA5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CEBU3S54VDPEUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1160224",
+    "name": "CartAI",
+    "tagline": "The AI agent that handles checkout.",
+    "description": "Checkout is the hard part, and most solutions clear it only where the merchant has integrated. CartAI completes checkout on any live merchant surface with no merchant-side work, cooperating with bot detection instead of evading it. One developer-first API, four products: Catalog (search and live pricing across merchants), Checkouts (clear and track orders to confirmation), Payments (PCI off your stack via Visa and Mastercard agent rails), Monetization (commissions on every agent sale).",
+    "website": "https://www.producthunt.com/r/LZD2Q2Q6VJPRPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cartai/launches/cartai",
+    "ph_product_url": "https://www.producthunt.com/products/cartai/launches/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 447,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], amit_uppal",
+    "logo": "https://ph-files.imgix.net/ccbd2930-0350-4ce8-9f51-1bfd65351e09.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LZD2Q2Q6VJPRPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XD2A3LROSCW4M5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PW4VOQJ6PUZGXP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1188822",
+    "name": "SoundGate Guitar",
+    "tagline": "AI Music Tutor that gives real-time feedback on your playing",
+    "description": "SoundGate Guitar is an AI practice companion that actually listens to you play. Get instant visual feedback on an interactive fretboard with zero-lag note detection. The built-in AI tutor analyzes your playing to provide personalized feedback, custom practice routines, and answers to any guitar question.",
+    "website": "https://www.producthunt.com/r/MMIYN6ZQTIOL72?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/soundgate-guitar-app/launches/soundgate-guitar",
+    "ph_product_url": "https://www.producthunt.com/products/soundgate-guitar-app/launches/soundgate-guitar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 444,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Music, Education, Artificial Intelligence",
+    "makers": "[REDACTED], aren_barseghyan",
+    "logo": "https://ph-files.imgix.net/075e21ff-db7f-4bec-aa4e-be0be8897626.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/MMIYN6ZQTIOL72?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6K62TBQ4CS7NZH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ]
+  },
+  {
+    "id": "1195845",
+    "name": "Pebbles Ai",
+    "tagline": "AI sales platform for modern B2B teams",
+    "description": "More pipeline, faster deals, fatter margins. Pebbles Ai is a Go-to-Market Operating System™ that changes how commercial teams work. One place replacing 10+ tools powered by neurosymbolic AI. Whether you're two co-founders, a 10-person startup, or a 100 strong company, Pebbles Ai truly moves the commercial needle without breaking the bank. Generate strategies grounded in science. Create content that earns attention. Launch campaigns infused with persuasion. Build sales assets that close deals.",
+    "website": "https://www.producthunt.com/r/AYLBJIEQ76AGBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pebbles-ai/launches/pebbles-ai-5",
+    "ph_product_url": "https://www.producthunt.com/products/pebbles-ai/launches/pebbles-ai-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 442,
+    "featured_at": "2026-07-17T07:01:00Z",
+    "topics": "Sales, Marketing, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], oleksandr_knyga",
+    "logo": "https://ph-files.imgix.net/ee412170-7ff7-4f3e-85fe-415df8376567.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AYLBJIEQ76AGBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SGTF7BNUVTVUFS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JA7XL4A6WUXNTR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MUHLUMWAVWRI2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TFKVUDAGOM47VA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1191609",
+    "name": "ClawTeams",
+    "tagline": "The first goal-driven, proactive AI team for e-commerce",
+    "description": "ClawTeams is an AI employee platform for e-commerce sellers. Instead of hiring specialists—or doing everything yourself—you get a coordinated AI team that thinks, plans, and executes like real employees. One goal. One team. Zero micromanagement. Tell your team lead what you want—\"Increase Q4 revenue by 20%\"—and they break it down, assign specialists, and run the plan. You get updates in Slack or Discord. High-stakes decisions wait for your approval. Everything else just happens.",
+    "website": "https://www.producthunt.com/r/XOOTYQZQO66BZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/clawteams/launches/clawteams-a263d5d3-d341-45d9-9e9f-7154e7066e4a",
+    "ph_product_url": "https://www.producthunt.com/products/clawteams/launches/clawteams-a263d5d3-d341-45d9-9e9f-7154e7066e4a?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-14T07:01:00Z",
+    "votes_count": 441,
+    "featured_at": "2026-07-14T07:01:00Z",
+    "topics": "Productivity, Marketing, Artificial Intelligence",
+    "makers": "[REDACTED], tony_tan10086",
+    "logo": "https://ph-files.imgix.net/8cf8434d-e4fd-48c3-8654-af7f9e5bc2d5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XOOTYQZQO66BZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JQGHYZGBY4NKEE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1199558",
+    "name": "PromptQL",
+    "tagline": "Multiplayer AI that replaces Slack",
+    "description": "Stop splitting team knowledge between Slack and everyone's private AI chats. PromptQL is multiplayer AI for teams: think Claude or ChatGPT in shared threads. Tag teammates to review, correct, and refine answers without losing the reasoning. Connect databases, SaaS apps, coding agents, and events. PromptQL captures tribal knowledge and suggests shared-brain updates so context compounds. Scopes and multi-user permissions keep the right context accessible to the right people.",
+    "website": "https://www.producthunt.com/r/UDARQUO4K2JLJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/promptql/launches/promptql-2",
+    "ph_product_url": "https://www.producthunt.com/products/promptql/launches/promptql-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 437,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Productivity, SaaS, Artificial Intelligence, OpenAI Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], abhinav2107",
+    "logo": "https://ph-files.imgix.net/92a46df4-f32c-4fb9-a1ce-d2705257ca82.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UDARQUO4K2JLJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Z7XOJWHTWKGCQQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PPY45EUK3VKKVB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GJBUWQNKTV4U5T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1186303",
+    "name": "Replay QA",
+    "tagline": "Replay QA tells you what is broken before your users do",
+    "description": "Add your GitHub repo for continuous testing, or drop in a URL for a one-time check. Replay QA explores your app, records every session, finds real bugs, and gives your coding agent the root cause and fix. Try for free: qa.replay.io",
+    "website": "https://www.producthunt.com/r/BJDB3RMYCKCJVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/replayio/launches/replay-qa",
+    "ph_product_url": "https://www.producthunt.com/products/replayio/launches/replay-qa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 436,
+    "featured_at": "2026-07-20T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], brett_lamy2",
+    "logo": "https://ph-files.imgix.net/d8f4eeb7-b351-4cd4-8a98-0e68afe73b96.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BJDB3RMYCKCJVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RCYA2Z2JVNSOTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1196035",
+    "name": "Omniwork",
+    "tagline": "The Creative Agent OS, create better with desktop AI agents",
+    "description": "Omniwork is an always-on Creative Agent OS that turns ideas into finished work. Specialized AI agents research, create, monitor, and automate your creative workflows, while a proactive desktop companion keeps projects moving and pushes results, alerts, and progress straight to your screen.",
+    "website": "https://www.producthunt.com/r/M4Y5GPSVZTCBSU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/omniwork-2/launches/omniwork-4",
+    "ph_product_url": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 436,
+    "featured_at": "2026-08-09T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, Social media marketing",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], abby_mao1",
+    "logo": "https://ph-files.imgix.net/ca9f8039-1afd-45fb-8410-e43e4f63d929.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/M4Y5GPSVZTCBSU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1217504",
+    "name": "Tines 3B",
+    "tagline": "The secure environment for agents, apps, and automations",
+    "description": "Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.",
+    "website": "https://www.producthunt.com/r/YIH4E6DK7N5RLY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/tines/launches/tines-3b",
+    "ph_product_url": "https://www.producthunt.com/products/tines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 423,
+    "featured_at": "2026-08-11T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence",
+    "makers": "kelsey_evans2, cian_mac_mahon, izabella197, conorb, danielle_swans, liam_k, ciarapurcell, yannickgloster, ruairigalavan, steobrien, spencer_vail, rosie_halpin, jillian_bejtlich, eoinh, shayonj, eoghanreid",
+    "logo": "https://ph-files.imgix.net/9d26f690-9df3-4d57-907c-2873b8e8e51c.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EVWTX352BYVCKE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YIH4E6DK7N5RLY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4BP2ZAIDINVVX2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1197332",
+    "name": "Fedica 2.0",
+    "tagline": "Publish and grow your profile across social apps",
+    "description": "For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.",
+    "website": "https://www.producthunt.com/r/BUIW56GARKIM77?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/fedica/launches/fedica-2-0",
+    "ph_product_url": "https://www.producthunt.com/products/fedica/launches/fedica-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 419,
+    "featured_at": "2026-07-24T07:01:00Z",
+    "topics": "Social Media, Analytics, Marketing",
+    "makers": "[REDACTED], [REDACTED], dmitry_ustimenko1",
+    "logo": "https://ph-files.imgix.net/3f5dd788-f2a9-4eb1-a75b-d78add051d45.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BUIW56GARKIM77?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TRSLHJ44FE765B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/S4CDE7UPA2TEBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1200759",
+    "name": "ditto.site",
+    "tagline": "Clone any website into clean code. Free & open source",
+    "description": "Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens, interactions & hover states included. Free REST API + MCP server, open source.",
+    "website": "https://www.producthunt.com/r/HMFIHL7XJ25WLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ditto-site/launches/ditto-site",
+    "ph_product_url": "https://www.producthunt.com/products/ditto-site/launches/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 419,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "Design Tools, Open Source, Developer Tools, GitHub",
+    "makers": "[REDACTED], [REDACTED], michaelcole",
+    "logo": "https://ph-files.imgix.net/7321b58f-7419-433c-9ad8-9c86ff907331.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XTKJF7Y7VA2DYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HMFIHL7XJ25WLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JIKH453JJHHQ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D7LFXPOQYAZ6PF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1207906",
+    "name": "The GTM Co-Founder",
+    "tagline": "Open-source GTM skills for technical founders",
+    "description": "Most AI hands dev-tool founders the same generic sales and marketing advice. The GTM Co-Founder doesn't. It's a set of open-source skills that interview you once, learn your real product and market, then walk you move by move through a prioritised GTM roadmap: who it's for, positioning, your first 50 users, launch, pricing, etc. Grounded in the playbooks of Adam Frankl and Jakub Czakon, plus my own time as a Founding AE and GTM advisor. Free and open source.",
+    "website": "https://www.producthunt.com/r/VPBAUGHOUKAU4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/the-gtm-co-founder/launches/the-gtm-co-founder",
+    "ph_product_url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 417,
+    "featured_at": "2026-08-08T07:01:00Z",
+    "topics": "Open Source, Marketing, Developer Tools",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], antlio",
+    "logo": "https://ph-files.imgix.net/46743940-bda5-46f0-b113-a776781e76a3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VPBAUGHOUKAU4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OIA5YVC2DJYUOJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UR2OGSUYHP6P62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/U2D52GTJF6NNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DHAJM735NYJNQ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1211605",
+    "name": "Ctruh Studio",
+    "tagline": "Create interactive 3D and XR experiences without coding",
+    "description": "Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites. Generate 3D assets with AI, build immersive product showcases, virtual stores, configurators and AR experiences directly in your browser.",
+    "website": "https://www.producthunt.com/r/YYAIX2KMA2K36Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ctruh-studio/launches/ctruh-studio-2",
+    "ph_product_url": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 405,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "Artificial Intelligence, Augmented Reality, No-Code",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], somesh_putatunda",
+    "logo": "https://ph-files.imgix.net/6d431c48-ea75-4a5d-aa17-ff44f05e92bf.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YYAIX2KMA2K36Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1198766",
+    "name": "Athena by Shoplazza",
+    "tagline": "An orchestrator agent for your entire commerce stack",
+    "description": "Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy. From there, it keeps the business moving by creating products in bulk, setting up discounts, configuring shipping, and launching ad campaigns. Payments, logistics, fulfillment, and loyalty are built into the same platform, so the store Athena creates is not just a storefront. It is ready to operate as a real business.",
+    "website": "https://www.producthunt.com/r/BFVWD7733PP65I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/athena-by-shoplazza/launches/athena-by-shoplazza-2",
+    "ph_product_url": "https://www.producthunt.com/products/athena-by-shoplazza/launches/athena-by-shoplazza-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 401,
+    "featured_at": "2026-07-26T07:01:00Z",
+    "topics": "Artificial Intelligence, E-Commerce, Shopping",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], yuqi_liang1",
+    "logo": "https://ph-files.imgix.net/070fb73f-cbfd-450d-a087-e0e6b1ecf62b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BFVWD7733PP65I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PKRQ3KMBMM5MLA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7N5FMNJ5JYX4ZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6UOTBRBISJTJMN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZSXVLZNLYOZMCZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BMJTPLZU4ZKAWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OMZKO6IIXO6C34?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1195320",
+    "name": "Cekura",
+    "tagline": "The self-improvement loop for voice agents",
+    "description": "Cekura is the testing, observability, and self-improvement platform for production voice and chat AI agents. It simulates thousands of scenarios, catches failures, diagnoses the root cause, rewrites prompts and config, then re-validates with a full regression sweep. Unlike tools that hand failures back to your team, Cekura closes the loop by fixing the agent itself and proving the fix holds without overfitting.",
+    "website": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/vocera/launches/cekura-3",
+    "ph_product_url": "https://www.producthunt.com/products/vocera/launches/cekura-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 397,
+    "featured_at": "2026-07-28T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Audio",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], krishyv",
+    "logo": "https://ph-files.imgix.net/a0348018-57b9-4835-bf5a-faf8d3bee8a0.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LJOLRCK5MPU5DR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B2O2RTYBQAR355?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1205253",
+    "name": "Lottie Creator 2.0",
+    "tagline": "After Effects for the web, built on Lottie",
+    "description": "Yes, we're calling it: After Effects for the web. Design vector animations from scratch in your browser, move faster with Motion Copilot AI, wire up interactivity with State Machines, and export production-ready Lottie + dotLottie. No desktop app. No dev handoff.",
+    "website": "https://www.producthunt.com/r/GSHXQX2CIK3S3Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lottiefiles/launches/lottie-creator-2-0",
+    "ph_product_url": "https://www.producthunt.com/products/lottiefiles/launches/lottie-creator-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 396,
+    "featured_at": "2026-07-28T07:01:00Z",
+    "topics": "Design Tools, Graphics & Design, Animation",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], karinfam",
+    "logo": "https://ph-files.imgix.net/20670f6c-a217-4ffc-95bd-a5b42014f3a5.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/GSHXQX2CIK3S3Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PQLG4CR2ZUADTA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1137855",
+    "name": "Zinley",
+    "tagline": "Your Personal AI Representative for calls, email, and tasks",
+    "description": "Most AI waits inside a chat. Zinley is reachable by you and the people around you. With its own phone number and email, it answers calls, handles email, books things, and gets work done within your rules. It remembers your people and relationships, then reports back in your language. Not another chatbot. A second you that shows up.",
+    "website": "https://www.producthunt.com/r/IQRSF4SZFC3JK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zinley/launches/zinley",
+    "ph_product_url": "https://www.producthunt.com/products/zinley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 396,
+    "featured_at": "2026-08-02T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, Virtual Assistants",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], victoria_quynh_anh_nguyen",
+    "logo": "https://ph-files.imgix.net/b9ffb70c-6cda-4002-b32a-b78a905e23fe.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7JO2SUUBYSIVTW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IQRSF4SZFC3JK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WZSKVNSNA6CPPJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2G7NNQK5R4MF5T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BHWXL7J4E7IH44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1204010",
+    "name": "Webhound",
+    "tagline": "A research engine for your agent",
+    "description": "Research has no natural finish line. An agent can spend ten minutes or ten hours on the same question, and both answers can look finished. Webhound lets you choose how much work the question deserves. Give it a question and a dollar budget. It follows leads and checks weak claims until the budget is consumed, then returns a cited report or sourced dataset with the sources and working documents behind it. Run Webhound yourself or call it from your agent through MCP or the API.",
+    "website": "https://www.producthunt.com/r/TSDAGJRI6E3MV7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/webhound/launches/webhound-2",
+    "ph_product_url": "https://www.producthunt.com/products/webhound/launches/webhound-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 391,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Artificial Intelligence, Search",
+    "makers": "[REDACTED], theo_schmidt",
+    "logo": "https://ph-files.imgix.net/11ac2f49-e69f-4126-b5a7-e8d2b33c6824.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/TSDAGJRI6E3MV7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/H3JT6F2AREG6OF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/X2NRV3S7BSLJXO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1218357",
+    "name": "Lettertrace",
+    "tagline": "Track your AI visibility for free (using your own API keys!)",
+    "description": "Lettertrace measures how often Claude, ChatGPT, and Gemini mention your company. But there's a catch: it's free, developer-first, bring-your-own-key, and open source.",
+    "website": "https://www.producthunt.com/r/PERZM7L6ETGORE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lettertrace/launches/lettertrace-2",
+    "ph_product_url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 386,
+    "featured_at": "2026-08-12T07:01:00Z",
+    "topics": "Open Source, Analytics, Marketing, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], mahir_khan2",
+    "logo": "https://ph-files.imgix.net/e6d1a93f-5c42-443e-92c6-6e0853fd5cc0.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5GGPISQU6WA7B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PERZM7L6ETGORE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1188992",
+    "name": "LiveDemo",
+    "tagline": "Open-source alternative to Storylane, Navattic, and Arcade",
+    "description": "Create interactive product demos in minutes. Capture any workflow, add AI voiceovers and personalized text, then share it as a link, embed, GIF, or video while tracking engagement and collecting leads across your website, docs, and sales outreach.",
+    "website": "https://www.producthunt.com/r/LPPCPHHYS32PCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/livedemo/launches/livedemo-4",
+    "ph_product_url": "https://www.producthunt.com/products/livedemo/launches/livedemo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 383,
+    "featured_at": "2026-07-18T07:01:00Z",
+    "topics": "Sales, SaaS, Developer Tools, GitHub",
+    "makers": "gapostolov",
+    "logo": "https://ph-files.imgix.net/2e64354d-c77e-43c8-830f-287c7f9d373a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LPPCPHHYS32PCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/32CM6Z54HJUDZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YRO3JJHFTFELIY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UJ2AXL4ZL6QWDN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1208851",
+    "name": "Claude Code usage tracking by LangWatch ",
+    "tagline": "See what your Claude Code sessions actually cost",
+    "description": "Track Claude Code usage: cost, cache, session replay. Run `npx langwatch claude` once. Every session gets cost with cache reads/writes as separate token classes, every bash and MCP call as a span, theoretical vs billed for your Max plan, and a full terminal replay in the UI. Works for Codex too.",
+    "website": "https://www.producthunt.com/r/5R3GKBPGWVMPBY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/langwatch/launches/claude-code-usage-tracking-by-langwatch",
+    "ph_product_url": "https://www.producthunt.com/products/langwatch/launches/claude-code-usage-tracking-by-langwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 380,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Open Source, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], alexforbesreed",
+    "logo": "https://ph-files.imgix.net/7634f3d6-99e4-4094-82c5-9d8cb14a3c69.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/K6SBDUJMZDI7OO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HJX2UUEV72LUCK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5R3GKBPGWVMPBY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/T5SQUGJV2NZZ7C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1205823",
+    "name": "TouchGrass",
+    "tagline": "Context-aware break reminders without invasive permissions",
+    "description": "TouchGrass is a context-aware break reminder built for macOS. Most break reminders only know one thing: time. TouchGrass waits through meetings, calls, media playback and screen recordings, counts time away from your Mac as a completed break, and reminds you to blink, improve your posture and rest after long typing sessions. Everything runs locally, never asks for Accessibility permission, and respects your workflow. 7 day free trial, then a one time purchase of $3.99 with lifetime updates.",
+    "website": "https://www.producthunt.com/r/OFM4DSHZYBEP2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/touchgrass-2/launches/touchgrass-2",
+    "ph_product_url": "https://www.producthunt.com/products/touchgrass-2/launches/touchgrass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 376,
+    "featured_at": "2026-07-26T07:01:00Z",
+    "topics": "Health & Fitness, Productivity, Menu Bar Apps",
+    "makers": "touchgrassland",
+    "logo": "https://ph-files.imgix.net/2a4f342e-caaa-47f5-afb2-6c37767922b0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OFM4DSHZYBEP2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1192293",
+    "name": "Kastra",
+    "tagline": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
+    "description": "Kastra is the runtime authorization layer for AI agents. It decides what agents can and cannot do before actions execute, enforcing policies with sub-1 ms latency across tools, prompts, inputs, and outputs. Use one control plane to govern agents and policies across Claude Code, Cursor, Codex, OpenClaw, the Anthropic SDK, the OpenAI SDK, and more. Prevent unauthorized tool use, prompt injection, and exposure of sensitive data before they become incidents. Trust the rules, not the agents.",
+    "website": "https://www.producthunt.com/r/PIAVHXT5GCZFUV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kastra/launches/kastra",
+    "ph_product_url": "https://www.producthunt.com/products/kastra/launches/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 369,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, GitHub, Security",
+    "makers": "[REDACTED], fernando_vintacourt",
+    "logo": "https://ph-files.imgix.net/3d168980-ac1e-45d2-873b-c16d22e5fe51.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/PIAVHXT5GCZFUV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UUU5M7PL6OBIRH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/R74ZTG6T3ICHAI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7TZ7QOIG5SCZCQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": "1211205",
+    "name": "MiniMax H3",
+    "tagline": "Unified video generation for motion design and branding",
+    "description": "MiniMax H3 is an open multimodal model that generates 2K video with native stereo sound. It unifies text, image, and audio inputs, excelling at accurate text rendering, visual packaging, and complex instruction following for commercial content creation.",
+    "website": "https://www.producthunt.com/r/OLTE3UX4QGE277?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/minimax/launches/minimax-h3",
+    "ph_product_url": "https://www.producthunt.com/products/minimax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-31T07:01:00Z",
+    "votes_count": 369,
+    "featured_at": "2026-07-31T07:01:00Z",
+    "topics": "Design Tools, Art, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/e5393711-6392-457f-a3ec-880830655e0d.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OLTE3UX4QGE277?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AFG7BNMANR32HD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1129473",
+    "name": "Agently",
+    "tagline": "Your whole stack, running itself!",
+    "description": "Every other tool answers, retrieves, or runs brittle rules. Agently holds your whole company in context and does the work. 100+ connectors flow into one brain that never forgets. It links a Stripe event to a Slack thread to a Linear ticket on its own. When something needs doing, Jarvis routes it to an agent that runs it end to end: triggered, running, shipped. The work lands without you, nothing falls through the cracks. Connecting takes minutes. The layer between today's AI and tomorrow's AGI.",
+    "website": "https://www.producthunt.com/r/WSQCJVSEX7VIBA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agently/launches/agently-2",
+    "ph_product_url": "https://www.producthunt.com/products/agently/launches/agently-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 366,
+    "featured_at": "2026-07-15T07:01:00Z",
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], ahmadhajj",
+    "logo": "https://ph-files.imgix.net/2c44dbb7-be3c-432f-9138-d2931d70132d.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WSQCJVSEX7VIBA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B7LXRGUAMDOQYB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VN3BVFMFKRNJ27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OVSCUXN3U3I34Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1193118",
+    "name": "Pushary",
+    "tagline": "Approve AI requests from your lock screen",
+    "description": "One command connects your AI agents to your lock screen. When Claude Code, Codex, Cursor, Gemini CLI, Hermes, or Claude Cowork stops to ask, you tap yes from your phone and the run keeps moving. New in this launch: native iPhone and Android apps. Pairing is a QR code you scan from the terminal, no key to paste. Per-tool policies auto-approve the safe reads. Every decision lands in an audit trail.",
+    "website": "https://www.producthunt.com/r/FVVAIY5OGI5VVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pushary/launches/pushary-4",
+    "ph_product_url": "https://www.producthunt.com/products/pushary/launches/pushary-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 366,
+    "featured_at": "2026-07-24T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "aadilghani",
+    "logo": "https://ph-files.imgix.net/dddf6127-54a0-4d3e-854c-6b98ee2f5c5a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FVVAIY5OGI5VVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LVH7RU5NLPSVKO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3WMX4NFC5ZZA5D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OWRTZIOEGUJRUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5AESXNEMTHJMCN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1210439",
+    "name": "Wondering",
+    "tagline": "Duolingo for learning anything",
+    "description": "Wondering is the most delightful way to break down complex topics into knowledge you can remember and apply. Tell it what you want to learn, and it creates a personalized path of short lessons with visuals, podcasts, and interactive exercises. It surfaces the most important ideas and lets you explore them in your own way, like a thoughtful tutor beside you.",
+    "website": "https://www.producthunt.com/r/534DO3AKV4LOCN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/wondering-2/launches/wondering-2",
+    "ph_product_url": "https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 365,
+    "featured_at": "2026-08-04T07:01:00Z",
+    "topics": "Productivity, Education, Audio",
+    "makers": "[REDACTED], aka_kosasih",
+    "logo": "https://ph-files.imgix.net/ae1c1a58-dba1-4b7e-90fa-48c61aaf37c3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/534DO3AKV4LOCN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7VTEYXJTNLA2AH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MDUGHFJVZSSW6G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3DEHXUECAJR5L7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1036558",
+    "name": "Albato AI",
+    "tagline": "Build AI-driven workflows across 1,000+ apps",
+    "description": "Automate smarter with Albato: chat with Albato Copilot to build automations and let AI Agents execute tasks from natural language requests. Plus, visualize workflows with Canvas mode, test individual steps with real data, and share automations easily.",
+    "website": "https://www.producthunt.com/r/POR77IN2OM6IQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/albato/launches/albato-ai",
+    "ph_product_url": "https://www.producthunt.com/products/albato/launches/albato-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 365,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "Artificial Intelligence, No-Code, Tech news",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], mariia_sosnina",
+    "logo": "https://ph-files.imgix.net/6b6e28df-dccc-494b-b244-fd63226b4bd2.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/CME4AX2MJ5Z4DH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/POR77IN2OM6IQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1181486",
+    "name": "Spycost",
+    "tagline": "Fell for a discount again?",
+    "description": "Remember the last time you bought something at a discount, only to see it later for the same price without the discount? Or when the product costs more today than it did yesterday. Did you feel cheated? Are you ready to look behind the screen of manipulation and lies? Spycost helps you see when you’re paying more while thinking you’re paying less. It gives you the full price picture, so you can decide whether it’s actually worth it.",
+    "website": "https://www.producthunt.com/r/GQBVJSAAASPGEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/spycost/launches/spycost-3",
+    "ph_product_url": "https://www.producthunt.com/products/spycost/launches/spycost-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 363,
+    "featured_at": "2026-07-19T07:01:00Z",
+    "topics": "Productivity, Finance, Shopping",
+    "makers": "glebarios",
+    "logo": "https://ph-files.imgix.net/9c884a0a-c029-42a4-bb05-3fa1c9269175.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/GQBVJSAAASPGEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1191307",
+    "name": "Campus",
+    "tagline": "One project space for humans and AI agents",
+    "description": "Campus gives builders a shared space to build with teammates and AI agents. Keep your repo, terminal, project knowledge, conversations, and agent work together in one persistent workspace, instead of scattering context across Slack threads, docs, tickets, canvases, and one-off AI chats. Campus is organized around the thing you are building, so humans and agents can pick up where the work left off.",
+    "website": "https://www.producthunt.com/r/4PXLGX63BG2Y7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/flutterflow/launches/campus-4",
+    "ph_product_url": "https://www.producthunt.com/products/flutterflow/launches/campus-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 363,
+    "featured_at": "2026-07-15T07:01:00Z",
+    "topics": "Productivity, Software Engineering, Developer Tools",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], kate_usher2",
+    "logo": "https://ph-files.imgix.net/f00d0948-3886-474b-870c-48e89e8b2fb3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UCSIXHVOJU2TMH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KVW2DU6YN2OANH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4PXLGX63BG2Y7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1199424",
+    "name": "oqoqo",
+    "tagline": "Build evals and custom benchmarks for real-world tasks",
+    "description": "Run eval experiments at scale in realistic environments. Define custom task sets to build your private benchmarks, measure how well agents can use any product, and find best models for your use cases. Generate dynamic insights to detect frictions in product interfaces or token inefficiencies.",
+    "website": "https://www.producthunt.com/r/HURZKMJEK6FWXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/oqoqo/launches/oqoqo",
+    "ph_product_url": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 361,
+    "featured_at": "2026-08-10T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], raokarthik99",
+    "logo": "https://ph-files.imgix.net/0deb4817-74da-44d3-a52d-6748ee99d445.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HURZKMJEK6FWXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/E54CCY6IMXMLD5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1212015",
+    "name": "Capptivo",
+    "tagline": "Free open-source screen recorder & demo editor",
+    "description": "Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux. Record locally, add follow-cursor zooms, polish the look, burn on-device captions, and export, no account, no subscription. Give your demos the spotlight they deserve.",
+    "website": "https://www.producthunt.com/r/4DHHOKGIDD7PW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/capptivo/launches/capptivo",
+    "ph_product_url": "https://www.producthunt.com/products/capptivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 354,
+    "featured_at": "2026-08-02T07:01:00Z",
+    "topics": "Open Source, Developer Tools, GitHub, Video",
+    "makers": "idboussadel",
+    "logo": "https://ph-files.imgix.net/f6d382dd-f39d-47b9-92c1-de14b5a52036.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/27ZXS6J4ZZVDZW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EQQANQQLPQ6ASZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4DHHOKGIDD7PW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5BJCZQYJFPFDGQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2IHKDIWAIZFEFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1138570",
+    "name": "Denovo",
+    "tagline": "Turn your vibe-coded app into paying customers",
+    "description": "You vibe-coded your app. Now what? 🤔 AI makes building easy, but getting customers is the hard part. Denovo takes you straight from idea to revenue. 💸 Get a ready-to-convert website with Stripe pre-wired, plus an automated growth engine sending emails to 100M leads and setting up your Meta ads campaigns. 🚀 Just ask \"how's business?\" for your revenue and next steps. 15,000+ businesses built here. Yours is one line away.",
+    "website": "https://www.producthunt.com/r/N632XKIQZO65KB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/denovo-business-manager/launches/denovo-2",
+    "ph_product_url": "https://www.producthunt.com/products/denovo-business-manager/launches/denovo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 344,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Sales, Marketing, Software Engineering",
+    "makers": "saverio_pulizzi3",
+    "logo": "https://ph-files.imgix.net/93aac7bb-d5a6-4c32-8611-7018fabe2faa.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/N632XKIQZO65KB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZW6JZYOHM7DIUW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1185996",
+    "name": "PodcastorAI",
+    "tagline": "Your AI twin hosts your video podcast",
+    "description": "Create studio-quality video podcasts from scripts, links, PDFs, or ideas — with AI hosts, natural voices, and your digital twin. Podcastor handles production and puts you on screen, turning hours of recording and editing into a finished video podcast in around 15 minutes. Create solo or two-host episodes and get a publish-ready video without cameras or a production team. Already have an audio episode? Upload it and transform it into a video podcast with your voice and AI avatar.",
+    "website": "https://www.producthunt.com/r/WE6FPUEOFTA4RI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/podcastorai/launches/podcastorai",
+    "ph_product_url": "https://www.producthunt.com/products/podcastorai/launches/podcastorai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 344,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Social Media, Marketing, YouTube, OpenAI Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], tineee9",
+    "logo": "https://ph-files.imgix.net/1848fbb1-c9d9-4d11-b2e9-976b9e6a46a2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WE6FPUEOFTA4RI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LMR6DPBJZ3WEJE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6KRRYJBFSQOTWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1218300",
+    "name": "VoiceOS App Store",
+    "tagline": "The app store for voice native apps that lives in your notch",
+    "description": "The App Store for your voice, where building takes one sentence. Describe what you want \"Create an app to help me to journal\" and VoiceOS creates the app for you. Share it as a link and anyone can install it in a click.",
+    "website": "https://www.producthunt.com/r/RAQNCR3ER46NG2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/voiceos/launches/voiceos-app-store",
+    "ph_product_url": "https://www.producthunt.com/products/voiceos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 343,
+    "featured_at": "2026-08-09T07:01:00Z",
+    "topics": "Productivity, Audio",
+    "makers": "[REDACTED], kai_brokering",
+    "logo": "https://ph-files.imgix.net/5ba877fa-50ba-420e-a38c-2fb7e01096c6.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/K46UVIFUF2TUDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RAQNCR3ER46NG2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7XDKVJL6HTMKOS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1196885",
+    "name": "Rerun",
+    "tagline": "The easiest way to build AI agents for all your tasks",
+    "description": "Most AI agents are black boxes. Rerun isn't. Build no-code agents that run 24/7, chasing invoices, qualifying leads, clearing your inbox, and watch every step in real time. They pause for approval before anything sensitive. Each workspace gets its own private server. Start with the included model, or connect your own API key or subscription",
+    "website": "https://www.producthunt.com/r/XYR6JX4GTXPF64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/rerun-2/launches/rerun-3",
+    "ph_product_url": "https://www.producthunt.com/products/rerun-2/launches/rerun-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 341,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "Tech, Marketing automation",
+    "makers": "[REDACTED], [REDACTED], theolouro",
+    "logo": "https://ph-files.imgix.net/34fd0381-e1a2-487e-8d2d-74bb47d4de5f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KRNNI43GVDXF2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XYR6JX4GTXPF64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1205639",
+    "name": "Heard",
+    "tagline": "Give Claude Code and Codex a voice",
+    "description": "Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns their output into intelligent summaries you can hear. Full commentary when your eyes are elsewhere, or silence until something errors or needs a decision. With agents run in parallel, Heard summarizes at the project level, so you hear where the work stands, not five terminals talking over each other. Pair your phone and it comes with you. Open source, free for personal use.",
+    "website": "https://www.producthunt.com/r/HOUL4RGO5V5BZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/heard-2/launches/heard-3",
+    "ph_product_url": "https://www.producthunt.com/products/heard-2/launches/heard-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 336,
+    "featured_at": "2026-07-25T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], cruise_chen",
+    "logo": "https://ph-files.imgix.net/b2af7a62-66d5-4d9e-bc95-41479b1eb744.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HOUL4RGO5V5BZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4FGZTLZETNPD75?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/644MME2E4NCDGT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1211631",
+    "name": "DeepSeek-V4-Flash-0731",
+    "tagline": "Frontier agent intelligence at Flash prices",
+    "description": "DeepSeek-V4-Flash-0731 is the official release of V4-Flash, featuring a massive leap in agentic capabilities. It outperforms V4-Pro (Preview) on key benchmarks, natively supports the Responses API, and is fully adapted for Codex CLI.",
+    "website": "https://www.producthunt.com/r/DHPDMPFRNHBRJQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/deepseek/launches/deepseek-v4-flash-0731",
+    "ph_product_url": "https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-01T07:01:00Z",
+    "votes_count": 336,
+    "featured_at": "2026-08-01T07:01:00Z",
+    "topics": "API, Open Source, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/9d823c04-85e6-4010-a80e-52c793e0e20b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/DHPDMPFRNHBRJQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Hugging Face"
+      },
+      {
+        "url": "https://www.producthunt.com/r/H63HPVWC6IP63R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RC367MZGPWUYJM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OPEWWQV4NXL6M4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1204933",
+    "name": "ngrok AI Gateway",
+    "tagline": "One private gateway for every AI model",
+    "description": "ngrok AI Gateway provides one hosted gateway for every model: public providers, custom endpoints, and the models you run yourself. Use one key and one URL to route across OpenAI, Anthropic, and self-hosted models with observability, access control, and fallbacks built in. Your private models connect through ngrok’s network, so they sit beside hosted providers without being exposed to the public internet.",
+    "website": "https://www.producthunt.com/r/HRVA5S3NHPLDDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ngrok-ai-gateway/launches/ngrok-ai-gateway",
+    "ph_product_url": "https://www.producthunt.com/products/ngrok-ai-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 334,
+    "featured_at": "2026-08-05T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], jszalay",
+    "logo": "https://ph-files.imgix.net/cdcb4ae6-e913-4bb4-8dc1-3f476b9b24fe.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IHP2QWY2XT346Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HRVA5S3NHPLDDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1052113",
+    "name": "NINA",
+    "tagline": "Guide users step by step inside your product.",
+    "description": "NINA lives inside your product and helps users exactly where they get stuck. They ask “How do I…?” by voice or text, and NINA guides them step by step on the live interface before they open a ticket, search documentation, or message support. It is not a scripted tour, chatbot, or FAQ. NINA is built for B2B SaaS teams still relying on onboarding calls, product videos, Slack channels, and repeated support answers.",
+    "website": "https://www.producthunt.com/r/NKDYVHNHKYNZ5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agenq-nina-ai-product-assistant/launches/nina-5",
+    "ph_product_url": "https://www.producthunt.com/products/agenq-nina-ai-product-assistant/launches/nina-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 334,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Customer Success, User Experience, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], nchan",
+    "logo": "https://ph-files.imgix.net/8f171449-e35d-4ef7-98c1-0387d7c1be54.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7XO5CLHLU4G7BP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NKDYVHNHKYNZ5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6YCLR5EKC4BRA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1219199",
+    "name": "Kane CLI",
+    "tagline": "Natural language browser & mobile app tests from terminal",
+    "description": "An agentic quality verifier for developers and AI coding agents. Describe a test in natural language, and Kane CLI runs it in a real Chrome browser and returns pass or fail with shareable proof. No selectors to write. Local-first, free to start.",
+    "website": "https://www.producthunt.com/r/3OE7IF5ZP7LPWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2",
+    "ph_product_url": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 327,
+    "featured_at": "2026-08-13T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], shantanuwali23",
+    "logo": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7U6UBVRFIOQ3GA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6KAGPUJZFYHOPY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3OE7IF5ZP7LPWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DNAHOLFDT3FIIE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YK7OFHFMY5RGC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1136694",
+    "name": "BetterClaw",
+    "tagline": "Deploy AI Agent, 60 seconds & $0 forever ",
+    "description": "BetterClaw is a no-code platform for building AI agents that run on a schedule without you. Connect Gmail, Slack, or Telegram, and your agent triages inbox, sends morning briefings, or monitors what you care about. Agents start as Interns that ask before acting. Bring your own AI key and it's genuinely $0.",
+    "website": "https://www.producthunt.com/r/RSXEQOXULUOFQR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/betterclaw/launches/betterclaw",
+    "ph_product_url": "https://www.producthunt.com/products/betterclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 324,
+    "featured_at": "2026-08-11T07:01:00Z",
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], harshit_bhardwaj2",
+    "logo": "https://ph-files.imgix.net/8cf47c69-58ee-4b4b-9781-453ffbbf4fbe.gif?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RSXEQOXULUOFQR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OO4TWYL4STMVSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JYHPFXNMVWXATG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Reddit"
+      }
+    ]
+  },
+  {
+    "id": "1209876",
+    "name": "Portfolio Lab",
+    "tagline": "AI investing, done responsibly",
+    "description": "AI made building investment strategies easy. Telling a good one from a lucky one still takes expertise. Portfolio Lab is the responsible AI investing platform: every strategy is tested on unseen data and in live markets. Connect your agent to deploy only vetted strategies in your own brokerage account. SEC-registered.",
+    "website": "https://www.producthunt.com/r/O2BNSCSAU5BUCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/portfolio-lab/launches/portfolio-lab-2",
+    "ph_product_url": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 317,
+    "featured_at": "2026-08-10T07:01:00Z",
+    "topics": "Productivity, Investing, Artificial Intelligence",
+    "makers": "rich_sun",
+    "logo": "https://ph-files.imgix.net/30ecf177-3f96-4195-bb1c-0fb549c3b0b8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/O2BNSCSAU5BUCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1210454",
+    "name": "SoloUno",
+    "tagline": "Take control of hair pulling, nail biting & skin picking",
+    "description": "SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting. Inspired by Habit Reversal Training, CBT, and ACT, it works as a gamified self-help tool. You progress by achieving small daily wins: habit-free challenges and streaks, quick habit logging, trigger analysis, and urge-acceptance sessions. No shame - just steady progress.",
+    "website": "https://www.producthunt.com/r/XAIWIH5Z6NGPYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/solouno/launches/solouno",
+    "ph_product_url": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 313,
+    "featured_at": "2026-08-09T07:01:00Z",
+    "topics": "Android, iOS, Health",
+    "makers": "omer_bialer",
+    "logo": "https://ph-files.imgix.net/24d34406-7124-4fdd-810c-5ac4f5a61034.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XAIWIH5Z6NGPYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4VTZ3ULFJDZH4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TFCURTNFDAWEXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MWGBJS7USQ573V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4ZOGNEVYYNNMWX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DFIIUOTAPR7CZN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EI2DGRJOOXQ56U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TXXSGC3TTTYOBC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1211493",
+    "name": "NudgeForMe",
+    "tagline": "AI follow-up agent for missed email opportunities",
+    "description": "NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox. It starts in draft mode, so you stay in control. You can review each opportunity, select the useful ones, and send from Gmail, Outlook, or IMAP/SMTP. Built by the Snoooz team after processing millions of emails, NudgeForMe is focused on one painful workflow: making sure leads, deals, partnerships, and customer conversations do not quietly go cold.",
+    "website": "https://www.producthunt.com/r/G2YNDDYM6FTUFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/nudgeforme/launches/nudgeforme",
+    "ph_product_url": "https://www.producthunt.com/products/nudgeforme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-01T07:01:00Z",
+    "votes_count": 312,
+    "featured_at": "2026-08-01T07:01:00Z",
+    "topics": "Email, Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], victoria_dash",
+    "logo": "https://ph-files.imgix.net/136f1435-260c-4135-9c5f-54ac923d5f78.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/G2YNDDYM6FTUFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1195868",
+    "name": "Skippr AI",
+    "tagline": "The live AI employee inside your product, serving every user",
+    "description": "Real-time agents that see, talk, and operate software. They onboard, activate, and unblock your users. On their own. Skippr agents keep agenda and memory across full sessions, speak 10 languages, and act on screen with built-in browser automation. Fully self-serve: spin up an agent in minutes, embed with 2 lines of code, or share a meeting link. Trained on your knowledge, styled to your brand. 200 free credits to start, no card required. Talk to me for the deeper enterprise version.",
+    "website": "https://www.producthunt.com/r/BR76ZLZHNBMYUU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/skippr-3/launches/skippr-ai",
+    "ph_product_url": "https://www.producthunt.com/products/skippr-3/launches/skippr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 312,
+    "featured_at": "2026-07-20T07:01:00Z",
+    "topics": "Customer Success, User Experience, Artificial Intelligence",
+    "makers": "[REDACTED], niv_gold",
+    "logo": "https://ph-files.imgix.net/0614f939-eaa1-4fdc-8a4a-6b56e3aeebbb.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BR76ZLZHNBMYUU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7ZNSUV6FBSPTTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/47CMJTFYVLAK3X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/J2CN6G6MJOQ5EN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": "1196518",
+    "name": "AI Spend Console by Rippling",
+    "tagline": "Track your AI spend and connect it to business outcomes",
+    "description": "AI Spend Console gives Finance and Engineering leaders one place to track AI spend across tools (such as Claude and Cursor) and connect it to business outcomes. Break costs down by vendor, model, or employee, then connect spend to GitHub output data like pull request volume and the # of code revisions. You can get started for free–no Rippling subscription required.",
+    "website": "https://www.producthunt.com/r/IOEQDSIXPR4LF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/rippling/launches/ai-spend-console-by-rippling",
+    "ph_product_url": "https://www.producthunt.com/products/rippling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 309,
+    "featured_at": "2026-08-06T07:01:00Z",
+    "topics": "Artificial Intelligence, Data & Analytics, Finance",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], lkroll",
+    "logo": "https://ph-files.imgix.net/53c0c89f-1ce9-435a-9cce-8ffb70118915.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IOEQDSIXPR4LF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Y2T2DFCVCV2XEV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1204238",
+    "name": "CrawlRaven",
+    "tagline": "SEO Hub for GSC + GA4 + a 200-point crawl",
+    "description": "Connect Google Search Console, Google Analytics, import your Ahrefs or Semrush lists, and crawl your site on 200-point technical SEO Audit. CrawlRaven joins all four and hands back a ranked plan: what to write, what to update, what to fix first.",
+    "website": "https://www.producthunt.com/r/STGKKHUMPHMMK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/crawlraven/launches/crawlraven",
+    "ph_product_url": "https://www.producthunt.com/products/crawlraven/launches/crawlraven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 308,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Marketing, SEO, Search, OpenAI Day",
+    "makers": "[REDACTED], aditi_chaturvedi",
+    "logo": "https://ph-files.imgix.net/e9cd3d76-0542-4e24-a3c2-ee2f38d9f9a0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/STGKKHUMPHMMK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1197378",
+    "name": "Fluree AI",
+    "tagline": "Give every AI agent trusted context",
+    "description": "Fluree AI gives every app and AI agent the same trusted context from your company data. Ask questions and get cited, verifiable answers from one live data layer, with permissions checked on every request. Instead of rebuilding prompts or relying on RAG guesses, Fluree queries structured data directly and connects to MCP-ready agents, dashboards, and apps in minutes.",
+    "website": "https://www.producthunt.com/r/Y6SGXQZUGTMKAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/fluree/launches/fluree-ai",
+    "ph_product_url": "https://www.producthunt.com/products/fluree/launches/fluree-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 306,
+    "featured_at": "2026-07-24T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, Data",
+    "makers": "bplatz, kevin_doubleday",
+    "logo": "https://ph-files.imgix.net/3a826c18-26d9-40cd-b332-9c5cc7e4f2ea.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/Y6SGXQZUGTMKAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FRPXJLZ7YYQF6I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/R4MMZ7CYLHHP2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7HM2EUVZEHK6QQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1195137",
+    "name": "Loova Ads Studio",
+    "tagline": "Create AI ads that convert, not just look good",
+    "description": "Loova Ads Studio is an all-in-one AI ad studio that creates UGC videos, product commercials, avatar videos, and static creatives. Built for conversions, not just visuals, it helps brands and agencies make high-performing ads for under $2 each.",
+    "website": "https://www.producthunt.com/r/7WSRFJ4UO3U5WQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/loova-agents/launches/loova-ads-studio",
+    "ph_product_url": "https://www.producthunt.com/products/loova-agents/launches/loova-ads-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 306,
+    "featured_at": "2026-07-20T07:01:00Z",
+    "topics": "Marketing, Advertising, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], thea_coco",
+    "logo": "https://ph-files.imgix.net/058eaf05-8041-4782-a657-e567a7da18e8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7WSRFJ4UO3U5WQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BCESSFDTNQB6NC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1157021",
+    "name": "Clark",
+    "tagline": "An AI coworker with its own cloud computer",
+    "description": "Clark is an AI coworker with its own cloud computer - browser, terminal, files, and code. Hand it a real task, close the tab, and come back to finished work: wide, sourced research; websites; spreadsheets; decks; audits; or tested code. It can fan work out to parallel specialists, run on a schedule, and return artifacts with the evidence behind them. Use Clark on web or mobile, work in real repositories with Clark Code, or embed the agent through an OpenAI-compatible API.",
+    "website": "https://www.producthunt.com/r/YDCFYTSZJ66D6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/clark-agent/launches/clark-8",
+    "ph_product_url": "https://www.producthunt.com/products/clark-agent/launches/clark-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 305,
+    "featured_at": "2026-07-18T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "stanislav_kirdey",
+    "logo": "https://ph-files.imgix.net/84341329-a328-4857-9d47-4ba180352bfd.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/3VATDXGADUN42R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YDCFYTSZJ66D6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KPOFOP6HBKTIOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TYKX3I2S4JBSBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1208194",
+    "name": "/mission for Claude Code",
+    "tagline": "Give Claude Code missions to spawn a team of agents",
+    "description": "Medley is a free Claude Code plugin for work bigger than one session. Type /mission to turn an outcome into a live graph, coordinate Claude Code and Codex workers, review the result, and keep going. BYOK via OpenRouter for Kimi, GLM, and more.",
+    "website": "https://www.producthunt.com/r/P3XBZI4J2DWVBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/spine-2/launches/mission-for-claude-code",
+    "ph_product_url": "https://www.producthunt.com/products/spine-2/launches/mission-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 305,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], budhkarakshay",
+    "logo": "https://ph-files.imgix.net/8c5430f5-834a-4f5a-94e6-cb3c0d0383db.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/P3XBZI4J2DWVBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1197935",
+    "name": "Kobbe",
+    "tagline": "Privacy-friendly web analytics with traffic and revenue.",
+    "description": "Privacy-friendly and cookie-less analytics for your website. Traffic, pages, sources, revenue and funnels. Private by default. Set up in seconds.",
+    "website": "https://www.producthunt.com/r/B2O6SVSYZAAX5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kobbe/launches/kobbe",
+    "ph_product_url": "https://www.producthunt.com/products/kobbe/launches/kobbe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 302,
+    "featured_at": "2026-07-19T07:01:00Z",
+    "topics": "Analytics, Marketing",
+    "makers": "michael_andreuzza",
+    "logo": "https://ph-files.imgix.net/5b1ff6ea-21a5-4b80-b8b7-98cfa6f3b637.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B2O6SVSYZAAX5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5557FWIBLVWGY6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KMYLILEPGGQX3Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1203314",
+    "name": "FluentDB",
+    "tagline": "The AI database client for Mac",
+    "description": "FluentDB is an AI-powered database client for macOS. It supports PostgreSQL, MySQL, SQLite, SQL Server, with more coming soon. Built for speed, simplicity, and security, it works with Anthropic and OpenAI using your own API keys or Claude Code/Codex subscriptions, and with local models via Ollama. Your data never leaves your machine without your approval: models see your schema, not your data, and every AI-generated SQL query requires approval by default.",
+    "website": "https://www.producthunt.com/r/XDHRXK2IKT3XVD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/fluentdb-2/launches/fluentdb-2",
+    "ph_product_url": "https://www.producthunt.com/products/fluentdb-2/launches/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 301,
+    "featured_at": "2026-07-25T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "kevin_piacentini",
+    "logo": "https://ph-files.imgix.net/822f9a5c-934d-4023-87c2-785c36ec71f5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XDHRXK2IKT3XVD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UK7LGANF2264TY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NL4KTUC5AV423E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1190090",
+    "name": "ZooData",
+    "tagline": "The data layer for AI agents",
+    "description": "ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown. Use ~75% fewer LLM tokens, pay only for the fields you use, and skip extra extraction credits.Beyond extraction, ZooData gives agents pre-analyzed e-commerce intelligence — competitor, market, traffic, and consumer insights — live for Amazon and TikTok. API, CLI, and MCP server included. Start with 1,000 free credits, no card required.",
+    "website": "https://www.producthunt.com/r/2S6BVJ6IPXLOG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zoodata/launches/zoodata-3",
+    "ph_product_url": "https://www.producthunt.com/products/zoodata/launches/zoodata-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 300,
+    "featured_at": "2026-07-18T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, E-Commerce",
+    "makers": "[REDACTED], [REDACTED], david_srp",
+    "logo": "https://ph-files.imgix.net/0e4b3e5e-3b1e-40f9-bacc-87e0610a77a3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/2S6BVJ6IPXLOG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GSKUZTU2FUBYRS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XF2W5KI3WMIXSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1202911",
+    "name": "Airtop for Google Ads Automation",
+    "tagline": "Build campaigns, optimize spend, and create reports.",
+    "description": "Airtop builds, monitors, and optimizes your Google Ads campaigns from a conversation. Keyword research, campaign creation, waste audits, and performance reporting — no expertise required.",
+    "website": "https://www.producthunt.com/r/JGYVC4OPVU532G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/airtop/launches/airtop-for-google-ads-automation",
+    "ph_product_url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 296,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "Marketing, Advertising, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], lordique",
+    "logo": "https://ph-files.imgix.net/4034cd6b-12cc-41c7-bfae-16ebed6abd10.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/JGYVC4OPVU532G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/N7P4CHTUGQI5CU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YOBV2OTTZJU6ST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1207991",
+    "name": "Cleanlist AI",
+    "tagline": "Natural-language prospecting: find, enrich and sync leads.",
+    "description": "Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list. Upload a CSV, paste LinkedIn or Sales Navigator URLs, add domains, or use search filters, then let AI agents enrich contacts, verify emails, research each lead, and sync the final list to your CRM. With a 15-provider enrichment waterfall, AI research columns, and one-click CRM sync, Cleanlist helps GTM teams build lists without stitching together six tools.",
+    "website": "https://www.producthunt.com/r/HHVI7RICWYWVFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cleanlist-ai/launches/cleanlist-ai-3",
+    "ph_product_url": "https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-31T07:01:00Z",
+    "votes_count": 292,
+    "featured_at": "2026-07-31T07:01:00Z",
+    "topics": "Sales, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], msanvarov",
+    "logo": "https://ph-files.imgix.net/9adeb48f-9caa-4a8b-9fb3-d6565eb88c93.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HHVI7RICWYWVFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FYFMFQEUELN4KB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Chrome"
+      }
+    ]
+  },
+  {
+    "id": "1202391",
+    "name": "AskCodi",
+    "tagline": "Orchestrate agents at scale while reducing cost",
+    "description": "Tell Codi what you want to build. It writes the plan, runs AI agents in parallel across all your projects, and picks the cheapest model that can do each task, so you ship more and spend less. When you add a project it writes the charter and task list itself, and only pulls you in when a decision needs you, through one inbox.",
+    "website": "https://www.producthunt.com/r/YSTXP3TVBSINLZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/askcodi/launches/askcodi-3",
+    "ph_product_url": "https://www.producthunt.com/products/askcodi/launches/askcodi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 292,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Mac, Productivity, Artificial Intelligence, OpenAI Day",
+    "makers": "[REDACTED], sachinsharma",
+    "logo": "https://ph-files.imgix.net/24ed79f3-d5e6-4c05-aece-9ce7e049029b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YSTXP3TVBSINLZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7HOBFCSVDPXH23?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1195442",
+    "name": "Robynn AI",
+    "tagline": "Websites that improve and heal with self-learning",
+    "description": "Your website starts decaying the day it ships. Broken links, stale pages, slipping rankings, invisible to ChatGPT. Robynn connects to your live site — no rebuild, no migration. It audits every page against your brand, ICP, and competitors, then proposes evidence-backed fixes. Point at any element, describe a change in plain English. Agents stage it, you approve, Robynn publishes and measures what moved in GA. Wins get reinforced. Regressions roll back. First audit is free.",
+    "website": "https://www.producthunt.com/r/W2RTSYZ2NVMVFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites/launches/robynn-ai-2",
+    "ph_product_url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites/launches/robynn-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 290,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Marketing, SEO, Website Builder",
+    "makers": "[REDACTED], [REDACTED], zerotox",
+    "logo": "https://ph-files.imgix.net/c8c7132c-3f7c-4d42-9bed-248ff97223e3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/W2RTSYZ2NVMVFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TV2UBMVITF2F4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HTBTKYGXGRASEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EIXU6HXVD2CAJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1213396",
+    "name": "Qwen3.8-Max",
+    "tagline": "Qwen’s most capable model for coding and cowork",
+    "description": "Qwen3.8-Max is Qwen’s most capable model to date, a 2.4T-parameter MoE with 95B active parameters, 1M context, and multimodal agent capabilities for coding, research, cowork, and long-horizon tasks.",
+    "website": "https://www.producthunt.com/r/52KS36OISXU6BD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/qwen3/launches/qwen3-8-max",
+    "ph_product_url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 290,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "Productivity, API, Artificial Intelligence",
+    "makers": "chen_cheng1",
+    "logo": "https://ph-files.imgix.net/fe882c3d-cbc0-4ae5-b5c3-7064e095d3f5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/52KS36OISXU6BD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1204836",
+    "name": "Ito",
+    "tagline": "AI code review that runs your code",
+    "description": "Ito is an AI code review tool that runs your app before it reviews the code. For every pull request, Ito spins up an ephemeral environment, validates impacted flows, and returns runtime evidence so teams can catch bugs that static analysis and model-only reviewers miss. Instead of guessing from diffs, Ito shows what actually broke, where it happened, and why it matters before the PR reaches production.",
+    "website": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6",
+    "ph_product_url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 289,
+    "featured_at": "2026-08-13T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], vitaliyirtlach",
+    "logo": "https://ph-files.imgix.net/477fa9cf-bd31-4c46-8944-3888ffac3925.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YSPQ7IXND736W6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D6ALDGKPG5N5OR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RTEYGWRKDEKPJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1210682",
+    "name": "Superlog Responder",
+    "tagline": "Free, open-source AI bug-fixing agent",
+    "description": "Responder is an AI bug-fixing agent that plugs into the Sentry or Datadog Slack channel you already run. One-click synch, no new telemetry to install. On every alert it investigates with full context, filters out the noise, and for real issues replies right in the thread with the root cause, the evidence, and a mergeable PR. Prompts, memory, repo access, and escalation rules are fully customizable, so you're building your own debugging agent, not renting ours.",
+    "website": "https://www.producthunt.com/r/ZQ6HSC2C5GBU6O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/superlog/launches/superlog-responder",
+    "ph_product_url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 289,
+    "featured_at": "2026-08-06T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], arseniy_shishaev1",
+    "logo": "https://ph-files.imgix.net/f5e16691-e739-48ba-9494-535f6a7ac36c.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/JFYWAKJFHINCCC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZMF6EYONKD3ROF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZQ6HSC2C5GBU6O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/73SWXA5JTQG7W2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": "1216176",
+    "name": "AstraPixels",
+    "tagline": "​​A pixel-art solar system at its real current positions.​",
+    "description": "An animated pixel-art map of the solar system with every body at its real current position, computed from published orbital elements rather than copied from a list. Zoom from the Sun to the Kuiper belt, browse 171 catalogued objects with sourced facts, and see what the sky is doing for the next six months. Every rock is also for sale: claim an asteroid for $5, keep it forever, name it whatever you like. A name here is shown on AstraPixels only, and is not an IAU designation.",
+    "website": "https://www.producthunt.com/r/6BOFNHUVVMY6Q6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/astrapixels/launches/astrapixels",
+    "ph_product_url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 285,
+    "featured_at": "2026-08-08T07:01:00Z",
+    "topics": "Web App, Art, Advertising",
+    "makers": "nicklaunches",
+    "logo": "https://ph-files.imgix.net/2849f813-bd82-4704-bea6-992e43ca7a35.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AMUKHIDIAOPZGI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6BOFNHUVVMY6Q6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  },
+  {
+    "id": "1195830",
+    "name": "Crustdata Recruiter",
+    "tagline": "Claude Skills to turn Claude into a 100x Recruiter",
+    "description": "A set of recruiting skills that runs inside Claude on live data from 1B+ profiles from Crustdata. It learns your judgement with every search, ranks candidates the way you would, explains every candidate it picks, and drafts outreach into your ATS.",
+    "website": "https://www.producthunt.com/r/YCK7VIOU7L23EU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/crustdata-2/launches/crustdata-recruiter",
+    "ph_product_url": "https://www.producthunt.com/products/crustdata-2/launches/crustdata-recruiter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 285,
+    "featured_at": "2026-07-15T07:01:00Z",
+    "topics": "Hiring, Artificial Intelligence, Tech",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], mhimed_crustdata",
+    "logo": "https://ph-files.imgix.net/86c6a32c-14bc-454a-8d97-b04065d688c9.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YCK7VIOU7L23EU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IDU6OAR7HJMH6R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JGVEWY5DY2DVUO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1219999",
+    "name": "Xirp",
+    "tagline": "The agentic development environment built by Spotify",
+    "description": "The agentic development environment with institutional memory. Xirp connects to your services, ownership, docs, and architectural decisions so every session starts with real context. Powered by Spotify Portal.",
+    "website": "https://www.producthunt.com/r/WHZFBNTY35M434?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/spotify/launches/xirp",
+    "ph_product_url": "https://www.producthunt.com/products/spotify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 283,
+    "featured_at": "2026-08-11T07:01:00Z",
+    "topics": "Spotify, Developer Tools, Bots",
+    "makers": "gustav_soderstrom",
+    "logo": "https://ph-files.imgix.net/e73bc4ff-88f7-439a-8ae1-d99a5f1af74b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YMUZAIYPOREABB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/J3JZYS5VLUNJRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WHZFBNTY35M434?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GCDI66IWDZMGJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1210872",
+    "name": "mectrics",
+    "tagline": "Your Mac's vitals in the menu bar. Free and open source.",
+    "description": "CPU, memory, battery, network, disk, GPU, temperature and fans in your menu bar. You pick which ones show, and a click opens the detail behind it. Compact Health folds the whole machine into one item that stays quiet until something's off. MIT, macOS 15+.",
+    "website": "https://www.producthunt.com/r/D3NVQE57DZHHH4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/mectrics/launches/mectrics",
+    "ph_product_url": "https://www.producthunt.com/products/mectrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-31T07:01:00Z",
+    "votes_count": 283,
+    "featured_at": "2026-07-31T07:01:00Z",
+    "topics": "Mac, Open Source, Menu Bar Apps",
+    "makers": "faruk_kamcici",
+    "logo": "https://ph-files.imgix.net/8d54f030-0b2c-4ce9-bd19-8dd87d99bb97.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/D3NVQE57DZHHH4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FBFXWHYYOWJGFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ]
+  },
+  {
+    "id": "1203801",
+    "name": "The new Firecrawl /search",
+    "tagline": "Our most accurate Search API for AI agents.",
+    "description": "Search is how AI agents ground themselves in the web, but reading full pages for every query burns tokens fast. We trained a model that returns the excerpts from each /search result that best answer your query, giving your AI agents highly relevant context from every page. It outperforms processing full pages while using 10x fewer tokens. On SimpleQA, AI agents using Firecrawl /search now score 94.7%, higher than any other provider. It's live today on every /search call.",
+    "website": "https://www.producthunt.com/r/H7JTV6NB7D5IKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/extract-by-firecrawl/launches/the-new-firecrawl-search",
+    "ph_product_url": "https://www.producthunt.com/products/extract-by-firecrawl/launches/the-new-firecrawl-search?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 280,
+    "featured_at": "2026-07-24T07:01:00Z",
+    "topics": "Developer Tools, Search",
+    "makers": "[REDACTED], [REDACTED], nickscamara",
+    "logo": "https://ph-files.imgix.net/eed71365-67aa-4375-b90e-8ef52205ae2b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/H7JTV6NB7D5IKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FWT2WOMW4VNBJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IYXFGKY7V4JFJT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UXQJCX4OT4IRRP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ]
+  },
+  {
+    "id": "1214908",
+    "name": "Cloudflare Wallets",
+    "tagline": "the programmable wallet for the agentic Internet",
+    "description": "Cloudflare Wallets introduces a programmable wallet layer for the agentic Internet. Built for the future where AI agents can discover, use, and pay for services autonomously, it gives agents a secure way to transact with APIs, content, and digital services. With virtual wallets, spending controls, and machine-friendly payments, Cloudflare is building the financial infrastructure for the next generation of AI applications.",
+    "website": "https://www.producthunt.com/r/43G6HRJWDP5SWK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cloudflare/launches/cloudflare-wallets",
+    "ph_product_url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 278,
+    "featured_at": "2026-08-05T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/33DXOGCEHA4BRK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/O4BGSNUKHJKFET?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/43G6HRJWDP5SWK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ]
+  }
+]

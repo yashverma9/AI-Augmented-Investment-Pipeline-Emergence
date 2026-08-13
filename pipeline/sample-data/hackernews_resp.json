@@ -1,0 +1,944 @@
+{
+    "exhaustive": {
+        "nbHits": false,
+        "typo": false
+    },
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": false,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "whatok"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Amazon to Acquire Whole <em>Foo</em>ds for $13.7B"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-buy-whole-<em>foo</em>ds?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social"
+                }
+            },
+            "_tags": ["story", "author_whatok", "story_14568468"],
+            "author": "whatok",
+            "children": [
+                14568482, 14568523, 14568535, 14568538, 14568539, 14568585,
+                14568589, 14568592, 14568593, 14568611, 14568616, 14568625,
+                14568635, 14568637, 14568645, 14568647, 14568648, 14568666,
+                14568669, 14568708, 14568736, 14568746, 14568755, 14568776,
+                14568826, 14568828, 14568898, 14568908, 14568918, 14568922,
+                14568937, 14568952, 14568974, 14568997, 14569005, 14569042,
+                14569043, 14569047, 14569140, 14569142, 14569182, 14569285,
+                14569317, 14569328, 14569356, 14569357, 14569380, 14569516,
+                14569527, 14569585, 14569603, 14569641, 14569690, 14569730,
+                14569747, 14569808, 14569818, 14569908, 14569957, 14569979,
+                14570019, 14570083, 14570086, 14570092, 14570107, 14570137,
+                14570151, 14570164, 14570339, 14570375, 14570407, 14570441,
+                14570534, 14570577, 14570618, 14570621, 14570661, 14570773,
+                14570865, 14570877, 14570919, 14571165, 14571375, 14571717,
+                14571779, 14571971, 14572390, 14572537, 14572603, 14573095,
+                14573174, 14573356, 14573760, 14574301, 14577409
+            ],
+            "created_at": "2017-06-16T13:03:09Z",
+            "created_at_i": 1497618189,
+            "num_comments": 824,
+            "objectID": "14568468",
+            "points": 1687,
+            "story_id": 14568468,
+            "title": "Amazon to Acquire Whole Foods for $13.7B",
+            "updated_at": "2026-05-10T00:05:06Z",
+            "url": "https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-buy-whole-foods?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "knaik94"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Google Drive of historical <em>foo</em>tage locked and flagged as terrorist activity"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en"
+                }
+            },
+            "_tags": ["story", "author_knaik94", "story_28621412"],
+            "author": "knaik94",
+            "children": [
+                28621668, 28621674, 28621703, 28621705, 28621716, 28621740,
+                28621759, 28621791, 28621796, 28621810, 28621815, 28621845,
+                28621867, 28621874, 28621934, 28621981, 28622034, 28622038,
+                28622088, 28622090, 28622133, 28622173, 28622215, 28622391,
+                28622685, 28622746, 28622844, 28622894, 28622952, 28622965,
+                28623062, 28623113, 28623484, 28623714, 28623824, 28624035,
+                28624201, 28624495, 28625004, 28625077, 28625185, 28625226,
+                28625434, 28625493, 28625544, 28626130, 28626232, 28626234,
+                28626329, 28626499, 28626877, 28626993, 28627760, 28631363
+            ],
+            "created_at": "2021-09-22T20:33:53Z",
+            "created_at_i": 1632342833,
+            "num_comments": 494,
+            "objectID": "28621412",
+            "points": 1595,
+            "story_id": 28621412,
+            "title": "Google Drive of historical footage locked and flagged as terrorist activity",
+            "updated_at": "2025-12-14T20:35:08Z",
+            "url": "https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ahmetcadirci25"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "IDF officers ordered to fire at unarmed crowds near Gaza <em>foo</em>d distribution sites"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000"
+                }
+            },
+            "_tags": ["story", "author_ahmetcadirci25", "story_44402896"],
+            "author": "ahmetcadirci25",
+            "children": [
+                44402938, 44402943, 44402947, 44402956, 44403024, 44403027,
+                44403034, 44403058, 44403064, 44403075, 44403089, 44403204,
+                44403213, 44403220, 44403311, 44403349, 44403371, 44403409,
+                44403460, 44403461, 44403511, 44403552, 44403556, 44403563,
+                44403576, 44403625, 44403630, 44403640, 44403650, 44403654,
+                44403681, 44403826, 44403856, 44404010, 44404114, 44404178,
+                44404188, 44404227, 44404281, 44404347, 44404393, 44404426,
+                44404455, 44404541, 44404552, 44404732, 44404806, 44404879,
+                44404916, 44404947, 44404952, 44404972, 44405165, 44405236,
+                44405251, 44405261, 44405273, 44405280, 44405352, 44405421,
+                44405435, 44405460, 44405466, 44405567, 44405604, 44405645,
+                44405688, 44405707, 44405723, 44405893, 44406033, 44406115,
+                44406494, 44407282, 44407290, 44407343, 44407728, 44408214,
+                44408445, 44408485, 44408597, 44408906, 44408951, 44409156,
+                44409546, 44409610, 44409778, 44409944, 44410181, 44411685,
+                44412960, 44412962, 44413825, 44414551, 44416743, 44417089,
+                44419421, 44422000, 44422264, 44427265, 44429650, 44500094
+            ],
+            "created_at": "2025-06-28T07:36:20Z",
+            "created_at_i": 1751096180,
+            "num_comments": 1122,
+            "objectID": "44402896",
+            "points": 1455,
+            "story_id": 44402896,
+            "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
+            "updated_at": "2026-07-01T20:12:39Z",
+            "url": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "numair"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "I was once a Facebook <em>foo</em>l"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "http://public.numair.com/2011_fbfool.html"
+                }
+            },
+            "_tags": ["story", "author_numair", "story_3029872"],
+            "author": "numair",
+            "children": [
+                3029942, 3029953, 3029962, 3029963, 3029969, 3029988, 3029991,
+                3029994, 3029996, 3029999, 3030006, 3030010, 3030012, 3030075,
+                3030152, 3030196, 3030226, 3030251, 3030300, 3030303, 3030309,
+                3030419, 3030423, 3030492, 3030506, 3030565, 3030593, 3030633,
+                3030704, 3030741, 3030985, 3031340, 3031486, 3031499, 3031695,
+                3031846, 3031850, 3032042, 3032286, 3032357, 3032471, 3033083,
+                3033271, 3033287, 3033296, 3034555, 3035380
+            ],
+            "created_at": "2011-09-23T13:24:09Z",
+            "created_at_i": 1316784249,
+            "num_comments": 163,
+            "objectID": "3029872",
+            "points": 1390,
+            "story_id": 3029872,
+            "title": "I was once a Facebook fool",
+            "updated_at": "2026-07-24T19:40:40Z",
+            "url": "http://public.numair.com/2011_fbfool.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "giuliomagnifico"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "EU bans the destruction of unsold apparel, clothing, accessories and <em>foo</em>twear"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en"
+                }
+            },
+            "_tags": ["story", "author_giuliomagnifico", "story_47025378"],
+            "author": "giuliomagnifico",
+            "children": [
+                47025465, 47025481, 47025484, 47025499, 47025539, 47025545,
+                47025552, 47025581, 47025588, 47025593, 47025597, 47025598,
+                47025635, 47025714, 47025742, 47025754, 47025757, 47025780,
+                47025852, 47025855, 47025930, 47026031, 47026037, 47026038,
+                47026074, 47026126, 47026137, 47026266, 47026267, 47026294,
+                47026296, 47026299, 47026334, 47026341, 47026383, 47026429,
+                47026443, 47026464, 47026516, 47026518, 47026563, 47026564,
+                47026631, 47026693, 47026713, 47026736, 47026774, 47026791,
+                47027149, 47027228, 47027277, 47027305, 47027417, 47027487,
+                47027630, 47027989, 47027991, 47028074, 47028077, 47028082,
+                47028146, 47028280, 47028286, 47028539, 47028820, 47028832,
+                47029049, 47029383, 47029589, 47029622, 47030224, 47030310,
+                47030365, 47031051, 47031144, 47031236, 47031341, 47031452,
+                47031678, 47031950, 47032135, 47032220, 47032292, 47032736,
+                47032935, 47032938, 47034279, 47034566, 47034589, 47034771,
+                47034913, 47035010, 47035432, 47035473, 47036007, 47037142,
+                47038025, 47041985, 47047273, 47048317
+            ],
+            "created_at": "2026-02-15T17:10:18Z",
+            "created_at_i": 1771175418,
+            "num_comments": 851,
+            "objectID": "47025378",
+            "points": 1210,
+            "story_id": 47025378,
+            "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+            "updated_at": "2026-08-09T12:02:48Z",
+            "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "atestu"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Eat Real <em>Foo</em>d"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://realfood.gov"
+                }
+            },
+            "_tags": ["story", "author_atestu", "story_46529237"],
+            "author": "atestu",
+            "children": [
+                46529316, 46529329, 46529342, 46529356, 46529369, 46529376,
+                46529377, 46529390, 46529392, 46529394, 46529403, 46529406,
+                46529423, 46529430, 46529434, 46529465, 46529468, 46529469,
+                46529472, 46529478, 46529490, 46529525, 46529530, 46529551,
+                46529560, 46529567, 46529572, 46529573, 46529581, 46529591,
+                46529602, 46529608, 46529623, 46529632, 46529641, 46529670,
+                46529677, 46529682, 46529699, 46529701, 46529816, 46529836,
+                46529865, 46529867, 46529925, 46529943, 46529946, 46529990,
+                46530045, 46530066, 46530095, 46530216, 46530610, 46530632,
+                46531026, 46531064, 46531197, 46531837, 46531871, 46531916,
+                46531921, 46531922, 46531980, 46531988, 46532025, 46532037,
+                46532044, 46532057, 46532069, 46532073, 46532083, 46532091,
+                46532198, 46532236, 46532253, 46532316, 46532352, 46532472,
+                46532489, 46532502, 46532616, 46532754, 46532818, 46532844,
+                46532908, 46532918, 46532930, 46532945, 46532974, 46532983,
+                46533075, 46533079, 46533084, 46533129, 46533173, 46533180,
+                46533201, 46533208, 46533308, 46533317, 46533336, 46533353,
+                46533372, 46533474, 46533505, 46533506, 46533578, 46533623,
+                46533655, 46533738, 46533807, 46533848, 46533870, 46533877,
+                46533933, 46533993, 46534031, 46534053, 46534066, 46534079,
+                46534096, 46534098, 46534102, 46534256, 46534295, 46534334,
+                46534418, 46534452, 46534510, 46534517, 46534566, 46534593,
+                46534653, 46534656, 46534781, 46534839, 46534854, 46534887,
+                46534904, 46534959, 46535027, 46535028, 46535069, 46535080,
+                46535094, 46535162, 46535195, 46535197, 46535222, 46535247,
+                46535437, 46535441, 46535472, 46535488, 46535558, 46535560,
+                46535595, 46535624, 46535629, 46535637, 46535639, 46535875,
+                46535905, 46535970, 46535981, 46536121, 46536196, 46536332,
+                46536621, 46536874, 46536987, 46537017, 46537020, 46537130,
+                46537237, 46537326, 46537363, 46537378, 46537401, 46537527,
+                46537563, 46537565, 46537626, 46537654, 46537676, 46537707,
+                46537922, 46537990, 46538281, 46538399, 46538539, 46538565,
+                46538654, 46538677, 46538727, 46538734, 46538798, 46538807,
+                46538834, 46538870, 46538972, 46539018, 46539165, 46539169,
+                46539170, 46539205, 46539349, 46539497, 46539571, 46539572,
+                46539664, 46539678, 46539682, 46539684, 46539724, 46539784,
+                46539918, 46540088, 46540308, 46540313, 46540433, 46540530,
+                46540603, 46540694, 46540938, 46540968, 46540978, 46541044,
+                46541055, 46541168, 46541181, 46541229, 46541231, 46541244,
+                46541281, 46541491, 46541642, 46541683, 46541853, 46541905,
+                46543006, 46543135, 46543154, 46543166, 46543265, 46543339,
+                46543906, 46544035, 46544160, 46544355, 46545463, 46548650,
+                46549679, 46549716, 46550001, 46550003, 46555351, 46557865,
+                46558933, 46559032, 46563557, 46579590
+            ],
+            "created_at": "2026-01-07T17:22:09Z",
+            "created_at_i": 1767806529,
+            "num_comments": 1638,
+            "objectID": "46529237",
+            "points": 1163,
+            "story_id": 46529237,
+            "title": "Eat Real Food",
+            "updated_at": "2026-05-20T05:33:15Z",
+            "url": "https://realfood.gov"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "littlecranky67"
+                },
+                "story_text": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run &quot;docker pull &lt;image&gt;&quot; on my machine as root:<p>&gt; error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com<p>First blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:<p>&gt; El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare<p>For those non-spanish speakers: It means there is <em>foo</em>tball match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when <em>foo</em>tball is on. Thank you, Spain."
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Tell HN: Docker pull fails in Spain due to <em>foo</em>tball Cloudflare block"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_littlecranky67",
+                "story_47738883",
+                "ask_hn"
+            ],
+            "author": "littlecranky67",
+            "children": [
+                47739423, 47739433, 47739575, 47739648, 47739737, 47739808,
+                47739926, 47739977, 47740043, 47740063, 47740148, 47740390,
+                47740449, 47741151, 47741278, 47741313, 47741317, 47741633,
+                47741643, 47741646, 47741690, 47741714, 47741717, 47741807,
+                47741831, 47742045, 47742163, 47742260, 47742343, 47742406,
+                47742455, 47742456, 47742478, 47742582, 47742614, 47742682,
+                47742858, 47742915, 47742933, 47743170, 47743971, 47743976,
+                47744201, 47744206, 47744308, 47744592, 47744640, 47744675,
+                47745244, 47745462, 47745535, 47745583, 47745605, 47745834,
+                47746454, 47746874, 47747197, 47747224, 47747297, 47747464,
+                47747758, 47748278, 47748636, 47748746, 47749188, 47749238,
+                47749556, 47749708, 47749725, 47749735, 47750064, 47750118,
+                47750264, 47751782, 47755591, 47756014, 47757500, 47761549,
+                47764491, 47770961, 47854720
+            ],
+            "created_at": "2026-04-12T12:28:57Z",
+            "created_at_i": 1775996937,
+            "num_comments": 421,
+            "objectID": "47738883",
+            "points": 1157,
+            "story_id": 47738883,
+            "story_text": "I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run &quot;docker pull &lt;image&gt;&quot; on my machine as root:<p>&gt; error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com<p>First blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:<p>&gt; El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005&#x2F;2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps:&#x2F;&#x2F;www.laliga.com&#x2F;noticias&#x2F;nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare<p>For those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.",
+            "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+            "updated_at": "2026-07-27T14:30:17Z"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "MrBruh"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "I pwned half of America's fast <em>foo</em>d chains simultaneously"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://mrbruh.com/chattr/"
+                }
+            },
+            "_tags": ["story", "author_MrBruh", "story_38933999"],
+            "author": "MrBruh",
+            "children": [
+                38934739, 38934827, 38934848, 38934888, 38934896, 38935027,
+                38935028, 38935073, 38935074, 38935106, 38935250, 38935263,
+                38935323, 38935408, 38935449, 38935451, 38935455, 38935469,
+                38935487, 38935489, 38935555, 38935564, 38935766, 38936033,
+                38936221, 38936295, 38936298, 38936627, 38936847, 38936911,
+                38937052, 38937071, 38937404, 38937759, 38937909, 38938050,
+                38938173, 38938327, 38938429, 38938915, 38939071, 38939237,
+                38939390, 38940556, 38940610, 38941101, 38941157, 38941400,
+                38942229
+            ],
+            "created_at": "2024-01-09T23:41:38Z",
+            "created_at_i": 1704843698,
+            "num_comments": 474,
+            "objectID": "38933999",
+            "points": 1081,
+            "story_id": 38933999,
+            "title": "I pwned half of America's fast food chains simultaneously",
+            "updated_at": "2026-01-27T01:42:11Z",
+            "url": "https://mrbruh.com/chattr/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "uptown"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Drone <em>Foo</em>tage of Arecibo Observatory Collapse"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.nsf.gov/news/special_reports/arecibo/"
+                }
+            },
+            "_tags": ["story", "author_uptown", "story_25290629"],
+            "author": "uptown",
+            "children": [
+                25291251, 25291322, 25291332, 25291457, 25291475, 25291802,
+                25291824, 25291979, 25291991, 25292013, 25292162, 25292198,
+                25292310, 25292459, 25292462, 25292616, 25293013, 25293139,
+                25293317, 25293766, 25293869, 25293961, 25294099, 25294103,
+                25294224, 25294247, 25294329, 25294340, 25294353, 25294527,
+                25294580, 25295186, 25295668, 25295739, 25295931, 25296157,
+                25296633, 25297662, 25297807, 25297863, 25298457, 25298502,
+                25298556, 25299351, 25299752, 25302459, 25302815, 25309283
+            ],
+            "created_at": "2020-12-03T16:31:23Z",
+            "created_at_i": 1607013083,
+            "num_comments": 229,
+            "objectID": "25290629",
+            "points": 892,
+            "story_id": 25290629,
+            "title": "Drone Footage of Arecibo Observatory Collapse",
+            "updated_at": "2024-09-20T07:31:11Z",
+            "url": "https://www.nsf.gov/news/special_reports/arecibo/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "diggan"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "<em>foo</em>@bar.com"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.bar.com/"
+                }
+            },
+            "_tags": ["story", "author_diggan", "story_24605949"],
+            "author": "diggan",
+            "children": [
+                24606076, 24606114, 24606117, 24606124, 24606139, 24606168,
+                24606229, 24606247, 24606320, 24606361, 24606451, 24606540,
+                24606625, 24606736, 24606745, 24606804, 24606863, 24606873,
+                24606879, 24606956, 24606970, 24607101, 24607161, 24607601,
+                24607650, 24607814, 24607945, 24608006, 24608551, 24608773,
+                24608802, 24608852, 24609297, 24609336, 24609488, 24609494,
+                24609512, 24609533, 24609931, 24609984, 24610131, 24610982,
+                24614057, 24614201, 24615042, 24625969, 24674613
+            ],
+            "created_at": "2020-09-27T11:53:41Z",
+            "created_at_i": 1601207621,
+            "num_comments": 281,
+            "objectID": "24605949",
+            "points": 852,
+            "story_id": 24605949,
+            "title": "foo@bar.com",
+            "updated_at": "2026-02-17T23:45:49Z",
+            "url": "https://www.bar.com/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "charliepark"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Burger King is introducing a vegetarian patty from the start-up Impossible <em>Foo</em>ds"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html"
+                }
+            },
+            "_tags": ["story", "author_charliepark", "story_19542379"],
+            "author": "charliepark",
+            "children": [
+                19543183, 19543202, 19543223, 19543279, 19543303, 19543311,
+                19543324, 19543334, 19543380, 19543413, 19543420, 19543427,
+                19543470, 19543471, 19543473, 19543561, 19543579, 19543710,
+                19543808, 19544007, 19544439, 19544721, 19546009, 19546098,
+                19546124, 19546454, 19546474, 19546501, 19546686, 19546710,
+                19546744, 19546763, 19546833, 19546845, 19546927, 19546929,
+                19546995, 19547006, 19547031, 19547079, 19547158, 19547172,
+                19547321, 19547336, 19547437, 19547477, 19547505, 19547846,
+                19547896, 19547898, 19547945, 19548139, 19548324, 19548394,
+                19548444, 19548460, 19548548, 19548640, 19548653, 19548875,
+                19548992, 19549023, 19549122, 19549155, 19549244, 19549312,
+                19549474, 19549569, 19550341, 19550373, 19550444, 19550662,
+                19550948, 19551168, 19551503, 19551814, 19551890, 19552002,
+                19553332, 19553379, 19553538, 19554132, 19555656, 19557367,
+                19557859, 19562736
+            ],
+            "created_at": "2019-04-01T11:48:38Z",
+            "created_at_i": 1554119318,
+            "num_comments": 637,
+            "objectID": "19542379",
+            "points": 848,
+            "story_id": 19542379,
+            "title": "Burger King is introducing a vegetarian patty from the start-up Impossible Foods",
+            "updated_at": "2026-07-12T22:57:10Z",
+            "url": "https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Pakdef"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Amazon admits giving police Ring camera <em>foo</em>tage without consent"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://theintercept.com/2022/07/13/amazon-ring-camera-<em>foo</em>tage-police-ed-markey/"
+                }
+            },
+            "_tags": ["story", "author_Pakdef", "story_32081900"],
+            "author": "Pakdef",
+            "children": [
+                32082333, 32083160, 32083483, 32083537, 32083843, 32084062,
+                32084218, 32084249, 32084382, 32084501, 32084867, 32085065,
+                32085142, 32085236, 32085514, 32086068, 32086115, 32086197,
+                32086253, 32086597, 32087442, 32087507, 32087746, 32087966,
+                32088120, 32088858, 32088943, 32090175, 32090726, 32091754,
+                32093630, 32096622, 32103598, 32123189, 32123222
+            ],
+            "created_at": "2022-07-13T12:52:06Z",
+            "created_at_i": 1657716726,
+            "num_comments": 510,
+            "objectID": "32081900",
+            "points": 818,
+            "story_id": 32081900,
+            "title": "Amazon admits giving police Ring camera footage without consent",
+            "updated_at": "2025-10-11T21:03:02Z",
+            "url": "https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "lisasays"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Police sue rapper Afroman for using <em>foo</em>tage of home raid in his music videos"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman"
+                }
+            },
+            "_tags": ["story", "author_lisasays", "story_35284187"],
+            "author": "lisasays",
+            "children": [
+                35283214, 35283385, 35284461, 35284486, 35284491, 35284502,
+                35284503, 35284512, 35284523, 35284525, 35284539, 35284541,
+                35284548, 35284573, 35284588, 35284647, 35284652, 35284674,
+                35284675, 35284863, 35284893, 35284904, 35284930, 35285006,
+                35285023, 35285080, 35285241, 35285255, 35285284, 35285374,
+                35285424, 35285431, 35285455, 35285605, 35285673, 35285794,
+                35286026, 35286053, 35286067, 35286524, 35287129, 35287345,
+                35287477, 35287541, 35289231, 35289247, 35289691, 35289742,
+                35293616, 35299586
+            ],
+            "created_at": "2023-03-24T02:11:06Z",
+            "created_at_i": 1679623866,
+            "num_comments": 551,
+            "objectID": "35284187",
+            "points": 807,
+            "story_id": 35284187,
+            "title": "Police sue rapper Afroman for using footage of home raid in his music videos",
+            "updated_at": "2026-03-19T17:49:21Z",
+            "url": "https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "open-source-ux"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "UK: <em>Foo</em>d inflation rises to 18.2% as it hits highest rate in over 45 years"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://www.grocerygazette.co.uk/2023/03/22/<em>foo</em>d-inflation-highest-rate/"
+                }
+            },
+            "_tags": ["story", "author_open-source-ux", "story_35290460"],
+            "author": "open-source-ux",
+            "children": [
+                35290595, 35290629, 35290630, 35290670, 35290687, 35290695,
+                35290704, 35290707, 35290725, 35290731, 35290733, 35290755,
+                35290778, 35290784, 35290793, 35290794, 35290801, 35290837,
+                35290947, 35290961, 35290962, 35290991, 35291003, 35291045,
+                35291106, 35291143, 35291172, 35291213, 35291222, 35291247,
+                35291266, 35291271, 35291280, 35291357, 35291381, 35291400,
+                35291422, 35291469, 35291598, 35291627, 35291628, 35291787,
+                35291854, 35291884, 35291952, 35292013, 35292327, 35292448,
+                35292449, 35292488, 35292682, 35292695, 35292699, 35292778,
+                35292851, 35292866, 35292980, 35293053, 35293065, 35293115,
+                35293119, 35293138, 35293505, 35293518, 35293557, 35293591,
+                35293707, 35293885, 35293976, 35293990, 35294229, 35294384,
+                35294407, 35294443, 35294449, 35294546, 35294607, 35294728,
+                35294817, 35294837, 35296933, 35305355
+            ],
+            "created_at": "2023-03-24T15:35:36Z",
+            "created_at_i": 1679672136,
+            "num_comments": 1040,
+            "objectID": "35290460",
+            "points": 770,
+            "story_id": 35290460,
+            "title": "UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years",
+            "updated_at": "2026-07-29T22:46:34Z",
+            "url": "https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "philbo"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Ways to shoot yourself in the <em>foo</em>t with Postgres"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-<em>foo</em>t-with-postgresql"
+                }
+            },
+            "_tags": ["story", "author_philbo", "story_35684220"],
+            "author": "philbo",
+            "children": [
+                35696493, 35696599, 35696659, 35696668, 35696738, 35696803,
+                35696827, 35696836, 35696877, 35696904, 35697178, 35697221,
+                35697246, 35697372, 35697387, 35697426, 35697594, 35697676,
+                35697986, 35698156, 35698161, 35698249, 35698301, 35698326,
+                35698428, 35698909, 35698947, 35698978, 35699220, 35699391,
+                35699614, 35700422, 35700440, 35700469, 35700640, 35700679,
+                35700806, 35701210, 35702126, 35702382, 35703084, 35704759,
+                35704964, 35712365, 35712478, 35714749, 35714788, 35714826,
+                35714840, 35714856, 35714873, 35714928, 35714949, 35714963,
+                35714981, 35715009, 35715106, 35715139, 35715188, 35715209,
+                35715234, 35715345, 35715362, 35715379, 35715633, 35715659,
+                35715692, 35715716, 35715749, 35715773, 35715789, 35715815,
+                35715949, 35715973, 35716002, 35716048, 35716093, 35716111,
+                35716138, 35716155, 35716168, 35716226, 35716272, 35716298,
+                35716315, 35716333, 35716351, 35716382, 35716426, 35716513,
+                35716602, 35716668, 35716701, 35716732
+            ],
+            "created_at": "2023-04-24T06:11:30Z",
+            "created_at_i": 1682316690,
+            "num_comments": 268,
+            "objectID": "35684220",
+            "points": 743,
+            "story_id": 35684220,
+            "title": "Ways to shoot yourself in the foot with Postgres",
+            "updated_at": "2026-04-19T19:20:42Z",
+            "url": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "clumsysmurf"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Emails Show FDA Chemists Have Been Finding Glyphosate in <em>Foo</em>d"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://modernfarmer.com/2018/05/emails-show-fda-chemists-have-been-quietly-finding-glyphosate-in-<em>foo</em>d/"
+                }
+            },
+            "_tags": ["story", "author_clumsysmurf", "story_17043629"],
+            "author": "clumsysmurf",
+            "children": [
+                17043748, 17043772, 17043824, 17043836, 17043843, 17043868,
+                17043913, 17043928, 17043951, 17044063, 17044071, 17044110,
+                17044271, 17044311, 17044350, 17044371, 17044474, 17044490,
+                17044541, 17044789, 17044794, 17044797, 17044869, 17044872,
+                17045083, 17045144, 17045205, 17045637, 17045909, 17046003,
+                17046419, 17047788, 17049442
+            ],
+            "created_at": "2018-05-10T22:58:15Z",
+            "created_at_i": 1525993095,
+            "num_comments": 316,
+            "objectID": "17043629",
+            "points": 691,
+            "story_id": 17043629,
+            "title": "Emails Show FDA Chemists Have Been Finding Glyphosate in Food",
+            "updated_at": "2025-10-10T03:24:49Z",
+            "url": "https://modernfarmer.com/2018/05/emails-show-fda-chemists-have-been-quietly-finding-glyphosate-in-food/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "PaulHoule"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Plasma Bigscreen – 10-<em>foo</em>t interface for KDE plasma"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://plasma-bigscreen.org"
+                }
+            },
+            "_tags": ["story", "author_PaulHoule", "story_47282736"],
+            "author": "PaulHoule",
+            "children": [
+                47282837, 47282919, 47282933, 47282958, 47283075, 47283118,
+                47283124, 47283130, 47283169, 47283193, 47283230, 47283241,
+                47283364, 47283385, 47283673, 47284143, 47284170, 47284211,
+                47284215, 47284412, 47284615, 47284680, 47284881, 47284957,
+                47285002, 47285060, 47285108, 47285578, 47285974, 47286047,
+                47286290, 47286603, 47286967, 47287082, 47287352, 47287428,
+                47288550, 47289288, 47289986, 47290275, 47290778, 47413532
+            ],
+            "created_at": "2026-03-06T23:59:16Z",
+            "created_at_i": 1772841556,
+            "num_comments": 230,
+            "objectID": "47282736",
+            "points": 673,
+            "story_id": 47282736,
+            "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+            "updated_at": "2026-06-04T15:00:47Z",
+            "url": "https://plasma-bigscreen.org"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "bookofjoe"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "I asked police to send me their public surveillance <em>foo</em>tage of my car"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-<em>foo</em>tage-of-my-car-heres-what-i-learned/"
+                }
+            },
+            "_tags": ["story", "author_bookofjoe", "story_43504413"],
+            "author": "bookofjoe",
+            "children": [
+                43504617, 43504634, 43504686, 43504716, 43504739, 43504811,
+                43504823, 43504886, 43505144, 43505148, 43505180, 43505238,
+                43505381, 43505387, 43505390, 43505403, 43505441, 43505442,
+                43505684, 43505751, 43505764, 43505801, 43505817, 43505849,
+                43505915, 43505920, 43505954, 43506003, 43506464, 43506481,
+                43506493, 43506556, 43506627, 43506828, 43507158, 43507456,
+                43508141, 43508164, 43508259, 43508709, 43509897, 43509951,
+                43510925, 43511495, 43512382, 43515303, 43520557, 43521864,
+                43532771
+            ],
+            "created_at": "2025-03-28T12:14:06Z",
+            "created_at_i": 1743164046,
+            "num_comments": 521,
+            "objectID": "43504413",
+            "points": 658,
+            "story_id": 43504413,
+            "title": "I asked police to send me their public surveillance footage of my car",
+            "updated_at": "2026-02-17T18:50:06Z",
+            "url": "https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "jeff18"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Plasticlist Report – Data on plastic chemicals in Bay Area <em>foo</em>ds"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.plasticlist.org/report"
+                }
+            },
+            "_tags": ["story", "author_jeff18", "story_42525633"],
+            "author": "jeff18",
+            "children": [
+                42526205, 42526206, 42526321, 42526407, 42526498, 42526534,
+                42526544, 42526584, 42526605, 42526644, 42526717, 42526810,
+                42526857, 42526893, 42526971, 42527070, 42527082, 42527155,
+                42527203, 42527262, 42527281, 42527305, 42527394, 42527525,
+                42527589, 42527599, 42527651, 42527673, 42527693, 42527759,
+                42527853, 42527934, 42527940, 42528036, 42528080, 42528092,
+                42528219, 42528269, 42528346, 42528359, 42528362, 42528616,
+                42528698, 42528821, 42529096, 42529152, 42529637, 42529757,
+                42530626, 42530721, 42531167, 42534843, 42535165, 42535459
+            ],
+            "created_at": "2024-12-27T20:15:44Z",
+            "created_at_i": 1735330544,
+            "num_comments": 193,
+            "objectID": "42525633",
+            "points": 635,
+            "story_id": 42525633,
+            "title": "Plasticlist Report – Data on plastic chemicals in Bay Area foods",
+            "updated_at": "2026-04-18T15:35:10Z",
+            "url": "https://www.plasticlist.org/report"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "bmease"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": ["foo"],
+                    "value": "Reprojecting the Perseverance landing <em>foo</em>tage onto satellite imagery"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://matthewearl.github.io/2021/03/06/mars2020-reproject/"
+                }
+            },
+            "_tags": ["story", "author_bmease", "story_26452504"],
+            "author": "bmease",
+            "children": [
+                26452706, 26452728, 26452804, 26453004, 26453102, 26453106,
+                26453317, 26453346, 26453680, 26453782, 26453864, 26453871,
+                26453991, 26454127, 26455585, 26456027, 26456186, 26456367
+            ],
+            "created_at": "2021-03-14T03:21:05Z",
+            "created_at_i": 1615692065,
+            "num_comments": 37,
+            "objectID": "26452504",
+            "points": 633,
+            "story_id": 26452504,
+            "title": "Reprojecting the Perseverance landing footage onto satellite imagery",
+            "updated_at": "2024-09-20T08:10:04Z",
+            "url": "https://matthewearl.github.io/2021/03/06/mars2020-reproject/"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 30906,
+    "nbPages": 50,
+    "page": 0,
+    "params": "query=foo&tags=story&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 8,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 20
+        },
+        "fetch": {
+            "query": 1,
+            "scanning": 6,
+            "total": 8
+        },
+        "total": 9
+    },
+    "query": "foo",
+    "serverTimeMS": 10
+}
