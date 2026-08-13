@@ -2,9 +2,11 @@ from __future__ import annotations
 
 import argparse
 import os
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable
 
+from logging_config import configure_logging
+from sourcing import source_topic
 
 DEFAULT_ENV_PATH = Path(__file__).with_name(".env")
 DEFAULT_STAGE = "all"
@@ -46,11 +48,20 @@ def summarize_environment(keys: Iterable[str]) -> dict[str, str | None]:
 def main() -> None:
     load_env_file()
     args = build_parser().parse_args()
+    log_path = configure_logging(args.stage)
 
     summary = summarize_environment(("OPENAI_API_KEY", "PRODUCT_HUNT_TOKEN"))
     print(f"topic={args.topic}")
     print(f"stage={args.stage}")
+    print(f"log_path={log_path}")
     print(f"env_loaded={{{', '.join(f'{key}: {'set' if value else 'missing'}' for key, value in summary.items())}}}")
+
+    if args.stage in {"source", "all"}:
+        posts = source_topic(args.topic)
+        print(f"source_posts={len(posts)}")
+
+    if args.stage in {"analyze", "memo", "all"}:
+        print("remaining_stages=not_implemented")
 
 
 if __name__ == "__main__":
