@@ -1,0 +1,576 @@
+[
+  {
+    "name": "Prelint",
+    "tagline": "Prevent product drift in AI-written code",
+    "description": "AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.",
+    "website": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prelint/launches/prelint",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 643,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "wojtekszkutnik, irka_pawlowski, krzysztof_kulig",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JJ63TERVZQ7KYT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZQYP7AO2LQ6CH3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 100.0,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 50.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "names a specific problem of product drift in AI-written code and explains the mechanism of reviewing PRs against ADRs, but does not explicitly state a specific user or persona.",
+        "would_change_mind": "If it named a specific type of team or user, such as 'software engineering teams' or 'startups', instead of just referring to 'teams'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it catches product drift before it ships, but does not directly compare to specific competitors.",
+        "would_change_mind": "If it explicitly compared its approach to a known competitor in the AI code review space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "moderate",
+        "basis": "shares the theme of AI coding agents but does not explicitly target small businesses or a specific small-business vertical.",
+        "would_change_mind": "If it explicitly stated that it is designed for small development teams or startups.",
+        "score": 50.0
+      }
+    },
+    "overall_score": 77.5,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "SKI",
+    "tagline": "Free voice coding for Claude Code, Codex and more",
+    "description": "We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac & Windows.",
+    "website": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ski/launches/ski",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 624,
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], anoop_balakrishnan",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 96.95024077046548,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of coding speed and explains the mechanism of voice coding, but does not explicitly name a specific user or persona.",
+        "would_change_mind": "If it identified a specific user group, such as 'developers in small teams' or 'freelancers'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it is not dictation and functions like a real teammate, but does not name competitors directly.",
+        "would_change_mind": "If it mentioned how it differs from specific existing voice coding tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "fits within the AI coding agents niche but does not explicitly signal against targeting small businesses.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or independent developers.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 80.49,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Zro",
+    "tagline": "Private inference for coding agents",
+    "description": "Fast and optimized open-model inference on multi-region infrastructure with zero request retention.",
+    "website": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zro/launches/zro",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 457,
+    "topics": "API, Developer Tools, Tech, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], jeremy_felder",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I4PXXCY6JA6O2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DONPFJP7I3YZBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 70.14446227929373,
+      "product_specificity": 10.0,
+      "differentiation": 10.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_weak",
+        "basis": "does not specify a clear problem, user, or mechanism, using vague technical language.",
+        "would_change_mind": "If it provided a specific problem it solves for a defined user group.",
+        "score": 10.0
+      },
+      "differentiation": {
+        "label": "very_weak",
+        "basis": "lacks any differentiation language, only stating technical capabilities without comparison.",
+        "would_change_mind": "If it included a specific comparison to existing solutions or competitors.",
+        "score": 10.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "does not relate to the AI coding agents niche, focusing instead on technical infrastructure.",
+        "would_change_mind": "If it explicitly targeted developers or small businesses in the coding space.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 25.04,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "AgentSky",
+    "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+    "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+    "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agentsky/launches/agentsky",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 449,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], xiaoyin_qu1",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 68.86035313001605,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 50.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of launching AI agents and explains the mechanism of managed service, but does not name a specific user or persona.",
+        "would_change_mind": "If it identified a specific user group, such as 'small development teams' or 'startups'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it offers managed agents on demand, but does not name competitors directly.",
+        "would_change_mind": "If it compared its service to specific competitors in the AI agent space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "moderate",
+        "basis": "shares the theme of AI agents but does not explicitly target small businesses or a specific small-business vertical.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or independent developers.",
+        "score": 50.0
+      }
+    },
+    "overall_score": 69.72,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Ito",
+    "tagline": "AI code review that runs your code",
+    "description": "Ito is an AI code review tool that runs your app before it reviews the code. For every pull request, Ito spins up an ephemeral environment, validates impacted flows, and returns runtime evidence so teams can catch bugs that static analysis and model-only reviewers miss. Instead of guessing from diffs, Ito shows what actually broke, where it happened, and why it matters before the PR reaches production.",
+    "website": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 423,
+    "topics": "Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], vitaliyirtlach",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YSPQ7IXND736W6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D6ALDGKPG5N5OR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RTEYGWRKDEKPJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 64.68699839486356,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 50.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of catching bugs in code reviews and explains the mechanism of running the app before reviewing, but does not name a specific user or persona.",
+        "would_change_mind": "If it identified a specific user group, such as 'small development teams' or 'startups'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it shows runtime evidence to catch bugs, but does not name competitors directly.",
+        "would_change_mind": "If it compared its approach to specific competitors in the code review space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "moderate",
+        "basis": "shares the theme of AI coding agents but does not explicitly target small businesses or a specific small-business vertical.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or independent developers.",
+        "score": 50.0
+      }
+    },
+    "overall_score": 68.67,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Manta AI",
+    "tagline": "Your AI agent for autonomous web app testing",
+    "description": "Manta AI is an autonomous testing agent for web applications. Give it a URL and it explores your app the way a real user would — mapping flows, finding bugs, and generating self-healing test cases. Describe a flow in plain English and Manta tests it for you, no script required. When your UI changes, the tests adapt on their own. Run the agent locally on any machine or server — test apps behind a firewall, on a private network, or even on localhost. Free tier open. No card required.",
+    "website": "https://www.producthunt.com/r/VROEAEJHEWF5ND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/manta-ai/launches/manta-ai",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 159,
+    "topics": "Software Engineering, Developer Tools, Tech, Vercel Day",
+    "makers": "aelsergani",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VROEAEJHEWF5ND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WUNES4OHWW4MAX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 22.31139646869984,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 50.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of testing web applications and explains the mechanism of autonomous testing, but does not name a specific user or persona.",
+        "would_change_mind": "If it identified a specific user group, such as 'small web development teams' or 'startups'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it generates self-healing test cases, but does not name competitors directly.",
+        "would_change_mind": "If it compared its testing capabilities to specific competitors in the web testing space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "moderate",
+        "basis": "shares the theme of AI agents but does not explicitly target small businesses or a specific small-business vertical.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or independent developers.",
+        "score": 50.0
+      }
+    },
+    "overall_score": 58.08,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Gemini 3.7 Flash",
+    "tagline": "Google's smartest workhorse yet for coding & agents",
+    "description": "Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents.",
+    "website": "https://www.producthunt.com/r/KZ3XHAUAQJY7E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gemini-3-7-flash/launches/gemini-3-7-flash",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 113,
+    "topics": "Artificial Intelligence, Development",
+    "makers": "sundar_pichai",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AL44FIGNTQKLLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I3KVYYNW2JXMKS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KZ3XHAUAQJY7E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6WJYWJLS5Y6T44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 14.92776886035313,
+      "product_specificity": 10.0,
+      "differentiation": 10.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_weak",
+        "basis": "does not specify a clear problem, user, or mechanism, using vague marketing language.",
+        "would_change_mind": "If it provided a specific problem it solves for a defined user group.",
+        "score": 10.0
+      },
+      "differentiation": {
+        "label": "very_weak",
+        "basis": "lacks any differentiation language, only stating it is an intelligent model without comparison.",
+        "would_change_mind": "If it included a specific comparison to existing models or competitors.",
+        "score": 10.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "does not relate to the AI coding agents niche, focusing instead on general AI capabilities.",
+        "would_change_mind": "If it explicitly targeted developers or small businesses in the coding space.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 11.23,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Freebuff",
+    "tagline": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
+    "description": "Freebuff is a free coding agent that gives you access to the best open source models. We offer a CLI, Desktop app, Web app builder, and Cloud agent -- all free! This is the free way to build full-stack apps. No subscription, no API keys, no lock-in. Cancel your subscriptions to Claude Code, Cursor, Codex, Lovable, Replit, Bolt, Windsurf, and Devin.",
+    "website": "https://www.producthunt.com/r/NWQXOKBNUWYRG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/freebuff-2/launches/freebuff-2",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 112,
+    "topics": "Software Engineering, Developer Tools, Tech",
+    "makers": "[REDACTED], [REDACTED], victorcheng",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UW3T7B7GU6LFGZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NWQXOKBNUWYRG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2IUFIHABLL4ZYN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 14.767255216693421,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of access to coding agents and explains the mechanism of providing free tools, but does not name a specific user or persona.",
+        "would_change_mind": "If it identified a specific user group, such as 'small developers' or 'freelancers'.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a clear differentiator by stating it offers free access to open source models, but does not name competitors directly.",
+        "would_change_mind": "If it compared its offerings to specific competitors in the coding agent space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "fits within the AI coding agents niche but does not explicitly signal against targeting small businesses.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or independent developers.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 59.94,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Gitar",
+    "tagline": "AI code review that fixes what it finds",
+    "description": "Gitar reviews pull requests, diagnoses CI failures, applies fixes, and validates the changes against your pipeline. It can also retry flaky tests, automate review workflows, and act directly inside GitHub or GitLab. Now part of Sonar.",
+    "website": "https://www.producthunt.com/r/NSFHGHWL2JE6CW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gitar/launches/gitar",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 105,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], kageiit",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/CSYIC7RQTXVWSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NSFHGHWL2JE6CW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/33BQO7T4K7TAJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 13.643659711075443,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "names a specific problem of reviewing pull requests and diagnosing CI failures, and explains the mechanism of applying fixes and validating changes against the pipeline.",
+        "would_change_mind": "If it specified the types of projects or teams that would benefit from its code review capabilities, such as small development teams or specific industries.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "implies a differentiation by automating review workflows and integrating with GitHub or GitLab, but does not directly compare to specific competitors.",
+        "would_change_mind": "If it explicitly named competitors and detailed how its approach or features are superior to theirs.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "fits within the developer tools niche and does not explicitly signal against the target niche of AI coding agents.",
+        "would_change_mind": "If it stated that it is designed specifically for small businesses or independent developers rather than general software engineering teams.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 53.41,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "PenguinHarness",
+    "tagline": "Let Agents Autonomously Build Better Agents for $0.02",
+    "description": "PenguinHarness is an open-source self-improving harness built by the team behind LlamaFactory. Its AI-native SDK enables agents to build, evaluate, and optimize other agents. It supports 1,000+ models, reusable skills, tool and context management, automatic data generation, multi-agent evaluation, and closed-loop harness evolution. With one prompt and about $0.02, an agent can build a complete RAG application.",
+    "website": "https://www.producthunt.com/r/XWWAGE7VF5ZWRA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/penguinharness/launches/penguinharness",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 66,
+    "topics": "Open Source, Developer Tools, GitHub, SDK, OpenAI Day",
+    "makers": "",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XWWAGE7VF5ZWRA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 7.3836276083467105,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "names a specific problem of building and optimizing AI agents, identifies a specific user (developers using AI), and explains the mechanism of using an AI-native SDK to create RAG applications.",
+        "would_change_mind": "If it stated that it is only suitable for large enterprises or specific industries, which would disqualify its fit for the target niche.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "explicitly states its unique capability of enabling agents to autonomously build better agents, which is a clear point of differentiation from other tools.",
+        "would_change_mind": "If it provided evidence that its approach is not as effective as existing solutions in the market.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "explicitly targets developers and AI coding agents, aligning perfectly with the thesis niche.",
+        "would_change_mind": "If it indicated that its primary users are large enterprises or organizations rather than individual developers or small teams.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 73.1,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "MyPeople",
+    "tagline": "Put a boss on your Claude Code and Codex agents ",
+    "description": "Running five AI coding agents means five terminals and copy-pasting context between them. MyPeople replaces that with one board and a persistent Boss agent: you give it the outcome, it writes the cards, assigns an owner, and reviews the work before it reaches you. The Terminal Graph shows every agent's live terminal wired to the card it owns. The HUD shows who is working and lets you attach to any of them from the browser. Claude Code, Codex and Grok run side by side, self-hosted in Docker.",
+    "website": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/mypeople/launches/mypeople-2",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 20,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "domo_plow",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RYXRQWENI4ZIPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YZJZJZBOFKVXEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 0.0,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of managing multiple AI coding agents and provides a mechanism of using a Boss agent to streamline the process.",
+        "would_change_mind": "If it specified that it is only applicable to large teams or enterprise-level projects, which would weaken its specificity.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "implies a differentiation by offering a unique solution to manage multiple AI agents, but does not directly compare to specific competitors.",
+        "would_change_mind": "If it explicitly named competitors and detailed how its features provide a distinct advantage over them.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "fits within the developer tools niche and does not explicitly signal against the target niche of AI coding agents.",
+        "would_change_mind": "If it stated that it is designed primarily for enterprise-level clients rather than small businesses or individual developers.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 56.25,
+    "status": "complete",
+    "error": null
+  }
+]

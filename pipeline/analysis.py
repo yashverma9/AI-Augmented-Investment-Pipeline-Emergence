@@ -49,6 +49,19 @@ SYSTEM_PROMPT = (
     "For each startup, score three dimensions. Each score must be one of exactly five labels: "
     "very_weak, weak, moderate, strong, very_strong. Do not return a raw number — return the label, "
     "and cite the specific phrase that drove it.\n\n"
+    "For each of the three dimensions, also provide \"would_change_mind\": the most specific, concrete thing that "
+    "— if true or stated in the copy — would change this score. Follow these rules strictly:\n\n"
+    "- Ground it in what's ACTUALLY MISSING or WRONG about THIS SPECIFIC company's text, not a generic template answer. "
+    "Do not default to a boilerplate phrase like \"if it mentioned SMBs\" unless you also say WHAT KIND of SMB signal is "
+    "missing given what the company already described (for example, if the product already implies a vertical — dental, "
+    "legal, hospitality, retail — name that vertical explicitly instead of saying \"SMBs\" generically).\n"
+    "- Bad example (too generic, do not write like this): \"If it explicitly stated that it is designed for SMBs.\"\n"
+    "- Good example (specific to the company's own text): \"If it named a business size or vertical — e.g. solo practices or "
+    "small clinics — instead of describing generic 'engineering teams' with no size signal.\"\n"
+    "- If the label is already very_strong, state what specific new fact would be needed to DISQUALIFY it (for example, a "
+    "named enterprise-only client list, a stated enterprise price point) — not a vague \"if it got worse\".\n"
+    "- Do not repeat the same would_change_mind phrasing across different companies in this batch. If you notice you're about "
+    "to write something you already wrote for another company, find the detail specific to THIS company's text instead.\n\n"
     "---\n\n"
     "## 1. Problem & Product Specificity\n\n"
     "Using the tagline AND description together, does the startup name a SPECIFIC problem, a SPECIFIC user/persona, and a SPECIFIC mechanism (how it actually works)? Consider both fields as one combined input — the tagline often carries the core positioning, the description carries the supporting detail.\n\n"
@@ -66,16 +79,17 @@ SYSTEM_PROMPT = (
     "- very_weak: no differentiation language at all.\n\n"
     "## 3. Market Fit to Thesis\n\n"
     "Thesis (target niche): {THESIS_DESCRIPTION}\n\n"
-    "Using the tagline, description, AND category tags together, how well does this startup fit this specific thesis niche — not 'is this a good startup' in general, only fit to the stated niche.\n\n"
-    "- very_strong: tagline/description directly describes the thesis niche; tags directly match.\n"
-    "- strong: clearly adjacent — same broad category, core focus slightly different from the niche.\n"
-    "- moderate: shares some tags/theme but the core product isn't centered on the niche.\n"
-    "- weak: only a loose or tangential connection to the niche.\n"
-    "- very_weak: unrelated to the niche despite surface keyword overlap.\n\n"
+    "Using the tagline, description, AND category tags together, how well does this startup fit this specific thesis niche — not 'is this a good startup' in general, only fit to the stated niche. Sharing the same broad category (for example, 'AI agents') is NOT sufficient for a strong score. The actual customer must match the thesis. A product explicitly built for enterprise customers (naming Fortune 500s, major chains, enterprise-only positioning) should score very_weak or weak against an SMB-focused thesis even if the tech category matches.\n\n"
+    "- very_strong: explicitly targets the thesis niche's customer (names SMBs/small businesses/a specific small-business vertical).\n"
+    "- strong: same broad category, no explicit signal against the niche, but ICP not explicitly named.\n"
+    "- moderate: shares tags/theme, core product not centered on the niche's customer.\n"
+    "- weak: only loose/tangential connection.\n"
+    "- very_weak: unrelated, OR explicitly targets a different customer segment than the thesis.\n\n"
     "Startups to score (each scored using ONLY its tagline and description below; topics is provided additionally for the market_fit judgment only):\n"
     "{CANDIDATES_JSON}\n\n"
     "Return a JSON object with a single key named 'results' containing an array, one entry per startup, "
-    "in exactly the same order as the input. "
+    "in exactly the same order as the input. Each criterion object must have the shape "
+    "{\"label\": \"...\", \"basis\": \"...\", \"would_change_mind\": \"...\"}. "
     "Copy each startup's 'name' field verbatim — do not shorten, rephrase, or translate it. "
     "Return ONLY the JSON object. No other text."
 )
@@ -86,16 +100,21 @@ LLM_SYSTEM_PROMPT = (
 )
 
 
-class ScoreLabel(BaseModel):
+class ScoreAssessment(BaseModel):
     label: Literal["very_weak", "weak", "moderate", "strong", "very_strong"]
     basis: str
+    would_change_mind: str
+
+
+class ScoreDetail(ScoreAssessment):
+    score: float
 
 
 class StartupScores(BaseModel):
     name: str
-    product_specificity: ScoreLabel
-    differentiation: ScoreLabel
-    market_fit: ScoreLabel
+    product_specificity: ScoreAssessment
+    differentiation: ScoreAssessment
+    market_fit: ScoreAssessment
 
 
 class StartupScoresBatch(BaseModel):
@@ -114,7 +133,7 @@ class AnalysisResult(BaseModel):
     makers: str
     product_links: list[dict[str, Any]]
     scores: dict[str, float]
-    scores_basis: dict[str, str]
+    scores_detail: dict[str, ScoreDetail]
     overall_score: float
     status: Literal["complete", "incomplete"] = "complete"
     error: str | None = None
@@ -136,6 +155,15 @@ def overall_score(scores: dict[str, float]) -> float:
 
 def _label_to_score(label: str) -> int:
     return LABEL_SCORES[label]
+
+
+def _detail_from_assessment(assessment: ScoreAssessment) -> ScoreDetail:
+    return ScoreDetail(
+        label=assessment.label,
+        score=float(_label_to_score(assessment.label)),
+        basis=assessment.basis,
+        would_change_mind=assessment.would_change_mind,
+    )
 
 
 def _latest_shortlist_path() -> Path:
@@ -237,9 +265,10 @@ def _analysis_result_from_candidate(
     error: str | None = None,
 ) -> AnalysisResult:
     scores: dict[str, float] = {"traction": traction}
-    scores_basis: dict[str, str] = {"traction": f"min-max normalized against shortlist votes for thesis={thesis!r}"}
+    scores_detail: dict[str, ScoreDetail] = {}
 
     if llm_scores is None:
+        fallback_basis = error or "LLM scoring unavailable"
         scores.update(
             {
                 "product_specificity": 50.0,
@@ -247,11 +276,26 @@ def _analysis_result_from_candidate(
                 "market_fit": 50.0,
             }
         )
-        scores_basis.update(
+        scores_detail.update(
             {
-                "product_specificity": error or "LLM scoring unavailable",
-                "differentiation": error or "LLM scoring unavailable",
-                "market_fit": error or "LLM scoring unavailable",
+                "product_specificity": ScoreDetail(
+                    label="moderate",
+                    score=50.0,
+                    basis=fallback_basis,
+                    would_change_mind=fallback_basis,
+                ),
+                "differentiation": ScoreDetail(
+                    label="moderate",
+                    score=50.0,
+                    basis=fallback_basis,
+                    would_change_mind=fallback_basis,
+                ),
+                "market_fit": ScoreDetail(
+                    label="moderate",
+                    score=50.0,
+                    basis=fallback_basis,
+                    would_change_mind=fallback_basis,
+                ),
             }
         )
         return AnalysisResult(
@@ -266,24 +310,22 @@ def _analysis_result_from_candidate(
             makers=str(candidate.get("makers") or ""),
             product_links=list(candidate.get("product_links") or []),
             scores=scores,
-            scores_basis=scores_basis,
+            scores_detail=scores_detail,
             overall_score=round(overall_score(scores), 2),
             status="incomplete",
             error=error,
         )
 
-    scores.update(
+    scores_detail.update(
         {
-            "product_specificity": float(_label_to_score(llm_scores.product_specificity.label)),
-            "differentiation": float(_label_to_score(llm_scores.differentiation.label)),
-            "market_fit": float(_label_to_score(llm_scores.market_fit.label)),
+            "product_specificity": _detail_from_assessment(llm_scores.product_specificity),
+            "differentiation": _detail_from_assessment(llm_scores.differentiation),
+            "market_fit": _detail_from_assessment(llm_scores.market_fit),
         }
     )
-    scores_basis.update(
+    scores.update(
         {
-            "product_specificity": llm_scores.product_specificity.basis,
-            "differentiation": llm_scores.differentiation.basis,
-            "market_fit": llm_scores.market_fit.basis,
+            criterion: detail.score for criterion, detail in scores_detail.items()
         }
     )
     return AnalysisResult(
@@ -298,7 +340,7 @@ def _analysis_result_from_candidate(
         makers=str(candidate.get("makers") or ""),
         product_links=list(candidate.get("product_links") or []),
         scores=scores,
-        scores_basis=scores_basis,
+        scores_detail=scores_detail,
         overall_score=round(overall_score(scores), 2),
     )
 

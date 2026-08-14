@@ -91,3 +91,7 @@ a quality signal.)
 - 70+ → Take a meeting
 - 45-69 → Watch
 - below 45 → Pass
+
+### Enhancements
+
+- Enhanced the prompt to extract would change mind reasoning for each scoring criteria. Will be later used to generate memo content

@@ -1,0 +1,334 @@
+[
+  {
+    "id": "1200627",
+    "name": "Prelint",
+    "tagline": "Prevent product drift in AI-written code",
+    "description": "AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.",
+    "website": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prelint/launches/prelint",
+    "ph_product_url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 643,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "wojtekszkutnik, irka_pawlowski, krzysztof_kulig",
+    "logo": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7JDFCGARSHV32N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JJ63TERVZQ7KYT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZQYP7AO2LQ6CH3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1208711",
+    "name": "SKI",
+    "tagline": "Free voice coding for Claude Code, Codex and more",
+    "description": "We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac & Windows.",
+    "website": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ski/launches/ski",
+    "ph_product_url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 624,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], anoop_balakrishnan",
+    "logo": "https://ph-files.imgix.net/4936ae7e-f021-4b98-860e-a5bc9ade7829.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1197428",
+    "name": "Zro",
+    "tagline": "Private inference for coding agents",
+    "description": "Fast and optimized open-model inference on multi-region infrastructure with zero request retention.",
+    "website": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zro/launches/zro",
+    "ph_product_url": "https://www.producthunt.com/products/zro/launches/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 457,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "API, Developer Tools, Tech, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], jeremy_felder",
+    "logo": "https://ph-files.imgix.net/fdeb7f10-d431-4e5f-a031-99486525980a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I4PXXCY6JA6O2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DONPFJP7I3YZBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1211254",
+    "name": "AgentSky",
+    "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+    "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+    "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agentsky/launches/agentsky",
+    "ph_product_url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 449,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], xiaoyin_qu1",
+    "logo": "https://ph-files.imgix.net/a50c630a-ee2b-422e-93ef-44116a39bd2c.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1204836",
+    "name": "Ito",
+    "tagline": "AI code review that runs your code",
+    "description": "Ito is an AI code review tool that runs your app before it reviews the code. For every pull request, Ito spins up an ephemeral environment, validates impacted flows, and returns runtime evidence so teams can catch bugs that static analysis and model-only reviewers miss. Instead of guessing from diffs, Ito shows what actually broke, where it happened, and why it matters before the PR reaches production.",
+    "website": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6",
+    "ph_product_url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 423,
+    "featured_at": "2026-08-13T07:01:00Z",
+    "topics": "Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], vitaliyirtlach",
+    "logo": "https://ph-files.imgix.net/477fa9cf-bd31-4c46-8944-3888ffac3925.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZLCM32IRDVPZ5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YSPQ7IXND736W6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D6ALDGKPG5N5OR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RTEYGWRKDEKPJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1195155",
+    "name": "Manta AI",
+    "tagline": "Your AI agent for autonomous web app testing",
+    "description": "Manta AI is an autonomous testing agent for web applications. Give it a URL and it explores your app the way a real user would — mapping flows, finding bugs, and generating self-healing test cases. Describe a flow in plain English and Manta tests it for you, no script required. When your UI changes, the tests adapt on their own. Run the agent locally on any machine or server — test apps behind a firewall, on a private network, or even on localhost. Free tier open. No card required.",
+    "website": "https://www.producthunt.com/r/VROEAEJHEWF5ND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/manta-ai/launches/manta-ai",
+    "ph_product_url": "https://www.producthunt.com/products/manta-ai/launches/manta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 159,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Tech, Vercel Day",
+    "makers": "aelsergani",
+    "logo": "https://ph-files.imgix.net/a1e87f70-9bb6-40a1-ad3b-24a2acb1cb86.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VROEAEJHEWF5ND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WUNES4OHWW4MAX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1222359",
+    "name": "Gemini 3.7 Flash",
+    "tagline": "Google's smartest workhorse yet for coding & agents",
+    "description": "Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents.",
+    "website": "https://www.producthunt.com/r/KZ3XHAUAQJY7E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gemini-3-7-flash/launches/gemini-3-7-flash",
+    "ph_product_url": "https://www.producthunt.com/products/gemini-3-7-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 113,
+    "featured_at": "2026-08-14T07:01:00Z",
+    "topics": "Artificial Intelligence, Development",
+    "makers": "sundar_pichai",
+    "logo": "https://ph-files.imgix.net/4b27ee07-3ddd-453c-8b79-a93a3dc78ccc.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AL44FIGNTQKLLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I3KVYYNW2JXMKS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KZ3XHAUAQJY7E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6WJYWJLS5Y6T44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Development",
+    "source_topic": "Development",
+    "source_topic_slug": "development"
+  },
+  {
+    "id": "1222324",
+    "name": "Freebuff",
+    "tagline": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
+    "description": "Freebuff is a free coding agent that gives you access to the best open source models. We offer a CLI, Desktop app, Web app builder, and Cloud agent -- all free! This is the free way to build full-stack apps. No subscription, no API keys, no lock-in. Cancel your subscriptions to Claude Code, Cursor, Codex, Lovable, Replit, Bolt, Windsurf, and Devin.",
+    "website": "https://www.producthunt.com/r/NWQXOKBNUWYRG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/freebuff-2/launches/freebuff-2",
+    "ph_product_url": "https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 112,
+    "featured_at": "2026-08-14T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Tech",
+    "makers": "[REDACTED], [REDACTED], victorcheng",
+    "logo": "https://ph-files.imgix.net/ec662680-3bec-4877-b6a8-b726cc801291.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UW3T7B7GU6LFGZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NWQXOKBNUWYRG6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2IUFIHABLL4ZYN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1220079",
+    "name": "Gitar",
+    "tagline": "AI code review that fixes what it finds",
+    "description": "Gitar reviews pull requests, diagnoses CI failures, applies fixes, and validates the changes against your pipeline. It can also retry flaky tests, automate review workflows, and act directly inside GitHub or GitLab. Now part of Sonar.",
+    "website": "https://www.producthunt.com/r/NSFHGHWL2JE6CW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gitar/launches/gitar",
+    "ph_product_url": "https://www.producthunt.com/products/gitar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 105,
+    "featured_at": "2026-08-11T07:01:00Z",
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], kageiit",
+    "logo": "https://ph-files.imgix.net/bcf72080-eb16-4cd7-93ea-5aabd69b2f0d.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/CSYIC7RQTXVWSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NSFHGHWL2JE6CW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/33BQO7T4K7TAJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1202577",
+    "name": "PenguinHarness",
+    "tagline": "Let Agents Autonomously Build Better Agents for $0.02",
+    "description": "PenguinHarness is an open-source self-improving harness built by the team behind LlamaFactory. Its AI-native SDK enables agents to build, evaluate, and optimize other agents. It supports 1,000+ models, reusable skills, tool and context management, automatic data generation, multi-agent evaluation, and closed-loop harness evolution. With one prompt and about $0.02, an agent can build a complete RAG application.",
+    "website": "https://www.producthunt.com/r/XWWAGE7VF5ZWRA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/penguinharness/launches/penguinharness",
+    "ph_product_url": "https://www.producthunt.com/products/penguinharness/launches/penguinharness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 66,
+    "featured_at": "2026-07-23T07:01:00Z",
+    "topics": "Open Source, Developer Tools, GitHub, SDK, OpenAI Day",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/2d43af1a-bb15-4b31-9c22-3b78f0e814eb.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XWWAGE7VF5ZWRA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Developer Productivity",
+    "source_topic": "SDK",
+    "source_topic_slug": "sdk"
+  },
+  {
+    "id": "1202019",
+    "name": "MyPeople",
+    "tagline": "Put a boss on your Claude Code and Codex agents ",
+    "description": "Running five AI coding agents means five terminals and copy-pasting context between them. MyPeople replaces that with one board and a persistent Boss agent: you give it the outcome, it writes the cards, assigns an owner, and reviews the work before it reaches you. The Terminal Graph shows every agent's live terminal wired to the card it owns. The HUD shows who is working and lets you attach to any of them from the browser. Claude Code, Codex and Grok run side by side, self-hosted in Docker.",
+    "website": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/mypeople/launches/mypeople-2",
+    "ph_product_url": "https://www.producthunt.com/products/mypeople/launches/mypeople-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 20,
+    "featured_at": null,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "domo_plow",
+    "logo": "https://ph-files.imgix.net/9fa3fdf0-397d-4a19-9658-99b31925042e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RYXRQWENI4ZIPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YZJZJZBOFKVXEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  }
+]
