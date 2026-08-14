@@ -6,7 +6,9 @@ from collections.abc import Iterable
 from pathlib import Path
 
 from logging_config import configure_logging
+from analysis import analyze_shortlist, analysis_output_path
 from sourcing import new_debug_candidates_path, source_topic
+from sourcing import shortlist_output_path
 
 DEFAULT_ENV_PATH = Path(__file__).with_name(".env")
 DEFAULT_STAGE = "all"
@@ -62,7 +64,23 @@ def main() -> None:
         print(f"source_posts={len(posts)}")
         print(f"source_output={output_path}")
 
-    if args.stage in {"analyze", "memo", "all"}:
+        analysis_input = shortlist_output_path(output_path)
+        analysis_out = analysis_output_path(analysis_input)
+        analysis_results = analyze_shortlist(args.topic, input_path=analysis_input, output_path=analysis_out)
+        print(f"analysis_input={analysis_input}")
+        print(f"analysis_output={analysis_out}")
+        print(f"analysis_results={len(analysis_results)}")
+
+    if args.stage == "analyze":
+        from analysis import _latest_shortlist_path
+        analysis_input = _latest_shortlist_path()
+        analysis_out = analysis_output_path(analysis_input)
+        analysis_results = analyze_shortlist(args.topic, input_path=analysis_input, output_path=analysis_out)
+        print(f"analysis_input={analysis_input}")
+        print(f"analysis_output={analysis_out}")
+        print(f"analysis_results={len(analysis_results)}")
+
+    if args.stage in {"memo", "all"}:
         print("remaining_stages=not_implemented")
 
 

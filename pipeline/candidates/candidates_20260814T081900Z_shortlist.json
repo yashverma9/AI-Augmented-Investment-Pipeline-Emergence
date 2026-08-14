@@ -1,0 +1,358 @@
+[
+  {
+    "id": "1205906",
+    "name": "Health in ChatGPT",
+    "tagline": "Your personal health companion, powered by ChatGPT",
+    "description": "Health in ChatGPT helps you better understand and navigate your health by bringing your health information into one conversation. Connect your health data, medical records, and wellness apps to get more personalized insights, track changes over time, prepare for appointments, understand results, and build healthier routines — all while staying in control of what you share.",
+    "website": "https://www.producthunt.com/r/S3VSCUPLNPUYSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/openai/launches/health-in-chatgpt",
+    "ph_product_url": "https://www.producthunt.com/products/openai/launches/health-in-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 152,
+    "featured_at": "2026-07-25T07:01:00Z",
+    "topics": "Health & Fitness, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/S3VSCUPLNPUYSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1212654",
+    "name": "CoachAI",
+    "tagline": "Your iPhone camera watches your form, rep by rep",
+    "description": "CoachAI uses your phone's camera to count your reps and correct your form in real time - a personal trainer's eyes in your pocket.",
+    "website": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/coachai-fitness-coach/launches/coachai",
+    "ph_product_url": "https://www.producthunt.com/products/coachai-fitness-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 101,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "iOS, Health & Fitness, Artificial Intelligence",
+    "makers": "mouhab_tarek",
+    "logo": "https://ph-files.imgix.net/c9d4b3e0-14f4-446a-bf3c-df8e95446513.webp?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1196663",
+    "name": "ChikitAI",
+    "tagline": "Agentic AI for Healthcare Triage and Care Automation",
+    "description": "ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers. It talks to patients in natural language, captures a clinical-grade history, assesses urgency, and routes them to the right care. Built on proprietary clinical LLMs, it cuts wait times, reduces no-shows, and gives clinicians their time back.",
+    "website": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/chikitai/launches/chikitai",
+    "ph_product_url": "https://www.producthunt.com/products/chikitai/launches/chikitai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 96,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "SaaS, Artificial Intelligence, Health, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], _arjunrao",
+    "logo": "https://ph-files.imgix.net/be754291-26ec-42c3-80cf-d6b35552ac00.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Z6RUS4BA4ZQGKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1202816",
+    "name": "Illume Labs",
+    "tagline": "24/7 personalized health companion you can text",
+    "description": "Illume is a 24/7 personal health companion that connects your wearables, nutrition, workouts, & lab results to give you personalized, actionable insights over text. Sign up: www.illumelabs.ai Illume connects patterns across your data that individual platforms can’t see, giving you a more complete picture of your health instead of another isolated score or dashboard. You can text your Illume agent for quick answers or use the platform to explore your data, trends, and history in depth.",
+    "website": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/illume-labs/launches/illume-labs",
+    "ph_product_url": "https://www.producthunt.com/products/illume-labs/launches/illume-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 95,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Health & Fitness, Biohacking, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], pari_latawa",
+    "logo": "https://ph-files.imgix.net/a581ee29-b24b-4e9b-a95e-0ccbd625d27e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/A6OXRYJKXNJALJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3PQXSRGWJHJYDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JZ5YA5Z2WM7S7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1221818",
+    "name": "Kin Health",
+    "tagline": "Record doctor visits and get clear summaries",
+    "description": "Kin helps you prepare for healthcare appointments, capture the conversation, and follow through afterward so you can stay present during the visit instead of taking notes or trying to remember everything later. After each visit, Kin turns the conversation into a focused summary. Rather than giving you a word-for-word transcript, Kin organizes the key points, recommendations, and next steps so you can quickly understand what happened and what to do next.",
+    "website": "https://www.producthunt.com/r/EFIZODXGO5X2CK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kin-health/launches/kin-health",
+    "ph_product_url": "https://www.producthunt.com/products/kin-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 95,
+    "featured_at": "2026-08-13T07:01:00Z",
+    "topics": "Health & Fitness, Notes, Artificial Intelligence",
+    "makers": "[REDACTED], amit_parikh2",
+    "logo": "https://ph-files.imgix.net/ee736fc3-92ad-4260-972e-0f4a4dfe7c87.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EFIZODXGO5X2CK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1216610",
+    "name": "Pocket Fit",
+    "tagline": "AI Workout & Food",
+    "description": "Most people quit fitness apps in week three. You do everything right for 21 days, the mirror looks identical, and all the app gives back is a number. Pocket Fit makes progress visible. Take one photo and AI shows you 1, 2, 3 and 6 months ahead and a 3D avatar changes as you train. Underneath: workouts with weights auto-picked and progressed, food logged by photo, muscle coverage tracking, mood, streaks, and a crew who roast you for skipping leg day. Built by two people in London.",
+    "website": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pocket-fit/launches/pocket-fit",
+    "ph_product_url": "https://www.producthunt.com/products/pocket-fit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 26,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], georgerabotov",
+    "logo": "https://ph-files.imgix.net/f630140d-1738-415f-a6c4-9119160f3201.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BCXG6MV7WHX6W4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SJ46LWF6R4IAXK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1210861",
+    "name": "BitePad",
+    "tagline": "Minimalist voice calorie tracker",
+    "description": "BitePad is intentionally minimal. Instead of packing in bloated features, we focus on one thing: making calorie tracking fast and effortless. Simply speak or type what you ate, and BitePad turns it into a meal log in seconds. Unlike AI photo logging, which often misidentifies foods and requires manual corrections, BitePad lets you review the estimated calories and macros, make any quick edits if needed, and save your meal. Simple by design, built for everyday use.",
+    "website": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bitepad/launches/bitepad-2",
+    "ph_product_url": "https://www.producthunt.com/products/bitepad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 26,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Audio",
+    "makers": "[REDACTED], [REDACTED], rahulhunt",
+    "logo": "https://ph-files.imgix.net/9d4565d4-b522-409b-b59a-fbab2d103340.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1196158",
+    "name": "Life by Synheart ",
+    "tagline": "An Ai Companion app built to actually understands you",
+    "description": "For decades, technology has understood what you type. Today, it starts understanding you. Life is the first cognitive wellness app, built on top of Synheart's Human State Interface infrastructure. It learns from how you type and reads your biosignals, then shows you how you're actually doing across your focus, stress, and recovery. Ask syni, your AI companion why your focus is dropping, or when you're usually at your best, and it answers from your real patterns.",
+    "website": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/life-by-synheart/launches/life-by-synheart",
+    "ph_product_url": "https://www.producthunt.com/products/life-by-synheart/launches/life-by-synheart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 23,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "isrugeek",
+    "logo": "https://ph-files.imgix.net/3f1b521c-eb1c-4cca-b603-ee5899449a2a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HBWB74IGGLLH2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1204796",
+    "name": "Council",
+    "tagline": "A council of AI agents that hear you and help you heal.",
+    "description": "Council is a private space for the thoughts you do not want to face alone. Share what is on your mind through text or voice. Choose Voice Room for familiar guides, or Council Discussion when you want multiple perspectives reasoning together. Use Classic mode or Animal mode, with a panda Therapist, dog Friend, owl Guide, and fox Coach. Your conversations, journal entries, and saved next steps stay in your browser. Bring your own model key for more control. Try Council today.",
+    "website": "https://www.producthunt.com/r/ABRAAR26JUHBWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/council-4/launches/council-7",
+    "ph_product_url": "https://www.producthunt.com/products/council-4/launches/council-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 21,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], whatranjusaid",
+    "logo": "https://ph-files.imgix.net/0fd60551-3ed1-4c7c-891b-c3d71d001e2e.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EM7MYRGHZM6TCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ABRAAR26JUHBWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/46LPG5QTZ4LU2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1175611",
+    "name": "TextMyPill",
+    "tagline": "WhatsApp medicine reminders. No app needed. 🦦",
+    "description": "Set medicine reminders for yourself or your entire family from one dashboard — anywhere in the world. Pillo delivers reminders on WhatsApp automatically. Snap a prescription, AI reads it, done. Track who took what. No app needed. Free 7-day trial.",
+    "website": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/textmypill/launches/textmypill",
+    "ph_product_url": "https://www.producthunt.com/products/textmypill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 20,
+    "featured_at": null,
+    "topics": "Health & Fitness, Messaging, Artificial Intelligence",
+    "makers": "itsbhavesh",
+    "logo": "https://ph-files.imgix.net/6943d037-c8a7-4f53-865a-c6067f68f7e2.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WB4HOFGMKWOBRO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health AI",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1205300",
+    "name": "Estera",
+    "tagline": "AI Receptionist that Answers Calls & WhatsApp 24/7",
+    "description": "Meet Estera, the AI receptionist built for real estate, hotels, restaurants, and more. AI agent receptionist that answers every phone call and WhatsApp message in under 5 seconds, qualifies leads, books appointments, and follows up automatically. Built for real estate, hotels, restaurants, dental clinics, and more. Create your own AI agent assistant in under 3 minutes.",
+    "website": "https://www.producthunt.com/r/GSPE3HHD2AHU47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/estera/launches/estera",
+    "ph_product_url": "https://www.producthunt.com/products/estera/launches/estera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 145,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Productivity, Customer Success, Artificial Intelligence",
+    "makers": "[REDACTED], toma_rares",
+    "logo": "https://ph-files.imgix.net/cab423e8-40e9-4228-9979-6882398e9e86.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/GSPE3HHD2AHU47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FKNLDZKXDAICEG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FXBR2RDRQKKDKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7IQHPA4X3LAATS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MC5VTBDPM3VRJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3J3IZ5C6GAPAIT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3322HBNPC2Z2BR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Telemedicine Tools",
+    "source_topic": "Customer Success",
+    "source_topic_slug": "customer-success"
+  },
+  {
+    "id": "1209039",
+    "name": "Bo AI",
+    "tagline": "An AI personal assistant that lives in your texts 💬",
+    "description": "Bo is the first consumer AI product that exists to serve everyday people. Bo helps you stay organized, save time, live healthier, and answer your questions—all via text.",
+    "website": "https://www.producthunt.com/r/HKCHIY3OYYT4LW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bo-ai/launches/bo-ai",
+    "ph_product_url": "https://www.producthunt.com/products/bo-ai/launches/bo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 138,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, Virtual Assistants",
+    "makers": "[REDACTED], diksha_giri13",
+    "logo": "https://ph-files.imgix.net/bf7e6ff3-68de-462c-855f-ad6028363761.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HKCHIY3OYYT4LW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6IK22QB4T2NK7L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Virtual Health Assistants",
+    "source_topic": "Virtual Assistants",
+    "source_topic_slug": "virtual-assistants"
+  }
+]

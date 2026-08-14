@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+from typing import Literal
 
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
@@ -30,9 +31,10 @@ def call_structured[SchemaT: BaseModel](
     user_prompt: str,
     *,
     model: str | None = None,
+    method: Literal["function_calling", "json_mode", "json_schema"] = "json_schema",
 ) -> SchemaT:
     """Single schema-constrained call; retries only on transient API errors."""
-    client = get_client(model=model).with_structured_output(schema)
+    client = get_client(model=model).with_structured_output(schema, method=method)
     result = client.invoke(
         [
             {"role": "system", "content": system_prompt},

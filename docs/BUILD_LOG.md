@@ -32,3 +32,62 @@
     3. One cheap batched LLM call (name + tagline only, yes/no against thesis) as a relevance gate -> gets ~40-60 down upto ~20-25.
 
 - Tried to fetch further data from Hacker News, YC, github, personal websites related but failed due to scraping limitations, blockers and time constraints. Relying on PH data for analysis.
+
+## Analysis
+
+### What we score, and where each comes from
+
+1. **Traction** — how many PH votes a startup got, compared to others in
+   the same shortlist. Pure math, no AI involved.
+
+2. **Product Specificity** — does the startup clearly explain what it does,
+   who it's for, and how it works? Or is it vague marketing talk?
+   Judged by AI, reading only the tagline + description.
+
+3. **Differentiation** — does it explain why it's better/different from
+   alternatives, or is it just generic buzzwords?
+   Judged by AI, same tagline + description text.
+
+4. **Market Fit** — does it actually match the niche we're looking for
+   (our thesis), based on tagline, description, and category tags?
+   Judged by AI.
+
+### How each is scored
+
+- Traction: math formula (min-max), gives a 0-100 number based on where
+  it ranks compared to the rest of the shortlist.
+- The other 3: AI picks one of 5 labels (very weak, weak, moderate,
+  strong, very strong) for each, with a reason. We convert each label
+  to a fixed number (10 / 30 / 50 / 75 / 95) in code — AI never picks
+  the number directly, so scores stay consistent.
+
+### Final score
+
+We combine all 4 into one number using weights (how much each one
+counts):
+
+- Product Specificity: 35%
+- Differentiation: 25%
+- Traction: 25%
+- Market Fit: 15%
+
+(Specificity and differentiation count the most because they tell us
+most about whether it's a real, focused product. Traction is real
+behavior data but noisy. Market fit is more of a relevance check than
+a quality signal.)
+
+### What we dropped, and why
+
+- **Team background** — almost never available from our free data
+  sources, so we stopped trying to score it and just note the
+  limitation once instead of chasing it per candidate.
+- **Recency** — our shortlist ends up mostly 1 week - 1 month old
+  anyway, so scoring "how fresh" didn't actually tell us anything
+  useful. Dropped it and gave its weight to the two criteria that
+  do discriminate.
+
+### Final call
+
+- 70+ → Take a meeting
+- 45-69 → Watch
+- below 45 → Pass
