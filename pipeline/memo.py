@@ -4,19 +4,17 @@ import argparse
 import json
 import logging
 import re
-from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
 from jinja2 import Environment, FileSystemLoader
 
 from logging_config import configure_logging
+from run_paths import analysis_path as run_analysis_path
+from run_paths import latest_run_dir, memos_dir
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_ANALYSIS_PATH = Path(__file__).with_name("analysis.json")
-DEFAULT_CANDIDATES_DIR = Path(__file__).with_name("candidates")
-DEFAULT_MEMOS_DIR = Path(__file__).with_name("memos")
 TEMPLATE_DIR = Path(__file__).with_name("templates")
 TEMPLATE_NAME = "memo.md.jinja"
 
@@ -27,36 +25,13 @@ WATCH_THRESHOLD = 50
 WOULD_CHANGE_MIND_CRITERIA = ("product_specificity", "differentiation", "market_fit")
 
 
-def slugify(text: str, max_length: int | None = None) -> str:
-    """Filesystem-safe slug, e.g. 'AI agents for SMBs' -> 'ai-agents-for-smbs'."""
-    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
-    if max_length is not None and len(slug) > max_length:
-        slug = slug[:max_length].rsplit("-", 1)[0]
-    return slug
-
-
-def topic_abbreviation(topic: str, max_length: int = 24) -> str:
-    """Short filesystem-safe slug for a topic, e.g. 'AI agents for SMBs' -> 'ai-agents-for-smbs'."""
-    return slugify(topic, max_length=max_length) or "topic"
-
-
-def memo_run_dir(topic: str, base_dir: Path = DEFAULT_MEMOS_DIR) -> Path:
-    """A fresh timestamped folder per pipeline run: memos/memos-<topic-abbrev>-<timestamp>/."""
-    timestamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
-    return base_dir / f"memos-{topic_abbreviation(topic)}-{timestamp}"
+def slugify(text: str) -> str:
+    """Filesystem-safe slug, e.g. 'BitePad' -> 'bitepad'."""
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
 def _latest_analysis_path() -> Path:
-    if DEFAULT_ANALYSIS_PATH.exists():
-        return DEFAULT_ANALYSIS_PATH
-
-    analysis_paths = sorted(DEFAULT_CANDIDATES_DIR.glob("*_analysis.json"))
-    if analysis_paths:
-        return analysis_paths[-1]
-
-    raise FileNotFoundError(
-        f"No analysis file found. Expected {DEFAULT_ANALYSIS_PATH} or a timestamped file under {DEFAULT_CANDIDATES_DIR}."
-    )
+    return run_analysis_path(latest_run_dir())
 
 
 def _load_analysis(analysis_path: Path) -> list[dict[str, Any]]:
@@ -99,7 +74,6 @@ def other_links(product_links: list[dict[str, Any]]) -> list[dict[str, str]]:
 
 def generate_memos(
     analysis_path: Path,
-    topic: str,
     *,
     output_dir: Path | None = None,
     template_dir: Path = TEMPLATE_DIR,
@@ -109,7 +83,7 @@ def generate_memos(
     env = Environment(loader=FileSystemLoader(str(template_dir)))
     template = env.get_template(TEMPLATE_NAME)
 
-    out_dir = output_dir or memo_run_dir(topic)
+    out_dir = output_dir or memos_dir(analysis_path.parent)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for candidate in candidates:
@@ -148,12 +122,11 @@ def generate_memos(
 def main() -> None:
     configure_logging("memo")
     parser = argparse.ArgumentParser(description="Render investment memos from analysis.json")
-    parser.add_argument("--topic", required=True, help="Investment theme (used to name the output folder)")
     parser.add_argument("--input", type=Path, default=None, help="Analysis JSON to render memos from")
     args = parser.parse_args()
 
     analysis_path = args.input or _latest_analysis_path()
-    out_dir = generate_memos(analysis_path, args.topic)
+    out_dir = generate_memos(analysis_path)
     print(f"analysis_input={analysis_path}")
     print(f"memos_output={out_dir}")
 

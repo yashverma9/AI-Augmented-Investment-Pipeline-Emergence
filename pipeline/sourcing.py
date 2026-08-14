@@ -1,28 +1,27 @@
 from __future__ import annotations
 
 import argparse
-from datetime import UTC, datetime
-from pathlib import Path
-from typing import Any
 import logging
 import re
+from pathlib import Path
+from typing import Any
+
+from pydantic import BaseModel, Field
 
 from llm import call_structured
 from logging_config import configure_logging
 from models import TopicQueries
-from pydantic import BaseModel, Field
 from product_hunt import (
     DEFAULT_PER_QUERY_LIMIT,
     DEFAULT_TOPICS_PER_QUERY,
     fetch_posts_for_queries,
     save_posts_to_json,
 )
+from run_paths import new_run_dir, shortlist_path, sourcing_path
 
 NUM_QUERIES = 5
 NUM_SHORTLIST = 25
 SHORTLIST_LLM_BATCH_SIZE = 15
-DEFAULT_OUTPUT_PATH = Path(__file__).with_name("candidates.json")
-DEBUG_CANDIDATES_DIR = Path(__file__).with_name("candidates")
 
 # Cheap pre-filter: known large/established companies whose PH posts are product releases,
 # not independent startups (e.g. a new Gemini model), regardless of thesis fit.
@@ -152,13 +151,6 @@ def expand_topic_to_queries(topic: str) -> list[str]:
     return result.queries
 
 
-def new_debug_candidates_path() -> Path:
-    """Timestamped path under candidates/ so each debug run keeps its own output file."""
-    DEBUG_CANDIDATES_DIR.mkdir(exist_ok=True)
-    timestamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
-    return DEBUG_CANDIDATES_DIR / f"candidates_{timestamp}.json"
-
-
 def _tokenize(text: str) -> set[str]:
     return {
         token
@@ -267,22 +259,20 @@ def shortlist_candidates(posts: list[dict[str, Any]], thesis: str, limit: int = 
     return shortlisted[:limit]
 
 
-def shortlist_output_path(output_path: Path) -> Path:
-    return output_path.with_name(f"{output_path.stem}_shortlist{output_path.suffix}")
-
-
 def source_topic(
     topic: str,
     *,
     per_query: int = DEFAULT_PER_QUERY_LIMIT,
     topics_per_query: int = DEFAULT_TOPICS_PER_QUERY,
-    output_path: Path = DEFAULT_OUTPUT_PATH,
-) -> list[dict[str, Any]]:
+    run_dir: Path | None = None,
+) -> tuple[list[dict[str, Any]], Path]:
+    """Fetch posts and write sourcing.json + shortlisted.json into a per-run directory."""
+    run_dir = run_dir or new_run_dir(topic)
     queries = expand_topic_to_queries(topic)
     posts = fetch_posts_for_queries(queries, per_query=per_query, topics_per_query=topics_per_query)
-    save_posts_to_json(posts, output_path)
-    save_posts_to_json(shortlist_candidates(posts, thesis=topic), shortlist_output_path(output_path))
-    return posts
+    save_posts_to_json(posts, sourcing_path(run_dir))
+    save_posts_to_json(shortlist_candidates(posts, thesis=topic), shortlist_path(run_dir))
+    return posts, run_dir
 
 
 def main() -> None:
@@ -291,22 +281,22 @@ def main() -> None:
     parser.add_argument("--topic", required=True)
     parser.add_argument("--per-query", type=int, default=DEFAULT_PER_QUERY_LIMIT)
     parser.add_argument("--topics-per-query", type=int, default=DEFAULT_TOPICS_PER_QUERY)
-    parser.add_argument("--output", type=Path, default=None, help="Defaults to a new timestamped file under candidates/")
+    parser.add_argument("--run-dir", type=Path, default=None, help="Defaults to a new folder under runs/")
     args = parser.parse_args()
 
-    output_path = args.output or new_debug_candidates_path()
-    posts = source_topic(
+    posts, run_dir = source_topic(
         args.topic,
         per_query=args.per_query,
         topics_per_query=args.topics_per_query,
-        output_path=output_path,
+        run_dir=args.run_dir,
     )
     print(f"queries={NUM_QUERIES}")
     print(f"per_query={args.per_query}")
     print(f"topics_per_query={args.topics_per_query}")
     print(f"posts={len(posts)}")
-    print(f"output={output_path}")
-    print(f"shortlist_output={shortlist_output_path(output_path)}")
+    print(f"run_dir={run_dir}")
+    print(f"sourcing_output={sourcing_path(run_dir)}")
+    print(f"shortlist_output={shortlist_path(run_dir)}")
 
 
 if __name__ == "__main__":

@@ -8,7 +8,8 @@ from pathlib import Path
 from analysis import analysis_output_path, analyze_shortlist
 from logging_config import configure_logging
 from memo import generate_memos
-from sourcing import new_debug_candidates_path, shortlist_output_path, source_topic
+from run_paths import new_run_dir, shortlist_path
+from sourcing import source_topic
 
 DEFAULT_ENV_PATH = Path(__file__).with_name(".env")
 DEFAULT_STAGE = "all"
@@ -61,12 +62,12 @@ def main() -> None:
     analysis_out: Path | None = None
 
     if args.stage in {"source", "all"}:
-        output_path = new_debug_candidates_path()
-        posts = source_topic(args.topic, output_path=output_path)
+        run_dir = new_run_dir(args.topic)
+        posts, run_dir = source_topic(args.topic, run_dir=run_dir)
+        print(f"run_dir={run_dir}")
         print(f"source_posts={len(posts)}")
-        print(f"source_output={output_path}")
 
-        analysis_input = shortlist_output_path(output_path)
+        analysis_input = shortlist_path(run_dir)
         analysis_out = analysis_output_path(analysis_input)
         analysis_results = analyze_shortlist(args.topic, input_path=analysis_input, output_path=analysis_out)
         print(f"analysis_input={analysis_input}")
@@ -85,9 +86,9 @@ def main() -> None:
     if args.stage in {"memo", "all"}:
         from memo import _latest_analysis_path
         memo_input = analysis_out or _latest_analysis_path()
-        memos_dir = generate_memos(memo_input, args.topic)
+        memos_output = generate_memos(memo_input)
         print(f"memo_input={memo_input}")
-        print(f"memo_output={memos_dir}")
+        print(f"memo_output={memos_output}")
 
 
 if __name__ == "__main__":

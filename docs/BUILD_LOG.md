@@ -107,3 +107,5 @@ a quality signal.)
 - There are no external calls (APIs, LLMs) made in this phase of the pipeline. The generation completely relies on our analysis data.
 
 - For each pipeline run, a directory is created with the name memos-{topic-input}-{timestamp} and all the shortlisted candidate memos are generated into the directory
+
+- Stored the pipeline run outputs in a better organised structure to the runs directory with each run having its own directory within it.

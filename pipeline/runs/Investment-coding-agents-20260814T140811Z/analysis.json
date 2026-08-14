@@ -1,0 +1,922 @@
+[
+  {
+    "name": "SKI",
+    "tagline": "Free voice coding for Claude Code, Codex and more",
+    "description": "We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac & Windows.",
+    "website": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ski/launches/ski",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 624,
+    "topics": "Productivity, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], anoop_balakrishnan",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4776JMPD744PM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 100.0,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It names a specific problem of coding speed and a specific user of developers, but the mechanism is somewhat vague as it doesn't detail how it integrates with existing workflows.",
+        "would_change_mind": "If it provided specific examples of how it integrates with popular coding environments or tools.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It uses general terms like 'ambient thing' and 'works on your machine' without a clear comparison to existing solutions.",
+        "would_change_mind": "If it explicitly compared its features or benefits to a specific competitor's offering.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not specify a target customer size or vertical, only mentioning 'developers' in a broad sense.",
+        "would_change_mind": "If it named a specific type of developer or team size, such as 'small development teams' or 'freelance developers'.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 63.25,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Prefactor",
+    "tagline": "Evaluate your AI Agents in real-time",
+    "description": "Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.",
+    "website": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prefactor/launches/prefactor",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 619,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], joeys",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/QAODM4FNSULKAP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LRZWS7UQXUFGQW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ],
+    "scores": {
+      "traction": 99.1638795986622,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of agents failing in production and targets engineering teams, but the mechanism of how it evaluates agents is not fully detailed.",
+        "would_change_mind": "If it explained the specific metrics or methods it uses to evaluate agent performance.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It implies a clear differentiator by stating it is an evaluation layer that addresses a specific gap in agent performance.",
+        "would_change_mind": "If it named specific competitors and detailed how its approach is different from theirs.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It targets engineering teams but does not specify the size or type of these teams, making it unclear if it fits the SMB thesis.",
+        "would_change_mind": "If it specified that it is designed for small engineering teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 74.29,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Coldtea.ai",
+    "tagline": "Make your software self-driving",
+    "description": "The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything",
+    "website": "https://www.producthunt.com/r/WB4IUOEMBNYG5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/coldtea/launches/coldtea",
+    "created_at": "2026-08-07T07:01:00Z",
+    "votes_count": 518,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], favour_ohans",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WB4IUOEMBNYG5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TXZFYJRLBRSY6V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2BSKJU6BR7U6EX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 82.2742474916388,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It describes a specific problem of maintaining production stability while shipping quickly and targets teams, but the mechanism is somewhat vague.",
+        "would_change_mind": "If it detailed how the agentic IDE specifically helps in maintaining stability during the coding process.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It mentions an 'agentic IDE' but does not provide a clear comparison to existing IDEs or tools.",
+        "would_change_mind": "If it explicitly compared its features to a specific competitor's IDE.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It mentions 'teams' but does not specify the size or type of teams, lacking a clear connection to the SMB thesis.",
+        "would_change_mind": "If it stated that it is specifically for small teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 58.82,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Zro",
+    "tagline": "Private inference for coding agents",
+    "description": "Fast and optimized open-model inference on multi-region infrastructure with zero request retention.",
+    "website": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zro/launches/zro",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 454,
+    "topics": "API, Developer Tools, Tech, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], jeremy_felder",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VLHFXUWJ6KN7JY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/I4PXXCY6JA6O2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DONPFJP7I3YZBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 71.57190635451505,
+      "product_specificity": 10.0,
+      "differentiation": 10.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_weak",
+        "basis": "It does not specify a problem, user, or mechanism, using only technical jargon.",
+        "would_change_mind": "If it described a specific problem that its private inference solves for a specific user.",
+        "score": 10.0
+      },
+      "differentiation": {
+        "label": "very_weak",
+        "basis": "It lacks any differentiation language, only stating technical capabilities without context.",
+        "would_change_mind": "If it provided a specific reason why its private inference is better than existing solutions.",
+        "score": 10.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "It does not target any specific customer segment or business size, making it unrelated to the SMB thesis.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or specific small-business verticals.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 25.39,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "AgentSky",
+    "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+    "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+    "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agentsky/launches/agentsky",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 450,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], xiaoyin_qu1",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 70.90301003344482,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of launching AI agents and targets developers, but the mechanism is not fully detailed.",
+        "would_change_mind": "If it explained how the managed service simplifies the process of launching agents.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It implies a clear differentiator by stating it offers managed agent services with specific features like recovery and access through various platforms.",
+        "would_change_mind": "If it named specific competitors and detailed how its service is different from theirs.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It targets developers but does not specify the size or type of these developers, lacking a clear connection to the SMB thesis.",
+        "would_change_mind": "If it stated that it is specifically for small development teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 67.23,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Cekura",
+    "tagline": "The self-improvement loop for voice agents",
+    "description": "Cekura is the testing, observability, and self-improvement platform for production voice and chat AI agents. It simulates thousands of scenarios, catches failures, diagnoses the root cause, rewrites prompts and config, then re-validates with a full regression sweep. Unlike tools that hand failures back to your team, Cekura closes the loop by fixing the agent itself and proving the fix holds without overfitting.",
+    "website": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/vocera/launches/cekura-3",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 395,
+    "topics": "SaaS, Developer Tools, Audio",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], krishyv",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LJOLRCK5MPU5DR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B2O2RTYBQAR355?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 61.7056856187291,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of testing and observability for voice agents and targets production teams, but the mechanism is somewhat vague.",
+        "would_change_mind": "If it detailed the specific processes it uses to simulate scenarios and catch failures.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It states a clear differentiation by explaining how it closes the loop by fixing agents automatically, which is not common in existing tools.",
+        "would_change_mind": "If it compared its self-improvement capabilities to a specific competitor's offering.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It targets production teams but does not specify the size or type of these teams, lacking a clear connection to the SMB thesis.",
+        "would_change_mind": "If it specified that it is designed for small teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 64.93,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Campus",
+    "tagline": "One project space for humans and AI agents",
+    "description": "Campus gives builders a shared space to build with teammates and AI agents. Keep your repo, terminal, project knowledge, conversations, and agent work together in one persistent workspace, instead of scattering context across Slack threads, docs, tickets, canvases, and one-off AI chats. Campus is organized around the thing you are building, so humans and agents can pick up where the work left off.",
+    "website": "https://www.producthunt.com/r/4PXLGX63BG2Y7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/flutterflow/launches/campus-4",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 359,
+    "topics": "Productivity, Software Engineering, Developer Tools",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], kate_usher2",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UCSIXHVOJU2TMH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KVW2DU6YN2OANH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4PXLGX63BG2Y7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 55.68561872909699,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of scattered context for builders and targets builders, but the mechanism is somewhat vague.",
+        "would_change_mind": "If it provided specific examples of how it integrates various tools into one workspace.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It uses general terms about organization without a clear comparison to existing solutions.",
+        "would_change_mind": "If it explicitly compared its features to a specific competitor's product.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It targets builders but does not specify the size or type of these builders, lacking a clear connection to the SMB thesis.",
+        "would_change_mind": "If it stated that it is specifically for small teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 52.17,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Rerun",
+    "tagline": "The easiest way to build AI agents for all your tasks",
+    "description": "Most AI agents are black boxes. Rerun isn't. Build no-code agents that run 24/7, chasing invoices, qualifying leads, clearing your inbox, and watch every step in real time. They pause for approval before anything sensitive. Each workspace gets its own private server. Start with the included model, or connect your own API key or subscription",
+    "website": "https://www.producthunt.com/r/XYR6JX4GTXPF64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/rerun-2/launches/rerun-3",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 338,
+    "topics": "Tech, Marketing automation",
+    "makers": "[REDACTED], [REDACTED], theolouro",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KRNNI43GVDXF2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XYR6JX4GTXPF64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 52.17391304347826,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of transparency in AI agents and targets users building no-code agents, but the mechanism is somewhat vague.",
+        "would_change_mind": "If it detailed how users can build and monitor agents in real time.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It states a clear differentiation by emphasizing that Rerun is not a black box, which is a specific point of difference.",
+        "would_change_mind": "If it named specific competitors and detailed how its transparency is better than theirs.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It targets users building agents but does not specify the size or type of these users, lacking a clear connection to the SMB thesis.",
+        "would_change_mind": "If it stated that it is specifically for small businesses or specific small-business verticals.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 62.54,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Oasis",
+    "tagline": "Where humans and agents come to work.",
+    "description": "An intelligent workspace for you, all your agents, and your team. Bring the best agents from across the ecosystem into one place, where people and agents work together as equal teammates. Every conversation, decision, and artifact becomes shared knowledge that compounds over time. As the workspace learns how you work, it adapts to your needs and builds specialized tools that help everyone do its best work.",
+    "website": "https://www.producthunt.com/r/4IKWDWPTSOGQQ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/oasis-6/launches/oasis-7",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 235,
+    "topics": "Productivity, Artificial Intelligence, No-Code",
+    "makers": "[REDACTED], [REDACTED], jaysontian",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4IKWDWPTSOGQQ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3YPVP3UYFNETYD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 34.94983277591973,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "An intelligent workspace for you, all your agents, and your team.",
+        "would_change_mind": "If it specified a particular user persona, such as a project manager or a specific industry role, instead of using the vague term 'team.'",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "Bring the best agents from across the ecosystem into one place.",
+        "would_change_mind": "If it provided a specific comparison to existing workspace solutions or named competitors.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "An intelligent workspace for you, all your agents, and your team.",
+        "would_change_mind": "If it explicitly targeted a specific small business vertical, such as marketing agencies or tech startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 31.24,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Annotate",
+    "tagline": "Free screen recording as prompts",
+    "description": "Record your screen, point by drawing and speak, and hand it off to AI agent. Video prompts for Cursor, Claude, and Codex or any AI coding agent — local-only and free.",
+    "website": "https://www.producthunt.com/r/5PZ4OYVR3UXAK5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/annotate-8/launches/annotate-8",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 208,
+    "topics": "Design Tools, Developer Tools, Artificial Intelligence",
+    "makers": "kim_ben_g",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5PZ4OYVR3UXAK5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 30.434782608695656,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Record your screen, point by drawing and speak, and hand it off to AI agent.",
+        "would_change_mind": "If it named a specific user persona, such as software developers or designers, instead of using the general term 'AI agent.'",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Free screen recording as prompts.",
+        "would_change_mind": "If it detailed how its features are superior to existing screen recording tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "Video prompts for Cursor, Claude, and Codex or any AI coding agent.",
+        "would_change_mind": "If it specified a target user size, such as freelancers or small teams, rather than just mentioning AI coding agents.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 57.11,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Progress AI Observability",
+    "tagline": "Trace, evaluate, and improve AI agents in production",
+    "description": "Debug and monitor AI agent failures in minutes. Trace every run, catch hallucinations and ungrounded answers that traditional monitoring misses, and see exactly what went wrong. Reduce token waste, improve agent quality, and ship faster with support forNET, Python, and JavaScript.",
+    "website": "https://www.producthunt.com/r/5L22D2Y4SZLAKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/progress-ai-observability/launches/progress-ai-observability",
+    "created_at": "2026-08-07T07:01:00Z",
+    "votes_count": 167,
+    "topics": "SaaS, Software Engineering, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], a_zlatkov",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 23.578595317725753,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Debug and monitor AI agent failures in minutes.",
+        "would_change_mind": "If it specified a particular user persona, such as data scientists or software engineers, instead of the general term 'AI agent.'",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Catch hallucinations and ungrounded answers that traditional monitoring misses.",
+        "would_change_mind": "If it provided a specific comparison to traditional monitoring tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "Debug and monitor AI agent failures in minutes.",
+        "would_change_mind": "If it explicitly targeted a specific small business vertical, such as startups or small tech companies.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 55.39,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Notate",
+    "tagline": "Annotate anything for humans and their agents",
+    "description": "Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs. Unlike screenshot tools, it freezes open menus, hover and focus states before they disappear, or records a flow so you can pin the exact frame where an animation breaks. Gesture-based annotation keeps the flow fast; smart crop and reopenable sessions preserve the image, comments, and context so feedback stays useful when it reaches a teammate or an agent.",
+    "website": "https://www.producthunt.com/r/4Z62FS55OECVUN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/notate-2/launches/notate-2",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 110,
+    "topics": "Design Tools, Developer Tools, GitHub, Menu Bar Apps",
+    "makers": "victor_aremu",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4Z62FS55OECVUN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 14.046822742474916,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs.",
+        "would_change_mind": "If it specified a particular user persona, such as UX designers or software developers, instead of using the general term 'humans.'",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Unlike screenshot tools, it freezes open menus, hover and focus states before they disappear.",
+        "would_change_mind": "If it provided a specific comparison to existing annotation tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "Notate is for anything where pointing beats describing.",
+        "would_change_mind": "If it named a specific small business vertical, such as design agencies or tech startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 53.01,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Blaxel Agent Drive",
+    "tagline": "A shared filesystem for AI agents",
+    "description": "Mount one distributed filesystem across multiple sandboxes with concurrent read-write access. Agents can share files, tool outputs, datasets, and context through a normal filesystem path.",
+    "website": "https://www.producthunt.com/r/X7DGT5OEUMCIGS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/blaxel/launches/blaxel-agent-drive",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 109,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], nico_lecomte",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/X7DGT5OEUMCIGS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DOFNB2LHKG67HF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EFA2YK2RRDMT5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VF27X3QPZR7L6J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 13.879598662207357,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "Mount one distributed filesystem across multiple sandboxes with concurrent read-write access.",
+        "would_change_mind": "If it explained how this filesystem specifically benefits a certain user persona or use case.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "Agents can share files, tool outputs, datasets, and context through a normal filesystem path.",
+        "would_change_mind": "If it provided a specific comparison to existing shared filesystem solutions.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "Mount one distributed filesystem across multiple sandboxes.",
+        "would_change_mind": "If it explicitly targeted a specific customer segment, such as small development teams or startups.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 22.97,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Murmell",
+    "tagline": "Cloud canvas where your team and AI agents works together",
+    "description": "Murmell is a shared cloud canvas where your team and AI agents work in the same room, on the same repo, with a preview and more coming in the future. Close your laptop and the work keeps going. Agents claim files before they write, so people and agents can move at once without overwriting each other. Run Claude Code, Codex, Kimi, and OpenCode together today, with more agents on the way (OpenClaw, Hermes, and more), and your work lands back in git, so you can always find your projects there.",
+    "website": "https://www.producthunt.com/r/OTVL6O5W5ORVNF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/murmell/launches/murmell",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 100,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "makers": "moss_ab_mirande_ney",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/SWQ7HMDX73TYKR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OTVL6O5W5ORVNF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 12.37458193979933,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Murmell is a shared cloud canvas where your team and AI agents work in the same room.",
+        "would_change_mind": "If it specified a particular user persona, such as project managers or designers, instead of using the general term 'team.'",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Agents claim files before they write, so people and agents can move at once without overwriting each other.",
+        "would_change_mind": "If it provided a specific comparison to existing collaborative tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "Murmell is a shared cloud canvas where your team and AI agents work in the same room.",
+        "would_change_mind": "If it named a specific small business vertical, such as creative agencies or tech startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 52.59,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Kopai",
+    "tagline": " Share your expertise, and let our agents earn for you.",
+    "description": "Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour. Upload your knowledge, publish in minutes with no code, and let people pay for instant answers instead of booking your calendar. You keep 70% of everything your agent earns. Built-in evaluation testing, encrypted knowledge bases, and multi-agent orchestration mean it's not a prompt wrapper, it's real infrastructure. We handle discovery, billing, and trust so you can focus on what you know.",
+    "website": "https://www.producthunt.com/r/32Z4PUCTZP3CTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents/launches/kopai",
+    "created_at": "2026-08-01T07:01:00Z",
+    "votes_count": 95,
+    "topics": "Productivity, SaaS, No-Code",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], s7arborne",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/32Z4PUCTZP3CTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 11.538461538461538,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour.",
+        "would_change_mind": "If it stated that it only targets large enterprises or corporate clients.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "Built-in evaluation testing, encrypted knowledge bases, and multi-agent orchestration mean it's not a prompt wrapper, it's real infrastructure.",
+        "would_change_mind": "If it stated that it is a simple prompt wrapper without any of the advanced features mentioned.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "Let people pay for instant answers instead of booking your calendar.",
+        "would_change_mind": "If it specified a target user size, such as solo entrepreneurs or small consulting firms, rather than just mentioning expertise.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 71.13,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Heym",
+    "tagline": "Build agentic systems. Run them with confidence",
+    "description": "Heym is a source-available platform for building and running agentic systems on your own infrastructure. Build multi-agent workflows visually, connect your data and tools, bring in coding agents like Codex and OpenCode, and add human approval where it matters. See exactly how every run performs with built-in traces, costs, latency, and evals. Self-host Heym, use your own models and credentials, and ship workflows as portals, APIs, or MCP tools.",
+    "website": "https://www.producthunt.com/r/BHKUM7QSYO5ZJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/heym/launches/heym-2",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 55,
+    "topics": "Open Source, Developer Tools, GitHub, No-Code",
+    "makers": "[REDACTED], ceren_kaya_akgun",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IS3AVPCGDHWY3I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3V5YO3BIRKPOL6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TMY2CVIOPMLIIB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CZBHGW2MYS5RND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BHKUM7QSYO5ZJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3TVJHMEFOI5PVU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 4.849498327759197,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Heym is a source-available platform for building and running agentic systems on your own infrastructure.",
+        "would_change_mind": "If it specified a particular user persona, such as IT managers or developers, instead of using the general term 'users.'",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Build multi-agent workflows visually, connect your data and tools, bring in coding agents like Codex and OpenCode.",
+        "would_change_mind": "If it provided a specific comparison to existing platforms for building agentic systems.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "Heym is a source-available platform for building and running agentic systems.",
+        "would_change_mind": "If it explicitly targeted a specific small business vertical, such as tech startups or small development teams.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 50.71,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "ApyHub",
+    "tagline": "The API Discovery & Consumption layer for devs and agents",
+    "description": "Software is still written, but increasingly it's composed: assembled from existing capabilities, by developers and agents. ApyHub is where that happens. This release pushes it two ways. The catalog widens: providers publish and earn in a few clicks, joining 200+ verified services. The platform matures. Calls run in the EU and US, near your apps. A gateway handles spiky, parallel workloads with bursting limits. Native MCP lets agents call any service at runtime. One subscription for everything.",
+    "website": "https://www.producthunt.com/r/H4ULMI6N52RREZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/apyhub/launches/apyhub-3",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 52,
+    "topics": "Productivity, API, Development",
+    "makers": "[REDACTED], [REDACTED], karanveer_singh12",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/H4ULMI6N52RREZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 4.3478260869565215,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "The description mentions a general concept of API discovery and consumption but does not specify a particular problem or user persona.",
+        "would_change_mind": "If it identified a specific type of developer or agent that benefits from the API discovery process, such as freelance developers or small development teams.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The text uses general terms like 'catalog widens' and 'native MCP' without providing a clear comparison to existing solutions or competitors.",
+        "would_change_mind": "If it explicitly compared its features or pricing to a specific competitor in the API space.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The description does not mention any specific business size or vertical that would indicate a clear market fit for small businesses.",
+        "would_change_mind": "If it stated that it is designed for small development teams or specific industries like startups or local businesses.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 23.59,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Aether",
+    "tagline": "Not a black box, a devbox",
+    "description": "Autonomous coding agents in a cloud devbox you can watch, steer, and verify, running Claude Code, Codex, or OpenCode on your own subscription.",
+    "website": "https://www.producthunt.com/r/A7ODXGNHYD5JQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/aether-9/launches/aether-5a434638-99d7-44ed-a5cb-7a3dfb8a97e3",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 26,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence, Vercel Day",
+    "makers": "pranav_sharan1",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/A7ODXGNHYD5JQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RQFRPB6CO7FPOR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QZHKJE6EGWD5LY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 0.0,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "The tagline and description indicate a specific problem of coding automation and a specific user of developers, with a clear mechanism of using a cloud devbox.",
+        "would_change_mind": "If it provided more detail on how the coding agents can be customized for different types of projects or user needs.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "The description implies a unique offering with the ability to watch and steer coding agents but lacks a direct comparison to other coding tools or platforms.",
+        "would_change_mind": "If it named specific competitors and detailed how its approach differs from theirs.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The description does not specify a target customer size or vertical, making it unclear if it fits the SMB-focused thesis.",
+        "would_change_mind": "If it explicitly stated that it is aimed at solo developers or small teams rather than a general audience.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 43.25,
+    "status": "complete",
+    "error": null
+  }
+]

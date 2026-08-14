@@ -4,27 +4,23 @@ import argparse
 import json
 import logging
 from pathlib import Path
-from typing import Any
-from typing import Literal
+from typing import Any, Literal
+
+from pydantic import BaseModel, Field
 
 from llm import call_structured
 from logging_config import configure_logging
-from pydantic import BaseModel, Field
+from run_paths import ANALYSIS_FILENAME, latest_run_dir
+from run_paths import shortlist_path as run_shortlist_path
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_INPUT_DIR = Path(__file__).with_name("candidates")
-DEFAULT_INPUT_PATH = Path(__file__).with_name("candidates_shortlist.json")
-DEFAULT_OUTPUT_PATH = Path(__file__).with_name("analysis.json")
 DEFAULT_BATCH_SIZE = 8
 
 
 def analysis_output_path(shortlist_path: Path) -> Path:
-    """Derive a sibling analysis path from the shortlist path, e.g. candidates/<ts>_analysis.json."""
-    stem = shortlist_path.stem
-    if stem.endswith("_shortlist"):
-        stem = stem[: -len("_shortlist")]
-    return shortlist_path.with_name(f"{stem}_analysis{shortlist_path.suffix}")
+    """Derive a sibling analysis path from the shortlist path, e.g. runs/<run>/analysis.json."""
+    return shortlist_path.with_name(ANALYSIS_FILENAME)
 
 LABEL_SCORES: dict[str, int] = {
     "very_weak": 10,
@@ -176,16 +172,7 @@ def _detail_from_assessment(assessment: ScoreAssessment) -> ScoreDetail:
 
 
 def _latest_shortlist_path() -> Path:
-    if DEFAULT_INPUT_PATH.exists():
-        return DEFAULT_INPUT_PATH
-
-    shortlist_paths = sorted(DEFAULT_INPUT_DIR.glob("*_shortlist.json"))
-    if shortlist_paths:
-        return shortlist_paths[-1]
-
-    raise FileNotFoundError(
-        f"No shortlist file found. Expected {DEFAULT_INPUT_PATH} or a timestamped file under {DEFAULT_INPUT_DIR}."
-    )
+    return run_shortlist_path(latest_run_dir())
 
 
 def _load_shortlist(input_path: Path) -> list[dict[str, Any]]:
@@ -358,10 +345,11 @@ def analyze_shortlist(
     thesis: str,
     *,
     input_path: Path | None = None,
-    output_path: Path = DEFAULT_OUTPUT_PATH,
+    output_path: Path | None = None,
     batch_size: int = DEFAULT_BATCH_SIZE,
 ) -> list[AnalysisResult]:
     shortlist_path = input_path or _latest_shortlist_path()
+    output_path = output_path or analysis_output_path(shortlist_path)
     shortlist = _load_shortlist(shortlist_path)
 
     if not shortlist:
@@ -407,20 +395,21 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Score Product Hunt shortlist candidates")
     parser.add_argument("--topic", required=True, help="Investment theme to analyze")
     parser.add_argument("--input", type=Path, default=None, help="Shortlist JSON to analyze")
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_PATH)
+    parser.add_argument("--output", type=Path, default=None, help="Defaults to a sibling analysis.json next to --input")
     parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
     args = parser.parse_args()
 
     input_path = args.input or _latest_shortlist_path()
+    output_path = args.output or analysis_output_path(input_path)
     results = analyze_shortlist(
         args.topic,
         input_path=input_path,
-        output_path=args.output,
+        output_path=output_path,
         batch_size=args.batch_size,
     )
     print(f"topic={args.topic}")
     print(f"input={input_path}")
-    print(f"output={args.output}")
+    print(f"output={output_path}")
     print(f"batch_size={args.batch_size}")
     print(f"results={len(results)}")
 
