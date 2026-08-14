@@ -6,7 +6,7 @@ from collections.abc import Iterable
 from pathlib import Path
 
 from logging_config import configure_logging
-from sourcing import source_topic
+from sourcing import new_debug_candidates_path, source_topic
 
 DEFAULT_ENV_PATH = Path(__file__).with_name(".env")
 DEFAULT_STAGE = "all"
@@ -57,8 +57,10 @@ def main() -> None:
     print(f"env_loaded={{{', '.join(f'{key}: {'set' if value else 'missing'}' for key, value in summary.items())}}}")
 
     if args.stage in {"source", "all"}:
-        posts = source_topic(args.topic)
+        output_path = new_debug_candidates_path()
+        posts = source_topic(args.topic, output_path=output_path)
         print(f"source_posts={len(posts)}")
+        print(f"source_output={output_path}")
 
     if args.stage in {"analyze", "memo", "all"}:
         print("remaining_stages=not_implemented")

@@ -1,0 +1,654 @@
+[
+  {
+    "id": "1202019",
+    "name": "MyPeople",
+    "tagline": "Put a boss on your Claude Code and Codex agents ",
+    "description": "Running five AI coding agents means five terminals and copy-pasting context between them. MyPeople replaces that with one board and a persistent Boss agent: you give it the outcome, it writes the cards, assigns an owner, and reviews the work before it reaches you. The Terminal Graph shows every agent's live terminal wired to the card it owns. The HUD shows who is working and lets you attach to any of them from the browser. Claude Code, Codex and Grok run side by side, self-hosted in Docker.",
+    "website": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/mypeople/launches/mypeople-2",
+    "ph_product_url": "https://www.producthunt.com/products/mypeople/launches/mypeople-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 20,
+    "featured_at": null,
+    "topics": "Software Engineering, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "domo_plow",
+    "logo": "https://ph-files.imgix.net/9fa3fdf0-397d-4a19-9658-99b31925042e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/55W2AO2C3UYBW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RYXRQWENI4ZIPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YZJZJZBOFKVXEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1200556",
+    "name": "Arcovia",
+    "tagline": "Architecture Intelligence for React & Next.js Projects",
+    "description": "Arcovia goes beyond linting by analyzing the architecture of React and Next.js applications. It builds a dependency graph, evaluates deterministic architecture rules, calculates an explainable Architecture Health Score, and generates an interactive HTML report with hotspots, findings, maintenance burden, and actionable recommendations. Built for teams that want to understand, measure, and continuously improve their architecture.",
+    "website": "https://www.producthunt.com/r/K3JPDIAXMQ7TWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/arcovia/launches/arcovia",
+    "ph_product_url": "https://www.producthunt.com/products/arcovia/launches/arcovia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 16,
+    "featured_at": null,
+    "topics": "Open Source, Software Engineering, Developer Tools, GitHub",
+    "makers": "ghazi_khan",
+    "logo": "https://ph-files.imgix.net/d3d64794-1ef1-4364-b2d4-1afe59960bef.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VLLCA37IAPZYNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UMM3YDYIDMIUNN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/K3JPDIAXMQ7TWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QAHUWPM4ULZ6XA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1212992",
+    "name": "BentoBox",
+    "tagline": "Sandbox any AI agent in seconds.",
+    "description": "BentoBox kernel-level sandbox with compartmentalized isolated execution for any coding agent - Devaretanmay/BentoBox",
+    "website": "https://www.producthunt.com/r/IJ443IAY5UAIW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bentobox-3/launches/bentobox-3",
+    "ph_product_url": "https://www.producthunt.com/products/bentobox-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 13,
+    "featured_at": null,
+    "topics": "SaaS, Software Engineering, GitHub",
+    "makers": "tanmay_devare",
+    "logo": "https://ph-files.imgix.net/cc66439d-38d4-4d1e-ac68-91e928aa2c54.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/6CMB5SKI5K3UXA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IJ443IAY5UAIW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Software Engineering",
+    "source_topic_slug": "software-engineering"
+  },
+  {
+    "id": "1217382",
+    "name": "Dograh",
+    "tagline": "The open source VAPI alternative",
+    "description": "Closed voice platforms make you rent your own agents. Dograh is completely open source- nothing is gated. Visual flow builder, add your model key across 30+ integrations or use local models, telephony, human transfer, and advanced QA & monitoring - all free to self-host in one command. Also connect your claude code with MCP to build voice agents for a use case or call recordings.",
+    "website": "https://www.producthunt.com/r/DAII3FVF5KT5VU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/dograh/launches/dograh-3",
+    "ph_product_url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 541,
+    "featured_at": "2026-08-12T07:01:00Z",
+    "topics": "Open Source, Developer Tools, GitHub, Audio",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], sabiha_khan4",
+    "logo": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FWXMHXVQ73UL7N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SFLUCJRGI2NFQD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DAII3FVF5KT5VU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/G2DZGQSLCP4FZN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1200759",
+    "name": "ditto.site",
+    "tagline": "Clone any website into clean code. Free & open source",
+    "description": "Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens, interactions & hover states included. Free REST API + MCP server, open source.",
+    "website": "https://www.producthunt.com/r/HMFIHL7XJ25WLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ditto-site/launches/ditto-site",
+    "ph_product_url": "https://www.producthunt.com/products/ditto-site/launches/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 419,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "Design Tools, Open Source, Developer Tools, GitHub",
+    "makers": "[REDACTED], [REDACTED], michaelcole",
+    "logo": "https://ph-files.imgix.net/7321b58f-7419-433c-9ad8-9c86ff907331.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XTKJF7Y7VA2DYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HMFIHL7XJ25WLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JIKH453JJHHQ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D7LFXPOQYAZ6PF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1207906",
+    "name": "The GTM Co-Founder",
+    "tagline": "Open-source GTM skills for technical founders",
+    "description": "Most AI hands dev-tool founders the same generic sales and marketing advice. The GTM Co-Founder doesn't. It's a set of open-source skills that interview you once, learn your real product and market, then walk you move by move through a prioritised GTM roadmap: who it's for, positioning, your first 50 users, launch, pricing, etc. Grounded in the playbooks of Adam Frankl and Jakub Czakon, plus my own time as a Founding AE and GTM advisor. Free and open source.",
+    "website": "https://www.producthunt.com/r/VPBAUGHOUKAU4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/the-gtm-co-founder/launches/the-gtm-co-founder",
+    "ph_product_url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 417,
+    "featured_at": "2026-08-08T07:01:00Z",
+    "topics": "Open Source, Marketing, Developer Tools",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], antlio",
+    "logo": "https://ph-files.imgix.net/46743940-bda5-46f0-b113-a776781e76a3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VPBAUGHOUKAU4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OIA5YVC2DJYUOJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UR2OGSUYHP6P62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/U2D52GTJF6NNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DHAJM735NYJNQ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1188992",
+    "name": "LiveDemo",
+    "tagline": "Open-source alternative to Storylane, Navattic, and Arcade",
+    "description": "Create interactive product demos in minutes. Capture any workflow, add AI voiceovers and personalized text, then share it as a link, embed, GIF, or video while tracking engagement and collecting leads across your website, docs, and sales outreach.",
+    "website": "https://www.producthunt.com/r/LPPCPHHYS32PCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/livedemo/launches/livedemo-4",
+    "ph_product_url": "https://www.producthunt.com/products/livedemo/launches/livedemo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 381,
+    "featured_at": "2026-07-18T07:01:00Z",
+    "topics": "Sales, SaaS, Developer Tools, GitHub",
+    "makers": "gapostolov",
+    "logo": "https://ph-files.imgix.net/2e64354d-c77e-43c8-830f-287c7f9d373a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LPPCPHHYS32PCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/32CM6Z54HJUDZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YRO3JJHFTFELIY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UJ2AXL4ZL6QWDN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1208851",
+    "name": "Claude Code usage tracking by LangWatch ",
+    "tagline": "See what your Claude Code sessions actually cost",
+    "description": "Track Claude Code usage: cost, cache, session replay. Run `npx langwatch claude` once. Every session gets cost with cache reads/writes as separate token classes, every bash and MCP call as a span, theoretical vs billed for your Max plan, and a full terminal replay in the UI. Works for Codex too.",
+    "website": "https://www.producthunt.com/r/5R3GKBPGWVMPBY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/langwatch/launches/claude-code-usage-tracking-by-langwatch",
+    "ph_product_url": "https://www.producthunt.com/products/langwatch/launches/claude-code-usage-tracking-by-langwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 380,
+    "featured_at": "2026-07-30T07:01:00Z",
+    "topics": "Open Source, Developer Tools, Artificial Intelligence, GitHub",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], alexforbesreed",
+    "logo": "https://ph-files.imgix.net/7634f3d6-99e4-4094-82c5-9d8cb14a3c69.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/K6SBDUJMZDI7OO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HJX2UUEV72LUCK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5R3GKBPGWVMPBY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/T5SQUGJV2NZZ7C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "AI Coding Assistants",
+    "source_topic": "Developer Tools",
+    "source_topic_slug": "developer-tools"
+  },
+  {
+    "id": "1220928",
+    "name": "Unsloth Desktop",
+    "tagline": "Run and train AI models locally on your desktop",
+    "description": "Unsloth Desktop is an open-source app to run and train AI models locally. Run LLMs, image/video diffusion, and audio. Connect agents like Claude Code or Codex to your local GPU with one command, and fine-tune models with no-code workflows.",
+    "website": "https://www.producthunt.com/r/V5SG67QSMWW4I2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/unsloth/launches/unsloth-desktop",
+    "ph_product_url": "https://www.producthunt.com/products/unsloth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 230,
+    "featured_at": "2026-08-12T07:01:00Z",
+    "topics": "Open Source, Artificial Intelligence, GitHub, Development",
+    "makers": "[REDACTED], danielhanchen",
+    "logo": "https://ph-files.imgix.net/cf1b2a70-e1d9-43f3-857c-350433c6e28b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/E2ELNQQLVY4RWW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZAHFBDTPZXRAVI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/V5SG67QSMWW4I2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Automated Development",
+    "source_topic": "Development",
+    "source_topic_slug": "development"
+  },
+  {
+    "id": "1212303",
+    "name": "Lumichats",
+    "tagline": "A Claude Code alternative for people who avoid the terminal",
+    "description": "70,000 people use LumiChats in a browser and kept asking for the one thing a browser cannot do: touch their files. So we built the desktop one. It runs commands on your machine, writes real documents, and you pay only for the work you run.",
+    "website": "https://www.producthunt.com/r/TPDCAOHQP6TZQD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lumichats-offline/launches/lumichats-4",
+    "ph_product_url": "https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 206,
+    "featured_at": "2026-08-02T07:01:00Z",
+    "topics": "Productivity, Artificial Intelligence, GitHub, Development",
+    "makers": "aditya_kumar_jha1",
+    "logo": "https://ph-files.imgix.net/68cedf94-f705-4d45-8e60-6a72313ae1ae.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/TPDCAOHQP6TZQD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BLG6XMBOSHZN6I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "Automated Development",
+    "source_topic": "Development",
+    "source_topic_slug": "development"
+  },
+  {
+    "id": "1202865",
+    "name": "Arkor",
+    "tagline": "Fine-tune and Deploy Open-weight Models in TypeScript",
+    "description": "Start a real LLM training in 10 minutes. Tell Claude Code or Codex what the model is for; they prepare the datasets and create the training project. Click \"Run Training\" in the local studio. Arkor runs the training, and deploys the trained model as an OpenAI-compatible API. Think Next.js and Vercel for fine-tuning: code you can review, infrastructure you do not have to manage, and a model your app can call. No GPU setup. No ML expertise required. No Python training code to write.",
+    "website": "https://www.producthunt.com/r/RMKP4FBHZFOASU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/arkor/launches/arkor",
+    "ph_product_url": "https://www.producthunt.com/products/arkor/launches/arkor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 155,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "Open Source, Developer Tools, GitHub, Development",
+    "makers": "[REDACTED], k_taro56",
+    "logo": "https://ph-files.imgix.net/4119120e-1230-4486-a8de-a5072f1d9c32.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RMKP4FBHZFOASU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/V5IHDQ2ZPPQDB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4FBPG44ZLSEVTW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WWMMELLALB76NN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KLTEO44UC3OXYY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Automated Development",
+    "source_topic": "Development",
+    "source_topic_slug": "development"
+  },
+  {
+    "id": "1205748",
+    "name": "DockAMP Webstack Manager for Docker",
+    "tagline": "Web interface to manage Apache/Nginx, PHP, DB containers",
+    "description": "DockAMP is a Docker image with a responsive web interface to manage official Apache/Nginx, PHP, MySQL/MariaDB/PostgeSQL and proxy containers in Docker.",
+    "website": "https://www.producthunt.com/r/YWNLMQK3Q2TXTK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/dockamp-webstack-manager-for-docker/launches/dockamp-webstack-manager-for-docker",
+    "ph_product_url": "https://www.producthunt.com/products/dockamp-webstack-manager-for-docker/launches/dockamp-webstack-manager-for-docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 21,
+    "featured_at": null,
+    "topics": "Web App, Website Builder, Development",
+    "makers": "keepcoolch",
+    "logo": "https://ph-files.imgix.net/46a3d0df-2418-482c-9f75-943fe9f6726e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YWNLMQK3Q2TXTK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UQYH5GJ2BABCBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "Automated Development",
+    "source_topic": "Development",
+    "source_topic_slug": "development"
+  },
+  {
+    "id": "1218061",
+    "name": "Monknot",
+    "tagline": "Markdown, PDFs, and a terminal. Side by side.",
+    "description": "Monknot is a native macOS app for working with Markdown, PDFs, and terminal sessions side by side. Read and edit Markdown with a rendered preview, search and annotate PDFs, and run tools like Claude Code or Codex in a terminal beside the document you're working on.",
+    "website": "https://www.producthunt.com/r/LMRY2D4ZFQL7PD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/monknot/launches/monknot",
+    "ph_product_url": "https://www.producthunt.com/products/monknot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Productivity, Open Source, Text Editors, GitHub",
+    "makers": "0xrojhat",
+    "logo": "https://ph-files.imgix.net/3a730df7-9d8c-452c-b641-3bf5506407c0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/JMFHLZ4DSUBNCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LMRY2D4ZFQL7PD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Text Editors",
+    "source_topic_slug": "text-editors"
+  },
+  {
+    "id": "1218618",
+    "name": "CodeIt — Run Code Anywhere",
+    "tagline": "CodeIt: A Simple IDE for Modern Web Creators",
+    "description": "CodeIt is a lightweight, mobile-first IDE for HTML, CSS, and JavaScript. Write code, preview results instantly, experiment with ideas, and build web projects in one clean workspace. With Dark, Light, OLED True Black, and High Contrast modes plus an adjustable preview, CodeIt makes coding simple, focused, and accessible for everyone.",
+    "website": "https://www.producthunt.com/r/6RBQDSYBGZLECD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/codeit-run-code-anywhere/launches/codeit-run-code-anywhere",
+    "ph_product_url": "https://www.producthunt.com/products/codeit-run-code-anywhere?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Text Editors, Software Engineering, Developer Tools, GitHub",
+    "makers": "manik_roy",
+    "logo": "https://ph-files.imgix.net/2cafee3c-394e-4868-9a42-0c84ed68509e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/6RBQDSYBGZLECD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Text Editors",
+    "source_topic_slug": "text-editors"
+  },
+  {
+    "id": "1204974",
+    "name": "FlowForge",
+    "tagline": "The visual Mermaid editor that lives in VS Code",
+    "description": "FlowForge is an open-source visual Mermaid editor for VS Code. Open a `.mmd` file and build diagrams on an infinite canvas: drag nodes, connect edges, and edit properties while Mermaid source stays in sync. Your diagrams remain plain, portable, Git-friendly Mermaid files — easy for teammates, Mermaid tools, and AI assistants to read and edit.",
+    "website": "https://www.producthunt.com/r/H3OQCBOUIZX4AT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/flowforge-4/launches/flowforge-5",
+    "ph_product_url": "https://www.producthunt.com/products/flowforge-4/launches/flowforge-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 2,
+    "featured_at": null,
+    "topics": "Open Source, Text Editors, Developer Tools, GitHub",
+    "makers": "saulius_d3v",
+    "logo": "https://ph-files.imgix.net/8a728b7f-1c12-46ad-a11e-a9d336d4b047.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/H3OQCBOUIZX4AT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Text Editors",
+    "source_topic_slug": "text-editors"
+  },
+  {
+    "id": "1204223",
+    "name": "マスガキ",
+    "tagline": "handwriting,shorthand,written communication",
+    "description": "指で書いて、 そのままメモにする。 走り書きメモは、タッチ画面に指でひと文字ずつ書いて、手書き文字のまま並べてメモを作るウェブアプリです。インストール不要で、オフラインでも使えます。 手書き文字をそのまま「活字」のように並べる 画面の左右2つのキャンバスに交互に文字を書くと、書き上がった文字が罫線エリアに順番に並んでいきます。タイピングではなく、自分の手書き文字でメモを作る、まったく新しい入力体験です。 アプリはブラウザ上で動作し、インストールは不要。ホーム画面に追加することで、ネイティブアプリのようにオフラインでも起動できます。書いた内容は自動的に端末に保存されるので、途中で画面を閉じても続きから再開できます。 主な機能 手書き入力を中心に、快適なメモ作成のための機能を備えています。 ✍️ 2キャンバス交互入力 左右2枚のキャンバスに交互に文字を書くと自動で確定されます。書き終わった文字はすぐ次の入力に移れるため、テンポよく書き続けられます",
+    "website": "https://www.producthunt.com/r/ZVREBY7JLZ65B4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/2-a881af24-799e-40b2-a4d0-2ae13ccb4500/launches/2-5ea2c135-e162-4e54-98d3-a16c7c4b446a",
+    "ph_product_url": "https://www.producthunt.com/products/2-a881af24-799e-40b2-a4d0-2ae13ccb4500/launches/2-5ea2c135-e162-4e54-98d3-a16c7c4b446a?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 1,
+    "featured_at": null,
+    "topics": "Text Editors, GitHub",
+    "makers": "pluteus",
+    "logo": "https://ph-files.imgix.net/2762244d-b025-4434-bcca-06114a79298b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZVREBY7JLZ65B4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3ZNE75B4H6T2QW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4NB4KG4MZCQSIW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Text Editors",
+    "source_topic_slug": "text-editors"
+  },
+  {
+    "id": "1215997",
+    "name": "Heym",
+    "tagline": "Build agentic systems. Run them with confidence",
+    "description": "Heym is a source-available platform for building and running agentic systems on your own infrastructure. Build multi-agent workflows visually, connect your data and tools, bring in coding agents like Codex and OpenCode, and add human approval where it matters. See exactly how every run performs with built-in traces, costs, latency, and evals. Self-host Heym, use your own models and credentials, and ship workflows as portals, APIs, or MCP tools.",
+    "website": "https://www.producthunt.com/r/BHKUM7QSYO5ZJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/heym/launches/heym-2",
+    "ph_product_url": "https://www.producthunt.com/products/heym?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 55,
+    "featured_at": null,
+    "topics": "Open Source, Developer Tools, GitHub, No-Code",
+    "makers": "[REDACTED], ceren_kaya_akgun",
+    "logo": "https://ph-files.imgix.net/680dd0a3-ba5e-47b9-a4d5-de41f9c47696.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IS3AVPCGDHWY3I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3V5YO3BIRKPOL6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TMY2CVIOPMLIIB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CZBHGW2MYS5RND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BHKUM7QSYO5ZJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3TVJHMEFOI5PVU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "No-Code",
+    "source_topic_slug": "no-code"
+  },
+  {
+    "id": "1206526",
+    "name": "SF Apartment Finder",
+    "tagline": "Tinder for live SF rentals from across the web",
+    "description": "Criblist turns SF apartment hunting into a swipeable deck. Set your budget, neighborhoods, and must-haves, then browse live rentals from Craigslist and local property managers. Context.dev powers the extraction and source data. Keep the good ones.",
+    "website": "https://www.producthunt.com/r/O3D2UFH7U4P7SI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/sf-apartment-finder/launches/sf-apartment-finder",
+    "ph_product_url": "https://www.producthunt.com/products/sf-apartment-finder/launches/sf-apartment-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 232,
+    "featured_at": "2026-07-26T07:01:00Z",
+    "topics": "Design Tools, API, GitHub, Community",
+    "makers": "yahia_bakour3",
+    "logo": "https://ph-files.imgix.net/b8239e89-ef66-4ee2-a6db-50db666d92e2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/O3D2UFH7U4P7SI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7WV3RY2LJYEATV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QKHMCGYOBTNOFW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Design Tools",
+    "source_topic_slug": "design-tools"
+  },
+  {
+    "id": "1215642",
+    "name": "Brandfetch MCP",
+    "tagline": "Stop your AI from guessing brand logos",
+    "description": "Stop your agent guessing brand logos. AI agents redraw logos, invent hex codes, pull the wrong assets, and make up brand voice. Brandfetch MCP gives them logos, colors, fonts, company details, and brand context for 50M+ brands. Works with Claude, Cursor, VS Code, and Codex. Try it in Claude: https://claude.ai/directory/connectors/brandfetch Or use it from any MCP client: https://mcp.brandfetch.io/mcp",
+    "website": "https://www.producthunt.com/r/VPVX4ZAD5AZKSX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/brandfetch/launches/brandfetch-mcp",
+    "ph_product_url": "https://www.producthunt.com/products/brandfetch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 135,
+    "featured_at": "2026-08-06T07:01:00Z",
+    "topics": "Design Tools, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], jeremyjaques",
+    "logo": "https://ph-files.imgix.net/155640fe-c6ec-473b-b0e0-f9f035874e4f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FEQKI6FCNANTHF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VPVX4ZAD5AZKSX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MRM7N2HCLV3T4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZFVLEVLHH5E45W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ],
+    "source_query": "Code Review Tools",
+    "source_topic": "Design Tools",
+    "source_topic_slug": "design-tools"
+  },
+  {
+    "id": "1199951",
+    "name": "Teya",
+    "tagline": "An AI agent for home, running on a wall‑mounted Android.",
+    "description": "Teya is an open‑source AI family agent on a wall‑mounted Android phone. Multi‑user: recognizes speakers, keeps per‑person memory, “dreams” nightly to consolidate/forget. No backend: data, memory, wake word, VAD, voice ID run on‑device; cloud only for LLM, STT, TTS via Mistral (your key). Native Kotlin using Android telephony/calendar/alarms; calls are plain cellular, never joined. A private, extendable household “second brain”.",
+    "website": "https://www.producthunt.com/r/35X63N4EVECOUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/teya/launches/teya",
+    "ph_product_url": "https://www.producthunt.com/products/teya/launches/teya?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Open Source, Artificial Intelligence, GitHub, Home Automation",
+    "makers": "adgapar",
+    "logo": "https://ph-files.imgix.net/31b64530-e4ca-4b1a-9b12-53e8c5d47595.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/35X63N4EVECOUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      }
+    ],
+    "source_query": "DevOps Automation",
+    "source_topic": "Home Automation",
+    "source_topic_slug": "home-automation"
+  }
+]
