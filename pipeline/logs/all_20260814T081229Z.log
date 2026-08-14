@@ -1,0 +1,132 @@
+2026-08-14 13:42:31,509 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:42:31,534 INFO product_hunt: GraphQL request variables={'query': 'AI Coding Assistants', 'first': 10}
+2026-08-14 13:42:31,875 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:31,876 INFO product_hunt: Rate limit remaining=6250/6250
+2026-08-14 13:42:31,876 INFO product_hunt: GraphQL request variables={'query': 'Coding', 'first': 10}
+2026-08-14 13:42:32,202 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:32,203 INFO product_hunt: Rate limit remaining=6150/6250
+2026-08-14 13:42:32,204 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 13:42:32,592 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:32,594 INFO product_hunt: Rate limit remaining=6050/6250
+2026-08-14 13:42:32,594 INFO product_hunt: Query='AI Coding Assistants' had no direct match; word-level fallback via ['Coding', 'Assistants'] matched 6 topic(s): ['software-engineering', 'developer-tools', 'sketch', 'coding-books', 'vibe-coding', 'virtual-assistants']
+2026-08-14 13:42:32,595 INFO product_hunt: GraphQL request variables={'topic': 'software-engineering', 'first': 20}
+2026-08-14 13:42:33,209 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:33,212 INFO product_hunt: Rate limit remaining=5950/6250
+2026-08-14 13:42:33,214 INFO product_hunt: Topic='software-engineering' fetched 20 post(s)
+2026-08-14 13:42:33,216 INFO product_hunt: GraphQL request variables={'topic': 'developer-tools', 'first': 20}
+2026-08-14 13:42:33,974 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:33,994 INFO product_hunt: Rate limit remaining=5850/6250
+2026-08-14 13:42:33,995 INFO product_hunt: Topic='developer-tools' fetched 20 post(s)
+2026-08-14 13:42:33,995 INFO product_hunt: GraphQL request variables={'topic': 'sketch', 'first': 20}
+2026-08-14 13:42:34,405 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:34,408 INFO product_hunt: Rate limit remaining=5750/6250
+2026-08-14 13:42:34,408 INFO product_hunt: Topic='sketch' fetched 11 post(s)
+2026-08-14 13:42:34,409 INFO product_hunt: GraphQL request variables={'query': 'Automated Development', 'first': 10}
+2026-08-14 13:42:34,742 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:34,744 INFO product_hunt: Rate limit remaining=5650/6250
+2026-08-14 13:42:34,745 INFO product_hunt: GraphQL request variables={'query': 'Automated', 'first': 10}
+2026-08-14 13:42:35,051 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:35,052 INFO product_hunt: Rate limit remaining=5550/6250
+2026-08-14 13:42:35,052 INFO product_hunt: GraphQL request variables={'query': 'Development', 'first': 10}
+2026-08-14 13:42:35,376 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:35,378 INFO product_hunt: Rate limit remaining=5450/6250
+2026-08-14 13:42:35,378 INFO product_hunt: Query='Automated Development' had no direct match; word-level fallback via ['Automated', 'Development'] matched 4 topic(s): ['development', 'developer-tools', 'social-impact', 'development-language']
+2026-08-14 13:42:35,378 INFO product_hunt: GraphQL request variables={'topic': 'development', 'first': 20}
+2026-08-14 13:42:36,017 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:36,033 INFO product_hunt: Rate limit remaining=5350/6250
+2026-08-14 13:42:36,034 INFO product_hunt: Topic='development' fetched 20 post(s)
+2026-08-14 13:42:36,042 INFO product_hunt: Skipping already-fetched topic='developer-tools' for query='Automated Development'
+2026-08-14 13:42:36,042 INFO product_hunt: GraphQL request variables={'topic': 'social-impact', 'first': 20}
+2026-08-14 13:42:36,586 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:36,588 INFO product_hunt: Rate limit remaining=5250/6250
+2026-08-14 13:42:36,588 INFO product_hunt: Topic='social-impact' fetched 20 post(s)
+2026-08-14 13:42:36,589 INFO product_hunt: GraphQL request variables={'query': 'Code Review Tools', 'first': 10}
+2026-08-14 13:42:36,892 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:36,892 INFO product_hunt: Rate limit remaining=5150/6250
+2026-08-14 13:42:36,892 INFO product_hunt: GraphQL request variables={'query': 'Code', 'first': 10}
+2026-08-14 13:42:37,198 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:37,199 INFO product_hunt: Rate limit remaining=5050/6250
+2026-08-14 13:42:37,199 INFO product_hunt: GraphQL request variables={'query': 'Review', 'first': 10}
+2026-08-14 13:42:37,609 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:37,610 INFO product_hunt: Rate limit remaining=4950/6250
+2026-08-14 13:42:37,610 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 13:42:38,431 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:38,431 INFO product_hunt: Rate limit remaining=4850/6250
+2026-08-14 13:42:38,431 INFO product_hunt: Query='Code Review Tools' had no direct match; word-level fallback via ['Code', 'Review', 'Tools'] matched 12 topic(s): ['text-editors', 'no-code', 'design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 13:42:38,431 INFO product_hunt: GraphQL request variables={'topic': 'text-editors', 'first': 20}
+2026-08-14 13:42:39,101 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:39,106 INFO product_hunt: Rate limit remaining=4750/6250
+2026-08-14 13:42:39,107 INFO product_hunt: Topic='text-editors' fetched 20 post(s)
+2026-08-14 13:42:39,108 INFO product_hunt: GraphQL request variables={'topic': 'no-code', 'first': 20}
+2026-08-14 13:42:39,732 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:39,734 INFO product_hunt: Rate limit remaining=4650/6250
+2026-08-14 13:42:39,734 INFO product_hunt: Topic='no-code' fetched 20 post(s)
+2026-08-14 13:42:39,735 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 13:42:40,463 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:40,464 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-14 13:42:40,465 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 13:42:40,466 INFO product_hunt: GraphQL request variables={'query': 'Programming Frameworks', 'first': 10}
+2026-08-14 13:42:40,801 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:40,802 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-14 13:42:40,803 INFO product_hunt: GraphQL request variables={'query': 'Programming', 'first': 10}
+2026-08-14 13:42:41,197 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:41,198 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-14 13:42:41,198 INFO product_hunt: GraphQL request variables={'query': 'Frameworks', 'first': 10}
+2026-08-14 13:42:41,623 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:41,624 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-14 13:42:41,625 WARNING product_hunt: No Product Hunt topics matched query='Programming Frameworks' (direct or word-level fallback)
+2026-08-14 13:42:41,625 INFO product_hunt: GraphQL request variables={'query': 'DevOps Automation', 'first': 10}
+2026-08-14 13:42:42,001 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:42,002 INFO product_hunt: Rate limit remaining=4150/6250
+2026-08-14 13:42:42,003 INFO product_hunt: GraphQL request variables={'query': 'DevOps', 'first': 10}
+2026-08-14 13:42:42,363 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:42,364 INFO product_hunt: Rate limit remaining=4050/6250
+2026-08-14 13:42:42,364 INFO product_hunt: GraphQL request variables={'query': 'Automation', 'first': 10}
+2026-08-14 13:42:42,690 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:42,691 INFO product_hunt: Rate limit remaining=3950/6250
+2026-08-14 13:42:42,691 INFO product_hunt: Query='DevOps Automation' had no direct match; word-level fallback via ['DevOps', 'Automation'] matched 2 topic(s): ['home-automation', 'marketing-automation']
+2026-08-14 13:42:42,691 INFO product_hunt: GraphQL request variables={'topic': 'home-automation', 'first': 20}
+2026-08-14 13:42:43,160 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:43,185 INFO product_hunt: Rate limit remaining=3850/6250
+2026-08-14 13:42:43,186 INFO product_hunt: Topic='home-automation' fetched 11 post(s)
+2026-08-14 13:42:43,187 INFO product_hunt: GraphQL request variables={'topic': 'marketing-automation', 'first': 20}
+2026-08-14 13:42:43,788 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:42:43,791 INFO product_hunt: Rate limit remaining=3750/6250
+2026-08-14 13:42:43,792 INFO product_hunt: Topic='marketing-automation' fetched 20 post(s)
+2026-08-14 13:42:43,793 INFO product_hunt: Fetched 178 unique post(s) across 10 unique topic(s) from 5 quer(y/ies)
+2026-08-14 13:42:43,806 INFO sourcing: Rule-based shortlist kept 39/178 post(s) for thesis='Coding agents'
+2026-08-14 13:42:46,236 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:42:46,237 INFO sourcing: LLM shortlist kept 7/15 post(s) for thesis='Coding agents' batch=0-15
+2026-08-14 13:42:48,689 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:42:48,692 INFO sourcing: LLM shortlist kept 6/15 post(s) for thesis='Coding agents' batch=15-30
+2026-08-14 13:42:50,922 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:42:50,927 INFO sourcing: LLM shortlist kept 5/9 post(s) for thesis='Coding agents' batch=30-39
+2026-08-14 13:42:50,931 INFO analysis: Loaded 18 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T081229Z_shortlist.json; votes range=20..625
+2026-08-14 13:42:51,689 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:52,999 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:55,506 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:55,506 WARNING analysis: Analysis batch failed on attempt 1/2 for thesis='Coding agents' batch_size=8: RetryError[<Future at 0x10e336030 state=finished raised BadRequestError>]
+2026-08-14 13:42:55,856 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:57,155 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:59,657 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:42:59,659 WARNING analysis: Analysis batch failed on attempt 2/2 for thesis='Coding agents' batch_size=8: RetryError[<Future at 0x111046b50 state=finished raised BadRequestError>]
+2026-08-14 13:42:59,659 WARNING analysis: Marking batch 1/3 incomplete for thesis='Coding agents' because scoring failed: Analysis batch failed after retry
+2026-08-14 13:43:00,053 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:01,366 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:03,708 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:03,710 WARNING analysis: Analysis batch failed on attempt 1/2 for thesis='Coding agents' batch_size=8: RetryError[<Future at 0x1110d2cf0 state=finished raised BadRequestError>]
+2026-08-14 13:43:04,027 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:05,359 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:07,735 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:07,737 WARNING analysis: Analysis batch failed on attempt 2/2 for thesis='Coding agents' batch_size=8: RetryError[<Future at 0x1111a04d0 state=finished raised BadRequestError>]
+2026-08-14 13:43:07,737 WARNING analysis: Marking batch 2/3 incomplete for thesis='Coding agents' because scoring failed: Analysis batch failed after retry
+2026-08-14 13:43:08,054 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:09,394 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:11,801 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:11,802 WARNING analysis: Analysis batch failed on attempt 1/2 for thesis='Coding agents' batch_size=2: RetryError[<Future at 0x111098aa0 state=finished raised BadRequestError>]
+2026-08-14 13:43:12,130 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:13,441 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:15,758 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-08-14 13:43:15,760 WARNING analysis: Analysis batch failed on attempt 2/2 for thesis='Coding agents' batch_size=2: RetryError[<Future at 0x1110a7b60 state=finished raised BadRequestError>]
+2026-08-14 13:43:15,761 WARNING analysis: Marking batch 3/3 incomplete for thesis='Coding agents' because scoring failed: Analysis batch failed after retry
+2026-08-14 13:43:15,773 INFO analysis: Wrote analysis for 18 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/analysis.json

@@ -12,6 +12,7 @@ dependencies = [
     "python-dotenv",
     "python-slugify",
     "tenacity",
+    "slugify"
 ]
 
 [dependency-groups]

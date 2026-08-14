@@ -24,6 +24,30 @@ SHORTLIST_LLM_BATCH_SIZE = 15
 DEFAULT_OUTPUT_PATH = Path(__file__).with_name("candidates.json")
 DEBUG_CANDIDATES_DIR = Path(__file__).with_name("candidates")
 
+# Cheap pre-filter: known large/established companies whose PH posts are product releases,
+# not independent startups (e.g. a new Gemini model), regardless of thesis fit.
+LARGE_COMPANY_NAMES = {
+    "google",
+    "gemini",
+    "meta",
+    "microsoft",
+    "openai",
+    "chatgpt",
+    "gpt",
+    "anthropic",
+    "claude",
+    "amazon",
+    "aws",
+    "apple",
+    "nvidia",
+    "salesforce",
+    "adobe",
+    "ibm",
+    "x",
+    "xai",
+    "grok",
+}
+
 logger = logging.getLogger(__name__)
 
 SYSTEM_PROMPT = (
@@ -39,6 +63,10 @@ SHORTLIST_SYSTEM_PROMPT = (
     "You are a strict relevance filter for Product Hunt startups. "
     "For each startup, answer whether it genuinely matches the thesis niche. "
     "Be conservative: return 'yes' only if the startup is clearly in scope. "
+    "Also reject (return 'no' regardless of thesis fit) any post that is a feature, model, or "
+    "product release from an already-large, established company (e.g. Google, Meta, Microsoft, "
+    "OpenAI, Anthropic, Amazon) rather than an independent early-stage startup — "
+    "e.g. a new Gemini/GPT model release, a Google/Meta product launch. "
     "Return structured decisions only."
 )
 
@@ -157,12 +185,18 @@ def _text_match_keywords(post: dict[str, Any], thesis_keywords: set[str]) -> boo
     return bool(_tokenize(searchable_text) & thesis_keywords)
 
 
+def _is_large_company_release(post: dict[str, Any]) -> bool:
+    name_tokens = _tokenize(str(post.get("name") or ""))
+    return bool(name_tokens & LARGE_COMPANY_NAMES)
+
+
 def _rule_based_shortlist(posts: list[dict[str, Any]], thesis: str) -> list[dict[str, Any]]:
     thesis_keywords = _tokenize(thesis)
     shortlisted = [
         post
         for post in posts
         if post.get("votes_count", 0) >= 20
+        and not _is_large_company_release(post)
         and (_topic_match_keywords(post, thesis_keywords) or _text_match_keywords(post, thesis_keywords))
     ]
     shortlisted.sort(
@@ -196,7 +230,11 @@ def _llm_relevance_shortlist(posts: list[dict[str, Any]], thesis: str, batch_siz
         prompt = (
             f"Thesis niche: {thesis}\n\n"
             "Decide whether each startup genuinely matches the thesis niche. "
-            "Use only the startup's name and tagline. Be conservative.\n\n"
+            "Use only the startup's name and tagline. Be conservative. "
+            "Reject any post that is a release from an already-large, established company "
+            "(a new model, feature, or product from a company like Google, Meta, Microsoft, "
+            "OpenAI, Anthropic, Amazon, etc.) rather than an independent startup, even if it "
+            "otherwise fits the thesis.\n\n"
             f"Startups:\n{candidates_text}"
         )
 

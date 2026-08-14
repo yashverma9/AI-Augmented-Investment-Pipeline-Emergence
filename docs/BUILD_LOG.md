@@ -94,4 +94,16 @@ a quality signal.)
 
 ### Enhancements
 
-- Enhanced the prompt to extract would change mind reasoning for each scoring criteria. Will be later used to generate memo content
+- Enhanced the prompt to extract 'would change mind' reasoning for each scoring criteria. Will be later used to generate memo content
+- Improved the prompt related to market fitting to avoid overfitting each startup. Market Fit: strong / very_strong now requires an explicit business-size or scale signal
+- In Sourcing, the shortlist prompt was tightened to reject obvious large-company releases too, not just off-thesis posts. That helps filter out things like new Gemini/GPT model launches even when they look relevant by category.
+
+## Memos
+
+- Memo generation now reads the finalized analysis reports and renders one memo per candidate from a Jinja2 template (md file). The memo pulls the deterministic call, score breakdown, “what would change my mind” notes, founders, votes, launch date, and non-website links from the analysis data, then writes them into a fresh timestamped folder per run.
+
+- The implementation lives in memo.py, uses the analysis output shape from analysis.py, and renders via templates/memo.md.jinja.
+
+- There are no external calls (APIs, LLMs) made in this phase of the pipeline. The generation completely relies on our analysis data.
+
+- For each pipeline run, a directory is created with the name memos-{topic-input}-{timestamp} and all the shortlisted candidate memos are generated into the directory

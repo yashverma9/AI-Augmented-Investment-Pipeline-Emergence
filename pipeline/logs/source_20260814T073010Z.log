@@ -1,0 +1,44 @@
+2026-08-14 13:00:12,867 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:00:12,889 INFO product_hunt: GraphQL request variables={'query': 'Voice Assistants', 'first': 10}
+2026-08-14 13:00:13,543 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:13,545 INFO product_hunt: Rate limit remaining=1050/6250
+2026-08-14 13:00:13,545 INFO product_hunt: GraphQL request variables={'query': 'Voice', 'first': 10}
+2026-08-14 13:00:14,771 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:14,773 INFO product_hunt: Rate limit remaining=950/6250
+2026-08-14 13:00:14,773 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 13:00:15,384 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:15,386 INFO product_hunt: Rate limit remaining=850/6250
+2026-08-14 13:00:15,386 INFO product_hunt: Query='Voice Assistants' had no direct match; word-level fallback via ['Voice', 'Assistants'] matched 2 topic(s): ['audio', 'virtual-assistants']
+2026-08-14 13:00:15,387 INFO product_hunt: GraphQL request variables={'topic': 'audio', 'first': 20}
+2026-08-14 13:00:16,309 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:16,310 INFO product_hunt: Rate limit remaining=750/6250
+2026-08-14 13:00:16,310 INFO product_hunt: Topic='audio' fetched 20 post(s)
+2026-08-14 13:00:16,311 INFO product_hunt: GraphQL request variables={'topic': 'virtual-assistants', 'first': 20}
+2026-08-14 13:00:17,540 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:17,542 INFO product_hunt: Rate limit remaining=650/6250
+2026-08-14 13:00:17,543 INFO product_hunt: Topic='virtual-assistants' fetched 20 post(s)
+2026-08-14 13:00:17,544 INFO product_hunt: GraphQL request variables={'query': 'Speech Recognition', 'first': 10}
+2026-08-14 13:00:18,151 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:18,153 INFO product_hunt: Rate limit remaining=550/6250
+2026-08-14 13:00:18,153 INFO product_hunt: GraphQL request variables={'query': 'Speech', 'first': 10}
+2026-08-14 13:00:18,765 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:18,766 INFO product_hunt: Rate limit remaining=450/6250
+2026-08-14 13:00:18,767 INFO product_hunt: GraphQL request variables={'query': 'Recognition', 'first': 10}
+2026-08-14 13:00:19,381 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:19,382 INFO product_hunt: Rate limit remaining=350/6250
+2026-08-14 13:00:19,382 WARNING product_hunt: No Product Hunt topics matched query='Speech Recognition' (direct or word-level fallback)
+2026-08-14 13:00:19,383 INFO product_hunt: GraphQL request variables={'query': 'AI Communication', 'first': 10}
+2026-08-14 13:00:20,098 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:20,100 INFO product_hunt: Rate limit remaining=250/6250
+2026-08-14 13:00:20,100 INFO product_hunt: GraphQL request variables={'query': 'Communication', 'first': 10}
+2026-08-14 13:00:20,704 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:20,705 INFO product_hunt: Rate limit remaining=150/6250
+2026-08-14 13:00:20,705 INFO product_hunt: Query='AI Communication' had no direct match; word-level fallback via ['Communication'] matched 1 topic(s): ['customer-communication']
+2026-08-14 13:00:20,706 INFO product_hunt: GraphQL request variables={'topic': 'customer-communication', 'first': 20}
+2026-08-14 13:00:21,736 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:00:21,738 INFO product_hunt: Rate limit remaining=50/6250
+2026-08-14 13:00:21,739 INFO product_hunt: Topic='customer-communication' fetched 20 post(s)
+2026-08-14 13:00:21,739 INFO product_hunt: GraphQL request variables={'query': 'Voice Analytics', 'first': 10}
+2026-08-14 13:00:22,350 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 429 Too Many Requests"
+2026-08-14 13:00:22,351 INFO product_hunt: Rate limit remaining=-50/6250
+2026-08-14 13:00:22,351 WARNING product_hunt: Rate limited (429), retrying in 563s (attempt 1/5)

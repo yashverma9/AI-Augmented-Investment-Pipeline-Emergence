@@ -1,0 +1,49 @@
+2026-08-14 02:49:16,463 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 02:49:16,487 INFO product_hunt: GraphQL request variables={'query': 'Voice Assistants', 'first': 10}
+2026-08-14 02:49:17,086 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:17,088 INFO product_hunt: GraphQL request variables={'query': 'Voice', 'first': 10}
+2026-08-14 02:49:17,421 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:17,422 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 02:49:17,801 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:17,801 INFO product_hunt: Query='Voice Assistants' had no direct match; word-level fallback via ['Voice', 'Assistants'] matched 2 topic(s): ['audio', 'virtual-assistants']
+2026-08-14 02:49:17,801 INFO product_hunt: GraphQL request variables={'topic': 'audio', 'first': 20}
+2026-08-14 02:49:19,030 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:19,048 INFO product_hunt: Topic='audio' fetched 20 post(s)
+2026-08-14 02:49:19,049 INFO product_hunt: GraphQL request variables={'topic': 'virtual-assistants', 'first': 20}
+2026-08-14 02:49:20,619 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:20,622 INFO product_hunt: Topic='virtual-assistants' fetched 20 post(s)
+2026-08-14 02:49:20,623 INFO product_hunt: GraphQL request variables={'query': 'AI Communication', 'first': 10}
+2026-08-14 02:49:21,032 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:21,035 INFO product_hunt: GraphQL request variables={'query': 'Communication', 'first': 10}
+2026-08-14 02:49:21,387 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:21,388 INFO product_hunt: Query='AI Communication' had no direct match; word-level fallback via ['Communication'] matched 1 topic(s): ['customer-communication']
+2026-08-14 02:49:21,389 INFO product_hunt: GraphQL request variables={'topic': 'customer-communication', 'first': 20}
+2026-08-14 02:49:23,082 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:23,092 INFO product_hunt: Topic='customer-communication' fetched 20 post(s)
+2026-08-14 02:49:23,093 INFO product_hunt: GraphQL request variables={'query': 'Speech Recognition', 'first': 10}
+2026-08-14 02:49:23,436 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:23,437 INFO product_hunt: GraphQL request variables={'query': 'Speech', 'first': 10}
+2026-08-14 02:49:23,843 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:23,844 INFO product_hunt: GraphQL request variables={'query': 'Recognition', 'first': 10}
+2026-08-14 02:49:24,204 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:24,205 WARNING product_hunt: No Product Hunt topics matched query='Speech Recognition' (direct or word-level fallback)
+2026-08-14 02:49:24,206 INFO product_hunt: GraphQL request variables={'query': 'Conversational AI', 'first': 10}
+2026-08-14 02:49:25,022 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:25,024 INFO product_hunt: GraphQL request variables={'query': 'Conversational', 'first': 10}
+2026-08-14 02:49:25,379 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:25,382 WARNING product_hunt: No Product Hunt topics matched query='Conversational AI' (direct or word-level fallback)
+2026-08-14 02:49:25,383 INFO product_hunt: GraphQL request variables={'query': 'Voice Technology', 'first': 10}
+2026-08-14 02:49:25,789 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:25,790 INFO product_hunt: GraphQL request variables={'query': 'Voice', 'first': 10}
+2026-08-14 02:49:26,137 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:26,138 INFO product_hunt: GraphQL request variables={'query': 'Technology', 'first': 10}
+2026-08-14 02:49:26,512 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:26,514 INFO product_hunt: Query='Voice Technology' had no direct match; word-level fallback via ['Voice', 'Technology'] matched 3 topic(s): ['audio', 'wearables', 'biohacking']
+2026-08-14 02:49:26,515 INFO product_hunt: Skipping already-fetched topic='audio' for query='Voice Technology'
+2026-08-14 02:49:26,515 INFO product_hunt: GraphQL request variables={'topic': 'wearables', 'first': 20}
+2026-08-14 02:49:27,278 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:27,292 INFO product_hunt: Topic='wearables' fetched 20 post(s)
+2026-08-14 02:49:27,292 INFO product_hunt: GraphQL request variables={'topic': 'biohacking', 'first': 20}
+2026-08-14 02:49:27,888 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:49:27,889 INFO product_hunt: Topic='biohacking' fetched 14 post(s)
+2026-08-14 02:49:27,889 INFO product_hunt: Fetched 92 unique post(s) across 5 unique topic(s) from 5 quer(y/ies)

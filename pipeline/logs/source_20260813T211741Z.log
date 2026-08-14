@@ -1,0 +1,17 @@
+2026-08-14 02:47:43,626 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 02:47:43,642 INFO product_hunt: GraphQL request variables={'query': 'Voice Assistants', 'first': 3}
+2026-08-14 02:47:44,159 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:47:44,160 WARNING product_hunt: No Product Hunt topics matched query='Voice Assistants'
+2026-08-14 02:47:44,160 INFO product_hunt: GraphQL request variables={'query': 'AI Chatbots', 'first': 3}
+2026-08-14 02:47:44,671 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:47:44,672 WARNING product_hunt: No Product Hunt topics matched query='AI Chatbots'
+2026-08-14 02:47:44,672 INFO product_hunt: GraphQL request variables={'query': 'Speech Recognition', 'first': 3}
+2026-08-14 02:47:45,149 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:47:45,150 WARNING product_hunt: No Product Hunt topics matched query='Speech Recognition'
+2026-08-14 02:47:45,151 INFO product_hunt: GraphQL request variables={'query': 'Conversational AI', 'first': 3}
+2026-08-14 02:47:45,647 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:47:45,647 WARNING product_hunt: No Product Hunt topics matched query='Conversational AI'
+2026-08-14 02:47:45,648 INFO product_hunt: GraphQL request variables={'query': 'Voice Technology', 'first': 3}
+2026-08-14 02:47:46,101 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:47:46,105 WARNING product_hunt: No Product Hunt topics matched query='Voice Technology'
+2026-08-14 02:47:46,106 INFO product_hunt: Fetched 0 unique post(s) across 0 unique topic(s) from 5 quer(y/ies)

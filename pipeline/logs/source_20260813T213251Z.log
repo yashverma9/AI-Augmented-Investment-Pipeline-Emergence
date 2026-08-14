@@ -1,0 +1,96 @@
+2026-08-14 03:02:53,026 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 03:02:53,042 INFO product_hunt: GraphQL request variables={'query': 'AI Coding Assistants', 'first': 10}
+2026-08-14 03:02:53,741 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:53,742 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-14 03:02:53,742 INFO product_hunt: GraphQL request variables={'query': 'Coding', 'first': 10}
+2026-08-14 03:02:54,304 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:54,304 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-14 03:02:54,304 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 03:02:54,822 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:54,823 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-14 03:02:54,824 INFO product_hunt: Query='AI Coding Assistants' had no direct match; word-level fallback via ['Coding', 'Assistants'] matched 6 topic(s): ['software-engineering', 'developer-tools', 'sketch', 'coding-books', 'vibe-coding', 'virtual-assistants']
+2026-08-14 03:02:54,824 INFO product_hunt: GraphQL request variables={'topic': 'software-engineering', 'first': 20}
+2026-08-14 03:02:55,535 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:55,537 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-14 03:02:55,539 INFO product_hunt: Topic='software-engineering' fetched 20 post(s)
+2026-08-14 03:02:55,539 INFO product_hunt: GraphQL request variables={'topic': 'developer-tools', 'first': 20}
+2026-08-14 03:02:56,453 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:56,454 INFO product_hunt: Rate limit remaining=4150/6250
+2026-08-14 03:02:56,455 INFO product_hunt: Topic='developer-tools' fetched 20 post(s)
+2026-08-14 03:02:56,455 INFO product_hunt: GraphQL request variables={'topic': 'sketch', 'first': 20}
+2026-08-14 03:02:57,069 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:57,071 INFO product_hunt: Rate limit remaining=4050/6250
+2026-08-14 03:02:57,071 INFO product_hunt: Topic='sketch' fetched 10 post(s)
+2026-08-14 03:02:57,072 INFO product_hunt: GraphQL request variables={'query': 'Automated Development', 'first': 10}
+2026-08-14 03:02:57,529 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:57,530 INFO product_hunt: Rate limit remaining=3950/6250
+2026-08-14 03:02:57,530 INFO product_hunt: GraphQL request variables={'query': 'Automated', 'first': 10}
+2026-08-14 03:02:58,041 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:58,042 INFO product_hunt: Rate limit remaining=3850/6250
+2026-08-14 03:02:58,042 INFO product_hunt: GraphQL request variables={'query': 'Development', 'first': 10}
+2026-08-14 03:02:58,450 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:58,452 INFO product_hunt: Rate limit remaining=3750/6250
+2026-08-14 03:02:58,452 INFO product_hunt: Query='Automated Development' had no direct match; word-level fallback via ['Automated', 'Development'] matched 4 topic(s): ['development', 'developer-tools', 'social-impact', 'development-language']
+2026-08-14 03:02:58,452 INFO product_hunt: GraphQL request variables={'topic': 'development', 'first': 20}
+2026-08-14 03:02:59,271 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:02:59,273 INFO product_hunt: Rate limit remaining=3650/6250
+2026-08-14 03:02:59,274 INFO product_hunt: Topic='development' fetched 20 post(s)
+2026-08-14 03:02:59,275 INFO product_hunt: Skipping already-fetched topic='developer-tools' for query='Automated Development'
+2026-08-14 03:02:59,275 INFO product_hunt: GraphQL request variables={'topic': 'social-impact', 'first': 20}
+2026-08-14 03:03:00,039 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:00,041 INFO product_hunt: Rate limit remaining=3550/6250
+2026-08-14 03:03:00,042 INFO product_hunt: Topic='social-impact' fetched 20 post(s)
+2026-08-14 03:03:00,042 INFO product_hunt: GraphQL request variables={'query': 'Code Review Tools', 'first': 10}
+2026-08-14 03:03:00,498 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:00,500 INFO product_hunt: Rate limit remaining=3450/6250
+2026-08-14 03:03:00,500 INFO product_hunt: GraphQL request variables={'query': 'Code', 'first': 10}
+2026-08-14 03:03:01,012 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:01,013 INFO product_hunt: Rate limit remaining=3350/6250
+2026-08-14 03:03:01,013 INFO product_hunt: GraphQL request variables={'query': 'Review', 'first': 10}
+2026-08-14 03:03:01,779 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:01,780 INFO product_hunt: Rate limit remaining=3250/6250
+2026-08-14 03:03:01,780 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 03:03:02,292 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:02,294 INFO product_hunt: Rate limit remaining=3150/6250
+2026-08-14 03:03:02,294 INFO product_hunt: Query='Code Review Tools' had no direct match; word-level fallback via ['Code', 'Review', 'Tools'] matched 12 topic(s): ['text-editors', 'no-code', 'design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 03:03:02,295 INFO product_hunt: GraphQL request variables={'topic': 'text-editors', 'first': 20}
+2026-08-14 03:03:03,215 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:03,231 INFO product_hunt: Rate limit remaining=3050/6250
+2026-08-14 03:03:03,232 INFO product_hunt: Topic='text-editors' fetched 20 post(s)
+2026-08-14 03:03:03,233 INFO product_hunt: GraphQL request variables={'topic': 'no-code', 'first': 20}
+2026-08-14 03:03:04,493 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:04,495 INFO product_hunt: Rate limit remaining=2950/6250
+2026-08-14 03:03:04,496 INFO product_hunt: Topic='no-code' fetched 20 post(s)
+2026-08-14 03:03:04,497 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 03:03:05,470 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:05,472 INFO product_hunt: Rate limit remaining=2850/6250
+2026-08-14 03:03:05,473 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 03:03:05,473 INFO product_hunt: GraphQL request variables={'query': 'Programming Frameworks', 'first': 10}
+2026-08-14 03:03:05,980 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:05,981 INFO product_hunt: Rate limit remaining=2750/6250
+2026-08-14 03:03:05,981 INFO product_hunt: GraphQL request variables={'query': 'Programming', 'first': 10}
+2026-08-14 03:03:06,389 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:06,390 INFO product_hunt: Rate limit remaining=2650/6250
+2026-08-14 03:03:06,390 INFO product_hunt: GraphQL request variables={'query': 'Frameworks', 'first': 10}
+2026-08-14 03:03:06,797 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:06,799 INFO product_hunt: Rate limit remaining=2550/6250
+2026-08-14 03:03:06,799 WARNING product_hunt: No Product Hunt topics matched query='Programming Frameworks' (direct or word-level fallback)
+2026-08-14 03:03:06,799 INFO product_hunt: GraphQL request variables={'query': 'DevOps Automation', 'first': 10}
+2026-08-14 03:03:07,173 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:07,174 INFO product_hunt: Rate limit remaining=2450/6250
+2026-08-14 03:03:07,175 INFO product_hunt: GraphQL request variables={'query': 'DevOps', 'first': 10}
+2026-08-14 03:03:07,617 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:07,618 INFO product_hunt: Rate limit remaining=2350/6250
+2026-08-14 03:03:07,618 INFO product_hunt: GraphQL request variables={'query': 'Automation', 'first': 10}
+2026-08-14 03:03:08,793 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:08,795 INFO product_hunt: Rate limit remaining=2250/6250
+2026-08-14 03:03:08,795 INFO product_hunt: Query='DevOps Automation' had no direct match; word-level fallback via ['DevOps', 'Automation'] matched 2 topic(s): ['home-automation', 'marketing-automation']
+2026-08-14 03:03:08,795 INFO product_hunt: GraphQL request variables={'topic': 'home-automation', 'first': 20}
+2026-08-14 03:03:09,667 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:09,669 INFO product_hunt: Rate limit remaining=2150/6250
+2026-08-14 03:03:09,669 INFO product_hunt: Topic='home-automation' fetched 11 post(s)
+2026-08-14 03:03:09,670 INFO product_hunt: GraphQL request variables={'topic': 'marketing-automation', 'first': 20}
+2026-08-14 03:03:10,329 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:03:10,335 INFO product_hunt: Rate limit remaining=2050/6250
+2026-08-14 03:03:10,337 INFO product_hunt: Topic='marketing-automation' fetched 20 post(s)
+2026-08-14 03:03:10,338 INFO product_hunt: Fetched 175 unique post(s) across 10 unique topic(s) from 5 quer(y/ies)

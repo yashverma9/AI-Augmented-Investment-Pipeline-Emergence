@@ -1,0 +1,93 @@
+2026-08-14 13:58:04,148 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:04,159 INFO product_hunt: GraphQL request variables={'query': 'Health AI', 'first': 10}
+2026-08-14 13:58:04,523 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:04,526 INFO product_hunt: Rate limit remaining=6250/6250
+2026-08-14 13:58:04,526 INFO product_hunt: GraphQL request variables={'query': 'Health', 'first': 10}
+2026-08-14 13:58:04,958 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:04,960 INFO product_hunt: Rate limit remaining=6150/6250
+2026-08-14 13:58:04,960 INFO product_hunt: Query='Health AI' had no direct match; word-level fallback via ['Health'] matched 4 topic(s): ['health', 'health-fitness', 'quantified-self', 'health-news']
+2026-08-14 13:58:04,960 INFO product_hunt: GraphQL request variables={'topic': 'health', 'first': 20}
+2026-08-14 13:58:05,776 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:05,778 INFO product_hunt: Rate limit remaining=6050/6250
+2026-08-14 13:58:05,780 INFO product_hunt: Topic='health' fetched 20 post(s)
+2026-08-14 13:58:05,780 INFO product_hunt: GraphQL request variables={'topic': 'health-fitness', 'first': 20}
+2026-08-14 13:58:06,607 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:06,610 INFO product_hunt: Rate limit remaining=5950/6250
+2026-08-14 13:58:06,610 INFO product_hunt: Topic='health-fitness' fetched 20 post(s)
+2026-08-14 13:58:06,611 INFO product_hunt: GraphQL request variables={'topic': 'quantified-self', 'first': 20}
+2026-08-14 13:58:07,231 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:07,279 INFO product_hunt: Rate limit remaining=5850/6250
+2026-08-14 13:58:07,279 INFO product_hunt: Topic='quantified-self' fetched 20 post(s)
+2026-08-14 13:58:07,280 INFO product_hunt: GraphQL request variables={'query': 'Virtual Health Assistants', 'first': 10}
+2026-08-14 13:58:07,614 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:07,615 INFO product_hunt: Rate limit remaining=5750/6250
+2026-08-14 13:58:07,616 INFO product_hunt: GraphQL request variables={'query': 'Virtual', 'first': 10}
+2026-08-14 13:58:08,051 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:08,052 INFO product_hunt: Rate limit remaining=5650/6250
+2026-08-14 13:58:08,052 INFO product_hunt: Topic search cache hit for 'Health'
+2026-08-14 13:58:08,052 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 13:58:09,068 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:09,070 INFO product_hunt: Rate limit remaining=5550/6250
+2026-08-14 13:58:09,071 INFO product_hunt: Query='Virtual Health Assistants' had no direct match; word-level fallback via ['Virtual', 'Health', 'Assistants'] matched 6 topic(s): ['virtual-reality', 'virtual-assistants', 'health', 'health-fitness', 'quantified-self', 'health-news']
+2026-08-14 13:58:09,071 INFO product_hunt: GraphQL request variables={'topic': 'virtual-reality', 'first': 20}
+2026-08-14 13:58:09,790 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:09,790 INFO product_hunt: Rate limit remaining=5450/6250
+2026-08-14 13:58:09,790 INFO product_hunt: Topic='virtual-reality' fetched 11 post(s)
+2026-08-14 13:58:09,791 INFO product_hunt: GraphQL request variables={'topic': 'virtual-assistants', 'first': 20}
+2026-08-14 13:58:10,490 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:10,492 INFO product_hunt: Rate limit remaining=5350/6250
+2026-08-14 13:58:10,492 INFO product_hunt: Topic='virtual-assistants' fetched 20 post(s)
+2026-08-14 13:58:10,493 INFO product_hunt: Skipping already-fetched topic='health' for query='Virtual Health Assistants'
+2026-08-14 13:58:10,493 INFO product_hunt: GraphQL request variables={'query': 'Telemedicine Tools', 'first': 10}
+2026-08-14 13:58:10,820 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:10,821 INFO product_hunt: Rate limit remaining=5250/6250
+2026-08-14 13:58:10,821 INFO product_hunt: GraphQL request variables={'query': 'Telemedicine', 'first': 10}
+2026-08-14 13:58:11,204 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:11,205 INFO product_hunt: Rate limit remaining=5150/6250
+2026-08-14 13:58:11,205 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 13:58:11,537 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:11,538 INFO product_hunt: Rate limit remaining=5050/6250
+2026-08-14 13:58:11,538 INFO product_hunt: Query='Telemedicine Tools' had no direct match; word-level fallback via ['Telemedicine', 'Tools'] matched 10 topic(s): ['design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 13:58:11,539 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 13:58:12,260 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:12,279 INFO product_hunt: Rate limit remaining=4950/6250
+2026-08-14 13:58:12,290 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 13:58:12,290 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-14 13:58:12,920 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:12,949 INFO product_hunt: Rate limit remaining=4850/6250
+2026-08-14 13:58:12,950 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-14 13:58:12,950 INFO product_hunt: GraphQL request variables={'topic': 'writing', 'first': 20}
+2026-08-14 13:58:13,969 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:13,972 INFO product_hunt: Rate limit remaining=4750/6250
+2026-08-14 13:58:13,972 INFO product_hunt: Topic='writing' fetched 20 post(s)
+2026-08-14 13:58:13,973 INFO product_hunt: GraphQL request variables={'query': 'AI Diagnostics', 'first': 10}
+2026-08-14 13:58:14,288 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:14,289 INFO product_hunt: Rate limit remaining=4650/6250
+2026-08-14 13:58:14,289 INFO product_hunt: GraphQL request variables={'query': 'Diagnostics', 'first': 10}
+2026-08-14 13:58:14,685 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:14,686 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-14 13:58:14,686 WARNING product_hunt: No Product Hunt topics matched query='AI Diagnostics' (direct or word-level fallback)
+2026-08-14 13:58:14,686 INFO product_hunt: GraphQL request variables={'query': 'Patient Engagement', 'first': 10}
+2026-08-14 13:58:15,094 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:15,095 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-14 13:58:15,096 INFO product_hunt: GraphQL request variables={'query': 'Patient', 'first': 10}
+2026-08-14 13:58:15,504 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:15,505 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-14 13:58:15,505 INFO product_hunt: GraphQL request variables={'query': 'Engagement', 'first': 10}
+2026-08-14 13:58:16,016 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:58:16,017 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-14 13:58:16,018 WARNING product_hunt: No Product Hunt topics matched query='Patient Engagement' (direct or word-level fallback)
+2026-08-14 13:58:16,018 INFO product_hunt: Fetched 146 unique post(s) across 8 unique topic(s) from 5 quer(y/ies)
+2026-08-14 13:58:16,026 INFO sourcing: Rule-based shortlist kept 50/146 post(s) for thesis='AI Agents for health'
+2026-08-14 13:58:19,190 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:19,203 INFO sourcing: LLM shortlist kept 5/15 post(s) for thesis='AI Agents for health' batch=0-15
+2026-08-14 13:58:21,854 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:21,864 INFO sourcing: LLM shortlist kept 5/15 post(s) for thesis='AI Agents for health' batch=15-30
+2026-08-14 13:58:24,106 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:24,110 INFO sourcing: LLM shortlist kept 2/15 post(s) for thesis='AI Agents for health' batch=30-45
+2026-08-14 13:58:25,244 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:25,248 INFO sourcing: LLM shortlist kept 0/5 post(s) for thesis='AI Agents for health' batch=45-50
+2026-08-14 13:58:25,251 INFO analysis: Loaded 12 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T082802Z_shortlist.json; votes range=20..152
+2026-08-14 13:58:32,709 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:36,333 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:58:36,345 INFO analysis: Wrote analysis for 12 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T082802Z_analysis.json

@@ -1,0 +1,19 @@
+2026-08-14 02:52:03,233 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 02:52:03,247 INFO product_hunt: GraphQL request variables={'query': 'AI Coding Assistants', 'first': 10}
+2026-08-14 02:52:03,600 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:03,601 INFO product_hunt: GraphQL request variables={'query': 'Coding', 'first': 10}
+2026-08-14 02:52:03,895 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:03,896 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 02:52:04,256 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:04,256 INFO product_hunt: Query='AI Coding Assistants' had no direct match; word-level fallback via ['Coding', 'Assistants'] matched 6 topic(s): ['software-engineering', 'developer-tools', 'sketch', 'coding-books', 'vibe-coding', 'virtual-assistants']
+2026-08-14 02:52:04,256 INFO product_hunt: GraphQL request variables={'topic': 'software-engineering', 'first': 20}
+2026-08-14 02:52:05,229 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:05,233 INFO product_hunt: Topic='software-engineering' fetched 20 post(s)
+2026-08-14 02:52:05,235 INFO product_hunt: GraphQL request variables={'topic': 'developer-tools', 'first': 20}
+2026-08-14 02:52:05,941 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:05,944 INFO product_hunt: Topic='developer-tools' fetched 20 post(s)
+2026-08-14 02:52:05,945 INFO product_hunt: GraphQL request variables={'topic': 'sketch', 'first': 20}
+2026-08-14 02:52:06,457 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 02:52:06,459 INFO product_hunt: Topic='sketch' fetched 10 post(s)
+2026-08-14 02:52:06,459 INFO product_hunt: GraphQL request variables={'query': 'Automated Development', 'first': 10}
+2026-08-14 02:52:06,815 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 429 Too Many Requests"

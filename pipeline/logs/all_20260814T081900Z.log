@@ -1,0 +1,97 @@
+2026-08-14 13:49:01,654 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:01,679 INFO product_hunt: GraphQL request variables={'query': 'Health AI', 'first': 10}
+2026-08-14 13:49:02,144 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:02,145 INFO product_hunt: Rate limit remaining=3650/6250
+2026-08-14 13:49:02,145 INFO product_hunt: GraphQL request variables={'query': 'Health', 'first': 10}
+2026-08-14 13:49:02,557 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:02,559 INFO product_hunt: Rate limit remaining=3550/6250
+2026-08-14 13:49:02,559 INFO product_hunt: Query='Health AI' had no direct match; word-level fallback via ['Health'] matched 4 topic(s): ['health', 'health-fitness', 'quantified-self', 'health-news']
+2026-08-14 13:49:02,559 INFO product_hunt: GraphQL request variables={'topic': 'health', 'first': 20}
+2026-08-14 13:49:03,244 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:03,262 INFO product_hunt: Rate limit remaining=3450/6250
+2026-08-14 13:49:03,263 INFO product_hunt: Topic='health' fetched 20 post(s)
+2026-08-14 13:49:03,264 INFO product_hunt: GraphQL request variables={'topic': 'health-fitness', 'first': 20}
+2026-08-14 13:49:04,929 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:04,930 INFO product_hunt: Rate limit remaining=3350/6250
+2026-08-14 13:49:04,931 INFO product_hunt: Topic='health-fitness' fetched 20 post(s)
+2026-08-14 13:49:04,932 INFO product_hunt: GraphQL request variables={'topic': 'quantified-self', 'first': 20}
+2026-08-14 13:49:05,580 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:05,611 INFO product_hunt: Rate limit remaining=3250/6250
+2026-08-14 13:49:05,613 INFO product_hunt: Topic='quantified-self' fetched 20 post(s)
+2026-08-14 13:49:05,614 INFO product_hunt: GraphQL request variables={'query': 'Virtual Health Assistants', 'first': 10}
+2026-08-14 13:49:06,475 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:06,476 INFO product_hunt: Rate limit remaining=3150/6250
+2026-08-14 13:49:06,477 INFO product_hunt: GraphQL request variables={'query': 'Virtual', 'first': 10}
+2026-08-14 13:49:06,940 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:06,941 INFO product_hunt: Rate limit remaining=3050/6250
+2026-08-14 13:49:06,941 INFO product_hunt: Topic search cache hit for 'Health'
+2026-08-14 13:49:06,942 INFO product_hunt: GraphQL request variables={'query': 'Assistants', 'first': 10}
+2026-08-14 13:49:07,994 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:07,995 INFO product_hunt: Rate limit remaining=2950/6250
+2026-08-14 13:49:07,996 INFO product_hunt: Query='Virtual Health Assistants' had no direct match; word-level fallback via ['Virtual', 'Health', 'Assistants'] matched 6 topic(s): ['virtual-reality', 'virtual-assistants', 'health', 'health-fitness', 'quantified-self', 'health-news']
+2026-08-14 13:49:07,996 INFO product_hunt: GraphQL request variables={'topic': 'virtual-reality', 'first': 20}
+2026-08-14 13:49:08,783 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:08,785 INFO product_hunt: Rate limit remaining=2850/6250
+2026-08-14 13:49:08,786 INFO product_hunt: Topic='virtual-reality' fetched 11 post(s)
+2026-08-14 13:49:08,786 INFO product_hunt: GraphQL request variables={'topic': 'virtual-assistants', 'first': 20}
+2026-08-14 13:49:09,502 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:09,504 INFO product_hunt: Rate limit remaining=2750/6250
+2026-08-14 13:49:09,505 INFO product_hunt: Topic='virtual-assistants' fetched 20 post(s)
+2026-08-14 13:49:09,506 INFO product_hunt: Skipping already-fetched topic='health' for query='Virtual Health Assistants'
+2026-08-14 13:49:09,506 INFO product_hunt: GraphQL request variables={'query': 'Telemedicine Tools', 'first': 10}
+2026-08-14 13:49:09,971 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:09,972 INFO product_hunt: Rate limit remaining=2650/6250
+2026-08-14 13:49:09,973 INFO product_hunt: GraphQL request variables={'query': 'Telemedicine', 'first': 10}
+2026-08-14 13:49:10,364 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:10,365 INFO product_hunt: Rate limit remaining=2550/6250
+2026-08-14 13:49:10,365 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 13:49:10,806 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:10,807 INFO product_hunt: Rate limit remaining=2450/6250
+2026-08-14 13:49:10,808 INFO product_hunt: Query='Telemedicine Tools' had no direct match; word-level fallback via ['Telemedicine', 'Tools'] matched 10 topic(s): ['design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 13:49:10,808 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 13:49:11,656 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:11,658 INFO product_hunt: Rate limit remaining=2350/6250
+2026-08-14 13:49:11,678 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 13:49:11,679 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-14 13:49:12,573 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:12,575 INFO product_hunt: Rate limit remaining=2250/6250
+2026-08-14 13:49:12,576 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-14 13:49:12,576 INFO product_hunt: GraphQL request variables={'topic': 'writing', 'first': 20}
+2026-08-14 13:49:13,618 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:13,620 INFO product_hunt: Rate limit remaining=2150/6250
+2026-08-14 13:49:13,621 INFO product_hunt: Topic='writing' fetched 20 post(s)
+2026-08-14 13:49:13,621 INFO product_hunt: GraphQL request variables={'query': 'AI Diagnostics', 'first': 10}
+2026-08-14 13:49:14,116 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:14,117 INFO product_hunt: Rate limit remaining=2050/6250
+2026-08-14 13:49:14,117 INFO product_hunt: GraphQL request variables={'query': 'Diagnostics', 'first': 10}
+2026-08-14 13:49:14,531 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:14,532 INFO product_hunt: Rate limit remaining=1950/6250
+2026-08-14 13:49:14,532 WARNING product_hunt: No Product Hunt topics matched query='AI Diagnostics' (direct or word-level fallback)
+2026-08-14 13:49:14,532 INFO product_hunt: GraphQL request variables={'query': 'Patient Engagement', 'first': 10}
+2026-08-14 13:49:14,923 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:14,924 INFO product_hunt: Rate limit remaining=1850/6250
+2026-08-14 13:49:14,924 INFO product_hunt: GraphQL request variables={'query': 'Patient', 'first': 10}
+2026-08-14 13:49:15,799 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:15,800 INFO product_hunt: Rate limit remaining=1750/6250
+2026-08-14 13:49:15,800 INFO product_hunt: GraphQL request variables={'query': 'Engagement', 'first': 10}
+2026-08-14 13:49:16,267 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 13:49:16,267 INFO product_hunt: Rate limit remaining=1650/6250
+2026-08-14 13:49:16,268 WARNING product_hunt: No Product Hunt topics matched query='Patient Engagement' (direct or word-level fallback)
+2026-08-14 13:49:16,268 INFO product_hunt: Fetched 146 unique post(s) across 8 unique topic(s) from 5 quer(y/ies)
+2026-08-14 13:49:16,276 INFO sourcing: Rule-based shortlist kept 50/146 post(s) for thesis='AI Agents for health'
+2026-08-14 13:49:19,126 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:19,136 INFO sourcing: LLM shortlist kept 5/15 post(s) for thesis='AI Agents for health' batch=0-15
+2026-08-14 13:49:21,681 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:21,694 INFO sourcing: LLM shortlist kept 5/15 post(s) for thesis='AI Agents for health' batch=15-30
+2026-08-14 13:49:24,627 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:24,630 INFO sourcing: LLM shortlist kept 2/15 post(s) for thesis='AI Agents for health' batch=30-45
+2026-08-14 13:49:25,735 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:25,740 INFO sourcing: LLM shortlist kept 0/5 post(s) for thesis='AI Agents for health' batch=45-50
+2026-08-14 13:49:25,742 INFO analysis: Loaded 12 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T081900Z_shortlist.json; votes range=20..152
+2026-08-14 13:49:34,981 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:34,988 WARNING analysis: Analysis batch failed on attempt 1/2 for thesis='AI Agents for health' batch_size=8: LLM returned results out of order or with mismatched names
+2026-08-14 13:49:43,240 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:43,244 WARNING analysis: Analysis batch failed on attempt 2/2 for thesis='AI Agents for health' batch_size=8: LLM returned results out of order or with mismatched names
+2026-08-14 13:49:43,244 WARNING analysis: Marking batch 1/2 incomplete for thesis='AI Agents for health' because scoring failed: Analysis batch failed after retry
+2026-08-14 13:49:47,696 INFO httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 13:49:47,703 INFO analysis: Wrote analysis for 12 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/analysis.json

@@ -1,0 +1,93 @@
+2026-08-14 03:18:27,132 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 03:18:27,142 INFO product_hunt: GraphQL request variables={'query': 'AI Art', 'first': 10}
+2026-08-14 03:18:27,696 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:27,697 INFO product_hunt: Rate limit remaining=6250/6250
+2026-08-14 03:18:27,698 INFO product_hunt: GraphQL request variables={'query': 'Art', 'first': 10}
+2026-08-14 03:18:28,185 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:28,187 INFO product_hunt: Rate limit remaining=6150/6250
+2026-08-14 03:18:28,187 INFO product_hunt: Query='AI Art' had no direct match; word-level fallback via ['Art'] matched 10 topic(s): ['art', 'digital-art', 'art-books', 'crowdfunding', 'startup-lessons', 'home', 'artificial-intelligence', 'startup-books', 'video-art', 'party']
+2026-08-14 03:18:28,187 INFO product_hunt: GraphQL request variables={'topic': 'art', 'first': 20}
+2026-08-14 03:18:29,031 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:29,034 INFO product_hunt: Rate limit remaining=6050/6250
+2026-08-14 03:18:29,035 INFO product_hunt: Topic='art' fetched 20 post(s)
+2026-08-14 03:18:29,035 INFO product_hunt: GraphQL request variables={'topic': 'digital-art', 'first': 20}
+2026-08-14 03:18:29,948 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:29,949 INFO product_hunt: Rate limit remaining=5950/6250
+2026-08-14 03:18:29,950 INFO product_hunt: Topic='digital-art' fetched 20 post(s)
+2026-08-14 03:18:29,951 INFO product_hunt: GraphQL request variables={'topic': 'art-books', 'first': 20}
+2026-08-14 03:18:31,172 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:31,172 INFO product_hunt: Rate limit remaining=5850/6250
+2026-08-14 03:18:31,173 INFO product_hunt: Topic='art-books' fetched 0 post(s)
+2026-08-14 03:18:31,173 INFO product_hunt: GraphQL request variables={'query': 'Image Editing', 'first': 10}
+2026-08-14 03:18:31,685 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:31,686 INFO product_hunt: Rate limit remaining=5750/6250
+2026-08-14 03:18:31,687 INFO product_hunt: GraphQL request variables={'query': 'Image', 'first': 10}
+2026-08-14 03:18:32,815 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:32,816 INFO product_hunt: Rate limit remaining=5650/6250
+2026-08-14 03:18:32,817 INFO product_hunt: GraphQL request variables={'query': 'Editing', 'first': 10}
+2026-08-14 03:18:33,582 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:33,583 INFO product_hunt: Rate limit remaining=5550/6250
+2026-08-14 03:18:33,583 INFO product_hunt: Query='Image Editing' had no direct match; word-level fallback via ['Image', 'Editing'] matched 1 topic(s): ['photo-editing']
+2026-08-14 03:18:33,583 INFO product_hunt: GraphQL request variables={'topic': 'photo-editing', 'first': 20}
+2026-08-14 03:18:35,379 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:35,381 INFO product_hunt: Rate limit remaining=5450/6250
+2026-08-14 03:18:35,382 INFO product_hunt: Topic='photo-editing' fetched 20 post(s)
+2026-08-14 03:18:35,383 INFO product_hunt: GraphQL request variables={'query': 'Generative Design', 'first': 10}
+2026-08-14 03:18:35,936 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:35,937 INFO product_hunt: Rate limit remaining=5350/6250
+2026-08-14 03:18:35,937 INFO product_hunt: GraphQL request variables={'query': 'Generative', 'first': 10}
+2026-08-14 03:18:36,604 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:36,605 INFO product_hunt: Rate limit remaining=5250/6250
+2026-08-14 03:18:36,605 INFO product_hunt: GraphQL request variables={'query': 'Design', 'first': 10}
+2026-08-14 03:18:37,165 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:37,166 INFO product_hunt: Rate limit remaining=5150/6250
+2026-08-14 03:18:37,166 INFO product_hunt: Query='Generative Design' had no direct match; word-level fallback via ['Generative', 'Design'] matched 10 topic(s): ['design', 'design-books', 'graphics-design', 'graphic-design', 'web-design', 'ux-design', 'logo-design', 'design-resources', 'design-templates', 'design-tools']
+2026-08-14 03:18:37,166 INFO product_hunt: GraphQL request variables={'topic': 'design', 'first': 20}
+2026-08-14 03:18:38,088 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:38,448 INFO product_hunt: Rate limit remaining=5050/6250
+2026-08-14 03:18:38,448 INFO product_hunt: Topic='design' fetched 20 post(s)
+2026-08-14 03:18:38,448 INFO product_hunt: GraphQL request variables={'topic': 'design-books', 'first': 20}
+2026-08-14 03:18:39,267 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:39,267 INFO product_hunt: Rate limit remaining=4950/6250
+2026-08-14 03:18:39,268 INFO product_hunt: Topic='design-books' fetched 4 post(s)
+2026-08-14 03:18:39,268 INFO product_hunt: GraphQL request variables={'topic': 'graphics-design', 'first': 20}
+2026-08-14 03:18:40,188 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:40,189 INFO product_hunt: Rate limit remaining=4850/6250
+2026-08-14 03:18:40,189 INFO product_hunt: Topic='graphics-design' fetched 20 post(s)
+2026-08-14 03:18:40,190 INFO product_hunt: GraphQL request variables={'query': 'Visual Content', 'first': 10}
+2026-08-14 03:18:40,676 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:40,677 INFO product_hunt: Rate limit remaining=4750/6250
+2026-08-14 03:18:40,677 INFO product_hunt: GraphQL request variables={'query': 'Visual', 'first': 10}
+2026-08-14 03:18:42,032 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:42,034 INFO product_hunt: Rate limit remaining=4650/6250
+2026-08-14 03:18:42,035 INFO product_hunt: GraphQL request variables={'query': 'Content', 'first': 10}
+2026-08-14 03:18:42,646 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:42,647 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-14 03:18:42,647 INFO product_hunt: Query='Visual Content' had no direct match; word-level fallback via ['Visual', 'Content'] matched 1 topic(s): ['data-visualization']
+2026-08-14 03:18:42,648 INFO product_hunt: GraphQL request variables={'topic': 'data-visualization', 'first': 20}
+2026-08-14 03:18:43,955 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:43,957 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-14 03:18:43,958 INFO product_hunt: Topic='data-visualization' fetched 20 post(s)
+2026-08-14 03:18:43,959 INFO product_hunt: GraphQL request variables={'query': 'Creative Tools', 'first': 10}
+2026-08-14 03:18:44,593 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:44,594 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-14 03:18:44,595 INFO product_hunt: GraphQL request variables={'query': 'Creative', 'first': 10}
+2026-08-14 03:18:45,099 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:45,100 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-14 03:18:45,101 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 03:18:45,676 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:45,677 INFO product_hunt: Rate limit remaining=4150/6250
+2026-08-14 03:18:45,678 INFO product_hunt: Query='Creative Tools' had no direct match; word-level fallback via ['Creative', 'Tools'] matched 10 topic(s): ['design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 03:18:45,678 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 03:18:46,896 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:46,899 INFO product_hunt: Rate limit remaining=4050/6250
+2026-08-14 03:18:46,900 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 03:18:46,900 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-14 03:18:50,122 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:50,123 INFO product_hunt: Rate limit remaining=3950/6250
+2026-08-14 03:18:50,124 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-14 03:18:50,124 INFO product_hunt: GraphQL request variables={'topic': 'writing', 'first': 20}
+2026-08-14 03:18:52,015 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 03:18:52,018 INFO product_hunt: Rate limit remaining=3850/6250
+2026-08-14 03:18:52,019 INFO product_hunt: Topic='writing' fetched 20 post(s)
+2026-08-14 03:18:52,020 INFO product_hunt: Fetched 175 unique post(s) across 11 unique topic(s) from 5 quer(y/ies)

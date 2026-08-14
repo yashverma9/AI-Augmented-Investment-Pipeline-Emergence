@@ -5,10 +5,10 @@ import os
 from collections.abc import Iterable
 from pathlib import Path
 
+from analysis import analysis_output_path, analyze_shortlist
 from logging_config import configure_logging
-from analysis import analyze_shortlist, analysis_output_path
-from sourcing import new_debug_candidates_path, source_topic
-from sourcing import shortlist_output_path
+from memo import generate_memos
+from sourcing import new_debug_candidates_path, shortlist_output_path, source_topic
 
 DEFAULT_ENV_PATH = Path(__file__).with_name(".env")
 DEFAULT_STAGE = "all"
@@ -58,6 +58,8 @@ def main() -> None:
     print(f"log_path={log_path}")
     print(f"env_loaded={{{', '.join(f'{key}: {'set' if value else 'missing'}' for key, value in summary.items())}}}")
 
+    analysis_out: Path | None = None
+
     if args.stage in {"source", "all"}:
         output_path = new_debug_candidates_path()
         posts = source_topic(args.topic, output_path=output_path)
@@ -81,7 +83,11 @@ def main() -> None:
         print(f"analysis_results={len(analysis_results)}")
 
     if args.stage in {"memo", "all"}:
-        print("remaining_stages=not_implemented")
+        from memo import _latest_analysis_path
+        memo_input = analysis_out or _latest_analysis_path()
+        memos_dir = generate_memos(memo_input, args.topic)
+        print(f"memo_input={memo_input}")
+        print(f"memo_output={memos_dir}")
 
 
 if __name__ == "__main__":

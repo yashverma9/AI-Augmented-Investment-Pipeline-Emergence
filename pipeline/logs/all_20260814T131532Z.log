@@ -1,0 +1,89 @@
+2026-08-14 18:45:35,103 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:45:35,125 INFO product_hunt: GraphQL request variables={'query': 'Sports Betting', 'first': 10}
+2026-08-14 18:45:35,499 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:35,501 INFO product_hunt: Rate limit remaining=6250/6250
+2026-08-14 18:45:35,501 INFO product_hunt: GraphQL request variables={'query': 'Sports', 'first': 10}
+2026-08-14 18:45:36,023 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:36,025 INFO product_hunt: Rate limit remaining=6150/6250
+2026-08-14 18:45:36,025 INFO product_hunt: GraphQL request variables={'query': 'Betting', 'first': 10}
+2026-08-14 18:45:36,538 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:36,539 INFO product_hunt: Rate limit remaining=6050/6250
+2026-08-14 18:45:36,540 INFO product_hunt: Query='Sports Betting' had no direct match; word-level fallback via ['Sports', 'Betting'] matched 8 topic(s): ['sports', 'basketball', 'football', 'soccer', 'golf', 'sports-games', 'college-sports', 'snow-sports']
+2026-08-14 18:45:36,540 INFO product_hunt: GraphQL request variables={'topic': 'sports', 'first': 20}
+2026-08-14 18:45:37,357 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:37,359 INFO product_hunt: Rate limit remaining=5950/6250
+2026-08-14 18:45:37,360 INFO product_hunt: Topic='sports' fetched 20 post(s)
+2026-08-14 18:45:37,361 INFO product_hunt: GraphQL request variables={'topic': 'basketball', 'first': 20}
+2026-08-14 18:45:38,029 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:38,031 INFO product_hunt: Rate limit remaining=5850/6250
+2026-08-14 18:45:38,031 INFO product_hunt: Topic='basketball' fetched 6 post(s)
+2026-08-14 18:45:38,031 INFO product_hunt: GraphQL request variables={'topic': 'football', 'first': 20}
+2026-08-14 18:45:38,994 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:39,006 INFO product_hunt: Rate limit remaining=5750/6250
+2026-08-14 18:45:39,006 INFO product_hunt: Topic='football' fetched 20 post(s)
+2026-08-14 18:45:39,007 INFO product_hunt: GraphQL request variables={'query': 'Gambling Apps', 'first': 10}
+2026-08-14 18:45:39,470 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:39,472 INFO product_hunt: Rate limit remaining=5650/6250
+2026-08-14 18:45:39,472 INFO product_hunt: GraphQL request variables={'query': 'Gambling', 'first': 10}
+2026-08-14 18:45:40,014 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:40,015 INFO product_hunt: Rate limit remaining=5550/6250
+2026-08-14 18:45:40,015 INFO product_hunt: GraphQL request variables={'query': 'Apps', 'first': 10}
+2026-08-14 18:45:40,529 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:40,530 INFO product_hunt: Rate limit remaining=5450/6250
+2026-08-14 18:45:40,530 INFO product_hunt: Query='Gambling Apps' had no direct match; word-level fallback via ['Gambling', 'Apps'] matched 8 topic(s): ['email', 'design-tools', 'music', 'weather', 'crypto', 'menu-bar-apps', 'imessage-apps', 'touch-bar-apps']
+2026-08-14 18:45:40,530 INFO product_hunt: GraphQL request variables={'topic': 'email', 'first': 20}
+2026-08-14 18:45:41,210 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:41,213 INFO product_hunt: Rate limit remaining=5350/6250
+2026-08-14 18:45:41,214 INFO product_hunt: Topic='email' fetched 20 post(s)
+2026-08-14 18:45:41,215 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 18:45:41,846 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:41,847 INFO product_hunt: Rate limit remaining=5250/6250
+2026-08-14 18:45:41,848 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 18:45:41,849 INFO product_hunt: GraphQL request variables={'topic': 'music', 'first': 20}
+2026-08-14 18:45:43,206 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:43,209 INFO product_hunt: Rate limit remaining=5150/6250
+2026-08-14 18:45:43,210 INFO product_hunt: Topic='music' fetched 20 post(s)
+2026-08-14 18:45:43,211 INFO product_hunt: GraphQL request variables={'query': 'Prediction Markets', 'first': 10}
+2026-08-14 18:45:43,566 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:43,567 INFO product_hunt: Rate limit remaining=5050/6250
+2026-08-14 18:45:43,568 INFO product_hunt: GraphQL request variables={'query': 'Prediction', 'first': 10}
+2026-08-14 18:45:43,898 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:43,915 INFO product_hunt: Rate limit remaining=4950/6250
+2026-08-14 18:45:43,916 INFO product_hunt: GraphQL request variables={'query': 'Markets', 'first': 10}
+2026-08-14 18:45:44,295 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:44,296 INFO product_hunt: Rate limit remaining=4850/6250
+2026-08-14 18:45:44,296 WARNING product_hunt: No Product Hunt topics matched query='Prediction Markets' (direct or word-level fallback)
+2026-08-14 18:45:44,296 INFO product_hunt: GraphQL request variables={'query': 'Betting Analytics', 'first': 10}
+2026-08-14 18:45:44,654 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:44,655 INFO product_hunt: Rate limit remaining=4750/6250
+2026-08-14 18:45:44,656 INFO product_hunt: Topic search cache hit for 'Betting'
+2026-08-14 18:45:44,656 INFO product_hunt: GraphQL request variables={'query': 'Analytics', 'first': 10}
+2026-08-14 18:45:44,998 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:45,000 INFO product_hunt: Rate limit remaining=4650/6250
+2026-08-14 18:45:45,000 INFO product_hunt: Query='Betting Analytics' had no direct match; word-level fallback via ['Betting', 'Analytics'] matched 2 topic(s): ['analytics', 'data-analytics']
+2026-08-14 18:45:45,000 INFO product_hunt: GraphQL request variables={'topic': 'analytics', 'first': 20}
+2026-08-14 18:45:45,839 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:45,868 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-14 18:45:45,869 INFO product_hunt: Topic='analytics' fetched 20 post(s)
+2026-08-14 18:45:45,870 INFO product_hunt: GraphQL request variables={'topic': 'data-analytics', 'first': 20}
+2026-08-14 18:45:46,450 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:46,466 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-14 18:45:46,467 INFO product_hunt: Topic='data-analytics' fetched 20 post(s)
+2026-08-14 18:45:46,468 INFO product_hunt: GraphQL request variables={'query': 'Fantasy Sports', 'first': 10}
+2026-08-14 18:45:46,831 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:46,833 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-14 18:45:46,833 INFO product_hunt: GraphQL request variables={'query': 'Fantasy', 'first': 10}
+2026-08-14 18:45:47,188 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:47,189 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-14 18:45:47,189 INFO product_hunt: Topic search cache hit for 'Sports'
+2026-08-14 18:45:47,189 INFO product_hunt: Query='Fantasy Sports' had no direct match; word-level fallback via ['Fantasy', 'Sports'] matched 9 topic(s): ['fantasy-games', 'sports', 'basketball', 'football', 'soccer', 'golf', 'sports-games', 'college-sports', 'snow-sports']
+2026-08-14 18:45:47,190 INFO product_hunt: GraphQL request variables={'topic': 'fantasy-games', 'first': 20}
+2026-08-14 18:45:48,006 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:45:48,010 INFO product_hunt: Rate limit remaining=4150/6250
+2026-08-14 18:45:48,010 INFO product_hunt: Topic='fantasy-games' fetched 2 post(s)
+2026-08-14 18:45:48,011 INFO product_hunt: Skipping already-fetched topic='sports' for query='Fantasy Sports'
+2026-08-14 18:45:48,011 INFO product_hunt: Skipping already-fetched topic='basketball' for query='Fantasy Sports'
+2026-08-14 18:45:48,011 INFO product_hunt: Fetched 140 unique post(s) across 9 unique topic(s) from 5 quer(y/ies)
+2026-08-14 18:45:48,021 INFO sourcing: Rule-based shortlist kept 0/140 post(s) for thesis='Betting markets'
+2026-08-14 18:45:48,023 WARNING analysis: Shortlist input /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T131532Z_shortlist.json is empty; writing an empty analysis file
+2026-08-14 18:45:48,034 INFO memo: Wrote 0 memo(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/memos/memos-betting-markets-20260814T131548Z

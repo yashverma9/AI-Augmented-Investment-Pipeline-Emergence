@@ -1,0 +1,113 @@
+2026-08-14 18:20:10,994 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:20:11,024 INFO product_hunt: GraphQL request variables={'query': 'Business Software', 'first': 10}
+2026-08-14 18:20:11,631 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:11,633 INFO product_hunt: Rate limit remaining=3750/6250
+2026-08-14 18:20:11,634 INFO product_hunt: Query='Business Software' matched 1 topic(s) directly: ['saas']
+2026-08-14 18:20:11,634 INFO product_hunt: GraphQL request variables={'topic': 'saas', 'first': 20}
+2026-08-14 18:20:12,575 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:12,593 INFO product_hunt: Rate limit remaining=3650/6250
+2026-08-14 18:20:12,595 INFO product_hunt: Topic='saas' fetched 20 post(s)
+2026-08-14 18:20:12,595 INFO product_hunt: GraphQL request variables={'query': 'SaaS Solutions', 'first': 10}
+2026-08-14 18:20:13,067 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:13,068 INFO product_hunt: Rate limit remaining=3550/6250
+2026-08-14 18:20:13,068 INFO product_hunt: GraphQL request variables={'query': 'SaaS', 'first': 10}
+2026-08-14 18:20:13,542 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:13,543 INFO product_hunt: Rate limit remaining=3450/6250
+2026-08-14 18:20:13,543 INFO product_hunt: GraphQL request variables={'query': 'Solutions', 'first': 10}
+2026-08-14 18:20:13,984 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:13,985 INFO product_hunt: Rate limit remaining=3350/6250
+2026-08-14 18:20:13,985 INFO product_hunt: Query='SaaS Solutions' had no direct match; word-level fallback via ['SaaS', 'Solutions'] matched 1 topic(s): ['saas']
+2026-08-14 18:20:13,986 INFO product_hunt: Skipping already-fetched topic='saas' for query='SaaS Solutions'
+2026-08-14 18:20:13,986 INFO product_hunt: GraphQL request variables={'query': 'Productivity Tools', 'first': 10}
+2026-08-14 18:20:15,127 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:15,128 INFO product_hunt: Rate limit remaining=3250/6250
+2026-08-14 18:20:15,128 INFO product_hunt: GraphQL request variables={'query': 'Productivity', 'first': 10}
+2026-08-14 18:20:15,796 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:15,796 INFO product_hunt: Rate limit remaining=3150/6250
+2026-08-14 18:20:15,796 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-14 18:20:16,310 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:16,312 INFO product_hunt: Rate limit remaining=3050/6250
+2026-08-14 18:20:16,312 INFO product_hunt: Query='Productivity Tools' had no direct match; word-level fallback via ['Productivity', 'Tools'] matched 11 topic(s): ['productivity', 'design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-14 18:20:16,312 INFO product_hunt: GraphQL request variables={'topic': 'productivity', 'first': 20}
+2026-08-14 18:20:17,847 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:17,849 INFO product_hunt: Rate limit remaining=2950/6250
+2026-08-14 18:20:17,850 INFO product_hunt: Topic='productivity' fetched 20 post(s)
+2026-08-14 18:20:17,851 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-14 18:20:18,971 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:18,987 INFO product_hunt: Rate limit remaining=2850/6250
+2026-08-14 18:20:18,987 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-14 18:20:18,988 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-14 18:20:20,071 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:20,076 INFO product_hunt: Rate limit remaining=2750/6250
+2026-08-14 18:20:20,078 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-14 18:20:20,079 INFO product_hunt: GraphQL request variables={'query': 'Collaboration Platforms', 'first': 10}
+2026-08-14 18:20:20,652 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:20,652 INFO product_hunt: Rate limit remaining=2650/6250
+2026-08-14 18:20:20,652 INFO product_hunt: GraphQL request variables={'query': 'Collaboration', 'first': 10}
+2026-08-14 18:20:21,175 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:21,176 INFO product_hunt: Rate limit remaining=2550/6250
+2026-08-14 18:20:21,176 INFO product_hunt: GraphQL request variables={'query': 'Platforms', 'first': 10}
+2026-08-14 18:20:21,734 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:21,735 INFO product_hunt: Rate limit remaining=2450/6250
+2026-08-14 18:20:21,735 WARNING product_hunt: No Product Hunt topics matched query='Collaboration Platforms' (direct or word-level fallback)
+2026-08-14 18:20:21,735 INFO product_hunt: GraphQL request variables={'query': 'Automation Software', 'first': 10}
+2026-08-14 18:20:22,276 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:22,277 INFO product_hunt: Rate limit remaining=2350/6250
+2026-08-14 18:20:22,277 INFO product_hunt: GraphQL request variables={'query': 'Automation', 'first': 10}
+2026-08-14 18:20:22,860 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:22,862 INFO product_hunt: Rate limit remaining=2250/6250
+2026-08-14 18:20:22,862 INFO product_hunt: GraphQL request variables={'query': 'Software', 'first': 10}
+2026-08-14 18:20:23,435 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:23,436 INFO product_hunt: Rate limit remaining=2150/6250
+2026-08-14 18:20:23,436 INFO product_hunt: Query='Automation Software' had no direct match; word-level fallback via ['Automation', 'Software'] matched 5 topic(s): ['home-automation', 'marketing-automation', 'saas', 'software-engineering', 'sdk']
+2026-08-14 18:20:23,436 INFO product_hunt: GraphQL request variables={'topic': 'home-automation', 'first': 20}
+2026-08-14 18:20:24,184 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:24,186 INFO product_hunt: Rate limit remaining=2050/6250
+2026-08-14 18:20:24,187 INFO product_hunt: Topic='home-automation' fetched 11 post(s)
+2026-08-14 18:20:24,187 INFO product_hunt: GraphQL request variables={'topic': 'marketing-automation', 'first': 20}
+2026-08-14 18:20:25,242 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-14 18:20:25,253 INFO product_hunt: Rate limit remaining=1950/6250
+2026-08-14 18:20:25,254 INFO product_hunt: Topic='marketing-automation' fetched 20 post(s)
+2026-08-14 18:20:25,254 INFO product_hunt: Skipping already-fetched topic='saas' for query='Automation Software'
+2026-08-14 18:20:25,254 INFO product_hunt: Fetched 107 unique post(s) across 6 unique topic(s) from 5 quer(y/ies)
+2026-08-14 18:20:25,261 INFO sourcing: Rule-based shortlist kept 49/107 post(s) for thesis='Next gen SAAS tools for business'
+2026-08-14 18:20:28,691 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:20:28,722 INFO sourcing: LLM shortlist kept 11/15 post(s) for thesis='Next gen SAAS tools for business' batch=0-15
+2026-08-14 18:20:32,894 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:20:32,898 INFO sourcing: LLM shortlist kept 14/15 post(s) for thesis='Next gen SAAS tools for business' batch=15-30
+2026-08-14 18:20:35,671 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:20:35,674 INFO sourcing: LLM shortlist kept 1/15 post(s) for thesis='Next gen SAAS tools for business' batch=30-45
+2026-08-14 18:20:36,931 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:20:36,937 INFO sourcing: LLM shortlist kept 4/4 post(s) for thesis='Next gen SAAS tools for business' batch=45-49
+2026-08-14 18:20:36,940 INFO analysis: Loaded 25 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T125009Z_shortlist.json; votes range=196..556
+2026-08-14 18:20:56,344 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:21:11,912 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:21:30,341 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:21:33,617 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-14 18:21:33,626 INFO analysis: Wrote analysis for 25 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/candidates/candidates_20260814T125009Z_analysis.json
+2026-08-14 18:21:33,636 INFO memo: wrote adomate.md — Watch (54.5)
+2026-08-14 18:21:33,636 INFO memo: wrote soloop.md — Take a meeting (91.4)
+2026-08-14 18:21:33,637 INFO memo: wrote nautis.md — Take a meeting (70.5)
+2026-08-14 18:21:33,637 INFO memo: wrote agentsky.md — Pass (40.1)
+2026-08-14 18:21:33,638 INFO memo: wrote kane-cli.md — Watch (67.1)
+2026-08-14 18:21:33,638 INFO memo: wrote cartai.md — Watch (66.8)
+2026-08-14 18:21:33,638 INFO memo: wrote promptql.md — Watch (66.2)
+2026-08-14 18:21:33,639 INFO memo: wrote ditto-site.md — Watch (65.0)
+2026-08-14 18:21:33,639 INFO memo: wrote livedemo.md — Watch (65.3)
+2026-08-14 18:21:33,639 INFO memo: wrote nuphos.md — Pass (41.6)
+2026-08-14 18:21:33,639 INFO memo: wrote minimax-h3.md — Pass (34.5)
+2026-08-14 18:21:33,640 INFO memo: wrote pushary.md — Watch (64.3)
+2026-08-14 18:21:33,640 INFO memo: wrote agently.md — Watch (68.0)
+2026-08-14 18:21:33,640 INFO memo: wrote campus.md — Watch (57.6)
+2026-08-14 18:21:33,640 INFO memo: wrote betterclaw.md — Watch (65.1)
+2026-08-14 18:21:33,640 INFO memo: wrote cleanlist-ai.md — Watch (62.6)
+2026-08-14 18:21:33,641 INFO memo: wrote assembly-studio.md — Take a meeting (70.7)
+2026-08-14 18:21:33,641 INFO memo: wrote mirage.md — Watch (60.1)
+2026-08-14 18:21:33,641 INFO memo: wrote poth-labs.md — Pass (44.8)
+2026-08-14 18:21:33,641 INFO memo: wrote appllama.md — Watch (50.9)
+2026-08-14 18:21:33,641 INFO memo: wrote proxy-tester-by-scrapeops.md — Watch (50.8)
+2026-08-14 18:21:33,642 INFO memo: wrote annotate.md — Pass (23.3)
+2026-08-14 18:21:33,642 INFO memo: wrote dashi-metrics.md — Watch (56.7)
+2026-08-14 18:21:33,642 INFO memo: wrote docsalot-cli.md — Pass (49.7)
+2026-08-14 18:21:33,642 INFO memo: wrote runevr.md — Watch (50.0)
+2026-08-14 18:21:33,642 INFO memo: Wrote 25 memo(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/memos/memos-next-gen-saas-tools-for-20260814T125133Z
