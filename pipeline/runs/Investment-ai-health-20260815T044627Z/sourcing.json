@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "1210454",
+    "name": "SoloUno",
+    "tagline": "Take control of hair pulling, nail biting & skin picking",
+    "description": "SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting. Inspired by Habit Reversal Training, CBT, and ACT, it works as a gamified self-help tool. You progress by achieving small daily wins: habit-free challenges and streaks, quick habit logging, trigger analysis, and urge-acceptance sessions. No shame - just steady progress.",
+    "website": "https://www.producthunt.com/r/XAIWIH5Z6NGPYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/solouno/launches/solouno",
+    "ph_product_url": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 315,
+    "featured_at": "2026-08-09T07:01:00Z",
+    "topics": "Android, iOS, Health",
+    "makers": "omer_bialer",
+    "logo": "https://ph-files.imgix.net/24d34406-7124-4fdd-810c-5ac4f5a61034.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XAIWIH5Z6NGPYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4VTZ3ULFJDZH4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TFCURTNFDAWEXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MWGBJS7USQ573V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4ZOGNEVYYNNMWX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/DFIIUOTAPR7CZN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/EI2DGRJOOXQ56U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TXXSGC3TTTYOBC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1184808",
+    "name": "ClinicFrame ",
+    "tagline": "Like Granola, but for healthcare. Fully HIPAA-compliant.",
+    "description": "An ambient AI scribe that writes clinical notes in real time so you can focus on your patient. It passively captures every visit, whether in person or virtual, and delivers a complete, structured clinical note the moment the encounter ends. HIPAA compliant, desktop native, and EHR ready in seconds. We're launching Scribe today, with a much bigger vision ahead: a medical intelligence platform that goes beyond documentation to support the entire clinical workflow.",
+    "website": "https://www.producthunt.com/r/DBV5VMI6JYIDKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/clinic-scribe-clinicframe/launches/clinicframe",
+    "ph_product_url": "https://www.producthunt.com/products/clinic-scribe-clinicframe/launches/clinicframe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 200,
+    "featured_at": "2026-07-29T07:01:00Z",
+    "topics": "Artificial Intelligence, Medical, Health",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], dana_fridman",
+    "logo": "https://ph-files.imgix.net/633bd8a1-8e3c-449f-acec-88372c665558.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/DBV5VMI6JYIDKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1198277",
+    "name": "HealthyNotch",
+    "tagline": "Work shouldn't cost you your health",
+    "description": "You've been at your desk for six hours. Haven't had water since breakfast. Neck locked in one position, eyes dry from the screen. You didn't even notice until now. HealthyNotch lives quietly in your Mac's notch and nudges you before it gets that far: stand up, drink water, blink, stretch. No dock icon, no logging, no dashboards. One-time payment, lifetime access, no subscription.",
+    "website": "https://www.producthunt.com/r/2API5V7TIKUQTH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/healthynotch/launches/healthynotch",
+    "ph_product_url": "https://www.producthunt.com/products/healthynotch/launches/healthynotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-24T07:01:00Z",
+    "votes_count": 130,
+    "featured_at": "2026-07-24T07:01:00Z",
+    "topics": "Mac, Menu Bar Apps, Health",
+    "makers": "madatbay",
+    "logo": "https://ph-files.imgix.net/64f77684-06a9-422e-8a70-b441917730c8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/2API5V7TIKUQTH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1222240",
+    "name": "NS1",
+    "tagline": "Personalized Nervous System Training",
+    "description": "The NS1 Assessment is a personalized assessment tool that will give you a breakdown of how your system responds to stress, what this means for your specific situation & what you can do to improve. In 5 minutes you'll receive: - Your regulation score: a realistic baseline of how well your system settles after stress - A five-skill scorecard: your strengths and growth edges across the core skills - A personalized path: a structured learning journey to increase your capacity and reclaim agency",
+    "website": "https://www.producthunt.com/r/3XTD266XEJ4YT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ns1/launches/ns1",
+    "ph_product_url": "https://www.producthunt.com/products/ns1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 120,
+    "featured_at": "2026-08-14T07:01:00Z",
+    "topics": "Education, Health",
+    "makers": "jonnym1ller",
+    "logo": "https://ph-files.imgix.net/e5137915-1f65-4014-8a9c-c98dc99847f2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HBUWXF5F64YD2H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3XTD266XEJ4YT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3HD524D7S664B7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1196663",
+    "name": "ChikitAI",
+    "tagline": "Agentic AI for Healthcare Triage and Care Automation",
+    "description": "ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers. It talks to patients in natural language, captures a clinical-grade history, assesses urgency, and routes them to the right care. Built on proprietary clinical LLMs, it cuts wait times, reduces no-shows, and gives clinicians their time back.",
+    "website": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/chikitai/launches/chikitai",
+    "ph_product_url": "https://www.producthunt.com/products/chikitai/launches/chikitai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 96,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "SaaS, Artificial Intelligence, Health, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], _arjunrao",
+    "logo": "https://ph-files.imgix.net/be754291-26ec-42c3-80cf-d6b35552ac00.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Z6RUS4BA4ZQGKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1206082",
+    "name": "ScrollToll",
+    "tagline": "Counts every Reel you watch, then locks the app.",
+    "description": "ScrollToll counts every short video you watch — Reels, Shorts, TikTok — and hard-blocks the feed when you hit your daily limit. Minutes are abstract; a video count isn't. To keep scrolling you have to finish a guided breathing exercise first. Android.",
+    "website": "https://www.producthunt.com/r/HLU2KS3CIMW4LF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/scrolltoll-2/launches/scrolltoll-2",
+    "ph_product_url": "https://www.producthunt.com/products/scrolltoll-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 79,
+    "featured_at": "2026-08-04T07:01:00Z",
+    "topics": "Android, Productivity, Health",
+    "makers": "chandan_gepala",
+    "logo": "https://ph-files.imgix.net/3f5862ae-04f4-4d33-8a62-42a26a4378a7.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HLU2KS3CIMW4LF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/K4OBD4UAZK7PPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CYVUQ3N54TFS6R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1221888",
+    "name": "Unicool",
+    "tagline": "Spot your child's meltdowns 24 hours ahead",
+    "description": "Unicool helps families with ADHD and autism spot patterns before a meltdown hits. It learns each child’s signals like sleep or sensory load and suggests expert-backed next steps and practical support. Developed with a child clinical psychologist.",
+    "website": "https://www.producthunt.com/r/66YRN3N53IOZCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/unicool/launches/unicool",
+    "ph_product_url": "https://www.producthunt.com/products/unicool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 19,
+    "featured_at": null,
+    "topics": "Kids & Parenting, Health",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], akopian_sergei",
+    "logo": "https://ph-files.imgix.net/dfd321d2-bbde-4ef0-b5c3-be79bc11ef7c.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/6SK25BYRUOAUZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B5HIXYRFOAKN4L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/66YRN3N53IOZCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1198577",
+    "name": "Nervana",
+    "tagline": "Retrain your nervous system. Break the chronic symptom loop.",
+    "description": "Nervana helps people with chronic pain, brain fog, IBS, fatigue, and other persistent symptoms access research-backed mind-body treatment from their phone. Built from lived experience, the app combines bite-sized education, voice AI coaching, and personalized next steps to help break the cycles that can keep symptoms going.",
+    "website": "https://www.producthunt.com/r/W3Q5OT5CXIYPJY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/nervana-2/launches/nervana-2",
+    "ph_product_url": "https://www.producthunt.com/products/nervana-2/launches/nervana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 17,
+    "featured_at": null,
+    "topics": "Health & Fitness, Medical, Health",
+    "makers": "nora_rodden",
+    "logo": "https://ph-files.imgix.net/6c30a840-6db1-4694-b864-0593ab6c9ef0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/W3Q5OT5CXIYPJY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LWCWGETET5QAIW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MKXABJ232YZUOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3V5JBLE76USOUM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NGB7XUHIPCHK2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Z6HS6Q33F7RMDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NVIIA3PXXAHZAX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1199721",
+    "name": "KwikMedi",
+    "tagline": "Medicines in Minutes. Care You Can Trust.",
+    "description": "KwikMedi is a healthcare app for 30-minute medicine delivery, prescription uploads, and doorstep lab test booking through licensed pharmacies and certified labs.",
+    "website": "https://www.producthunt.com/r/Z45ZPNLMOZDR6R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kwikmedi/launches/kwikmedi",
+    "ph_product_url": "https://www.producthunt.com/products/kwikmedi/launches/kwikmedi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 14,
+    "featured_at": null,
+    "topics": "Android, User Experience, Medical, Health",
+    "makers": "abhishek_kumar_yadav6",
+    "logo": "https://ph-files.imgix.net/ec2bae5b-102c-455d-b358-ce210bf99ba8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/Z45ZPNLMOZDR6R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RSVZTMTARLYGGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1215995",
+    "name": "Moya Health",
+    "tagline": "Chronic illness companion by a doctor who lives with it too",
+    "description": "Moya is a health companion for life with a chronic condition. Check in about your day in under a minute: symptoms, sleep, stress, food and meds, with weather pulled in automatically. Over time Moya lays your entries back out so you can see what tends to show up together, and turns them into reports you can bring to appointments. Built by a doctor who's also a patient. Private by design: no account, health data stays on your phone. Free on iOS. Skin conditions first, you vote what's next.",
+    "website": "https://www.producthunt.com/r/5CCZI3M7LGWKIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/moya-health/launches/moya-health",
+    "ph_product_url": "https://www.producthunt.com/products/moya-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 13,
+    "featured_at": null,
+    "topics": "Health & Fitness, Quantified Self, Health",
+    "makers": "w_milczynska",
+    "logo": "https://ph-files.imgix.net/754d17d1-846b-4a6d-9bd5-eaaa7b083f6f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B6KFNZVNS2ZT2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NHXXUO6CNJN5WG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5CCZI3M7LGWKIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NUHCSRFQJVP6E4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GI6JVZQ3BQF5SW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1198433",
+    "name": "Aniva for Developers",
+    "tagline": "The Stripe for Digital Health",
+    "description": "Aniva is the Stripe for digital health. One REST API to order any of 2,500+ biomarkers for your patients, from a routine blood panel to whole-genome sequencing. You get structured JSON results, a live sandbox and clean docs. We run the labs, kits, couriers and the EU compliance stack (RiliBÄK, ISO 15189, GDPR) underneath. Diagnostics used to be the ugliest integration in health tech. Now it is three calls: create a profile, book a draw, read the result. Request a sandbox key and start shipping.",
+    "website": "https://www.producthunt.com/r/AH56CLOHXR76CF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/aniva-for-developers/launches/aniva-for-developers",
+    "ph_product_url": "https://www.producthunt.com/products/aniva-for-developers/launches/aniva-for-developers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 13,
+    "featured_at": null,
+    "topics": "Quantified Self, Health",
+    "makers": "[REDACTED], noah_petermann",
+    "logo": "https://ph-files.imgix.net/46156ed6-463d-4811-a6d9-7a940a5109a2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/AH56CLOHXR76CF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YC4V6MPCPPGBCW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KLKZ5DPPXIQ3EM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2SSRJYXPUQNGLM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GVCJX7VA7UKBCU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1208912",
+    "name": "Momentito",
+    "tagline": "Small daily experiments, done together",
+    "description": "Momentito is a community experiment companion. Everyone joins the same 30-day experiment at once (rolling start, so you can jump in any day). Each day you check in for about 60 seconds: a mood score, an impact score, and a small prompt tied to the experiment. You see how the group is doing alongside your own trend, and collect a shareable card as you go. No ads, no cost. Built solo, still small on purpose.",
+    "website": "https://www.producthunt.com/r/44YQCKBDGALOVK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/momentito/launches/momentito",
+    "ph_product_url": "https://www.producthunt.com/products/momentito?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 13,
+    "featured_at": null,
+    "topics": "iOS, Productivity, Health",
+    "makers": "tom_duve",
+    "logo": "https://ph-files.imgix.net/0a0353b5-aff6-468a-916e-3cea46eb8452.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/44YQCKBDGALOVK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UX5GR632ZQFZZD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1198989",
+    "name": "Simba: App Blocker",
+    "tagline": "A friendly app blocker that keeps you focused",
+    "description": "Most app blockers only say “no.” Simba adds a pause before distraction. Block apps and websites with quick focus sessions, reusable schedules, Hard Mode, and app groups. When you try to open something blocked, Simba replaces the generic screen with a friendly cat shield and a reminder in your chosen tone helping you remember why you started. Track focus time, streaks, and blocked attempts to build better habits without guilt.",
+    "website": "https://www.producthunt.com/r/VESTJ4KTGESXJX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/simba-app-blocker/launches/simba-app-blocker",
+    "ph_product_url": "https://www.producthunt.com/products/simba-app-blocker/launches/simba-app-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 13,
+    "featured_at": null,
+    "topics": "iOS, Productivity, Health",
+    "makers": "fatih_demir06",
+    "logo": "https://ph-files.imgix.net/894b3b79-7698-43dd-b982-933b2095ba8a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VESTJ4KTGESXJX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SGSDX3G35M5QBR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1219672",
+    "name": "Pet Medicine Tracker",
+    "tagline": "Pet medicine reminders, made simple",
+    "description": "Pet Medicine Tracker helps pet owners manage medication schedules accurately and efficiently. Users can add medications, set dosage times, receive reminders, and record completed doses. The app provides a clear overview of upcoming and completed medications, reducing the risk of missed or duplicate doses. Available on iOS and Android.",
+    "website": "https://www.producthunt.com/r/CKLIED6GOJ2WYA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pet-medicine-tracker/launches/pet-medicine-tracker",
+    "ph_product_url": "https://www.producthunt.com/products/pet-medicine-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 11,
+    "featured_at": null,
+    "topics": "Pets, Medical, Health",
+    "makers": "levon_harutyunyan98",
+    "logo": "https://ph-files.imgix.net/27cafe15-9982-4997-940b-e19760cb4018.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/CKLIED6GOJ2WYA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PSPA7BHSXNMUQZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/X4YWAZLBMPTQKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1220448",
+    "name": "Task Gremlin",
+    "tagline": "Not one more chatbot. A bench of seven tiny AI specialists",
+    "description": "A bench of seven AI specialists, one per stuck moment: brain-dump to plan, vague task to time range, decision to next move, message to 12 tones, leftovers to dinner. Under it: plans, routines, one-step Focus, streaks with built-in grace. Free, no account.",
+    "website": "https://www.producthunt.com/r/4PSCMGVW2TFJDE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/task-gremlin/launches/task-gremlin",
+    "ph_product_url": "https://www.producthunt.com/products/task-gremlin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 10,
+    "featured_at": null,
+    "topics": "Android, Productivity, Task Management, Health",
+    "makers": "tomerlrn",
+    "logo": "https://ph-files.imgix.net/4243d8cf-a116-454e-8f91-6fe21bb5cf69.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BQAT6VRHFQXFA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HIZMQQTERJRDLA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4PSCMGVW2TFJDE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1196323",
+    "name": "PcodPal ",
+    "tagline": "The private companion for living with PCOD/PCOS",
+    "description": "PcodPal is a private, all-in-one app for living with PCOD/PCOS. Track irregular cycles, symptoms, weight and seed cycling, keep your lab reports and see bloodwork trends, get reminders — all on your phone. Built by a developer who has PCOS. Free to start.",
+    "website": "https://www.producthunt.com/r/35WNWFUHTICYQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pcodpal/launches/pcodpal",
+    "ph_product_url": "https://www.producthunt.com/products/pcodpal/launches/pcodpal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 10,
+    "featured_at": null,
+    "topics": "Health & Fitness, FemTech, Health",
+    "makers": "pooja_devraye",
+    "logo": "https://ph-files.imgix.net/fa63148d-f92f-4769-81d2-7fe7ca4b9d23.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/35WNWFUHTICYQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FOXFRV4DB2Z5XP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VEDRI5LWBWFSFK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1200248",
+    "name": "Notifit",
+    "tagline": "Free Niche Fitness Management App",
+    "description": "Notifit is a niche fitness app that mainly targets being able to privately track your physical progress. As an athlete myself, having reminders and being able to visualize how close I was to my goals is very important; having my data stored locally on my phone and synced through my google account instead of being saved in a database I could never access was also something that I valued. I really believe in this apps potential and have already gotten much feedback and would appreciate more.",
+    "website": "https://www.producthunt.com/r/RPJNVTX72VTXUA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/notifit/launches/notifit",
+    "ph_product_url": "https://www.producthunt.com/products/notifit/launches/notifit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 10,
+    "featured_at": null,
+    "topics": "Android, Quantified Self, Health, Fitness",
+    "makers": "searay_11",
+    "logo": "https://ph-files.imgix.net/ab3aa10b-6287-4a09-9280-04840504ea7b.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RPJNVTX72VTXUA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1199662",
+    "name": "Quietly.tools",
+    "tagline": "A private digital monastery for everyday moments",
+    "description": "Quietly is a free, private collection of tools for journaling, saving memories, releasing worries and reflecting on life. There are no feeds, followers or social metrics. Begin with 25 Things to Feel, a set of hand-drawn human moments that unfold as you write. Your words remain on your device and are not stored in a database.",
+    "website": "https://www.producthunt.com/r/5GPDCFLSYFFSII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/quietly-tools/launches/quietly-tools",
+    "ph_product_url": "https://www.producthunt.com/products/quietly-tools/launches/quietly-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 9,
+    "featured_at": null,
+    "topics": "Productivity, User Experience, Health",
+    "makers": "razzo007",
+    "logo": "https://ph-files.imgix.net/176f6d05-af10-4074-ae9f-b25682047fd2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5GPDCFLSYFFSII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QZXEBSL2RL6OOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/USI6DCPD2G3ZAI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1202289",
+    "name": "Mind Journal",
+    "tagline": "A private emotion journal with on-device AI reflection",
+    "description": "Mind Journal is a local-first emotion diary for turning a difficult moment into a clearer reflection. Write what happened, name the feeling, and review patterns across entries and insight views. On supported devices, bundled Gemma or Gemini Nano can generate reflections on-device; journal content stays in an encrypted local database. Rewarded access covers AI coaching, emotion graphs, and PDF exports, with reminder and app-lock options.",
+    "website": "https://www.producthunt.com/r/LNDJOBRWFVPIK3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/mind-journal-2/launches/mind-journal-2",
+    "ph_product_url": "https://www.producthunt.com/products/mind-journal-2/launches/mind-journal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 9,
+    "featured_at": null,
+    "topics": "Android, Health",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/6492879b-775d-45db-8b68-87dd6f7d89a4.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LNDJOBRWFVPIK3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1198563",
+    "name": "Cairn",
+    "tagline": "A private journal that reflects you back.",
+    "description": "A private journal that learns how you write and feel — and gently reflects it back. All on your device.",
+    "website": "https://www.producthunt.com/r/IXXW2JVKVAP5MB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cairn-6/launches/cairn-6",
+    "ph_product_url": "https://www.producthunt.com/products/cairn-6/launches/cairn-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 9,
+    "featured_at": null,
+    "topics": "Productivity, Writing, Health",
+    "makers": "robin_fitzpatrick",
+    "logo": "https://ph-files.imgix.net/f8e5cfdd-23c7-4469-aa14-eb4dba89acc9.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IXXW2JVKVAP5MB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7EMCBGKTQ2IR44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health",
+    "source_topic_slug": "health"
+  },
+  {
+    "id": "1205823",
+    "name": "TouchGrass",
+    "tagline": "Context-aware break reminders without invasive permissions",
+    "description": "TouchGrass is a context-aware break reminder built for macOS. Most break reminders only know one thing: time. TouchGrass waits through meetings, calls, media playback and screen recordings, counts time away from your Mac as a completed break, and reminds you to blink, improve your posture and rest after long typing sessions. Everything runs locally, never asks for Accessibility permission, and respects your workflow. 7 day free trial, then a one time purchase of $3.99 with lifetime updates.",
+    "website": "https://www.producthunt.com/r/OFM4DSHZYBEP2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/touchgrass-2/launches/touchgrass-2",
+    "ph_product_url": "https://www.producthunt.com/products/touchgrass-2/launches/touchgrass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 376,
+    "featured_at": "2026-07-26T07:01:00Z",
+    "topics": "Health & Fitness, Productivity, Menu Bar Apps",
+    "makers": "touchgrassland",
+    "logo": "https://ph-files.imgix.net/2a4f342e-caaa-47f5-afb2-6c37767922b0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OFM4DSHZYBEP2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1205906",
+    "name": "Health in ChatGPT",
+    "tagline": "Your personal health companion, powered by ChatGPT",
+    "description": "Health in ChatGPT helps you better understand and navigate your health by bringing your health information into one conversation. Connect your health data, medical records, and wellness apps to get more personalized insights, track changes over time, prepare for appointments, understand results, and build healthier routines — all while staying in control of what you share.",
+    "website": "https://www.producthunt.com/r/S3VSCUPLNPUYSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/openai/launches/health-in-chatgpt",
+    "ph_product_url": "https://www.producthunt.com/products/openai/launches/health-in-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 150,
+    "featured_at": "2026-07-25T07:01:00Z",
+    "topics": "Health & Fitness, Artificial Intelligence",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/S3VSCUPLNPUYSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1208277",
+    "name": "Cercle",
+    "tagline": "The bat signal for your closest friends.",
+    "description": "Cercle is conquering the loneliness epidemic by bringing back connections with the people that matter most. Check in with yourself and share your mood with your close friends or your entire Cercle. Take the guesswork out of your friendships, know how they're feeling before that phone call or text. Your friends' mood updates live on your home-screen widget, so you know who needs you before they have to ask. Built after watching a series of close friends live and struggle in silence",
+    "website": "https://www.producthunt.com/r/LLNQ2MGTZXMQDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cercle/launches/cercle",
+    "ph_product_url": "https://www.producthunt.com/products/cercle/launches/cercle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 127,
+    "featured_at": "2026-07-28T07:01:00Z",
+    "topics": "Health & Fitness, Messaging, Social Media",
+    "makers": "sheetaverma",
+    "logo": "https://ph-files.imgix.net/982a0fa6-bbb4-43c9-96e1-d69d11a3220d.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LLNQ2MGTZXMQDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4NCTCCKVFPARX3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/J4GDJOWN3JYIW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KS2LYET3C2JS4L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1205840",
+    "name": "Macrobite",
+    "tagline": "The fastest way to actually get your macros right",
+    "description": "Macrobite is the fastest way to get your macros right. Snap a photo of your meal and get an instant breakdown of calories, protein, carbs, and fat. Not perfect on the first try? Quick editing closes the gap in seconds, no scrolling through massive food databases. Prefer to talk? Log meals by voice, including through Siri. Track your day from your iPhone widget or Apple Watch without opening the app. Built for people who want accurate macros without the friction of traditional tracking apps.",
+    "website": "https://www.producthunt.com/r/WJACCINHOHJWJN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/macrobite/launches/macrobite",
+    "ph_product_url": "https://www.producthunt.com/products/macrobite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-09T07:01:00Z",
+    "votes_count": 126,
+    "featured_at": "2026-08-09T07:01:00Z",
+    "topics": "Health & Fitness, Quantified Self, Food & Drink",
+    "makers": "[REDACTED], [REDACTED], eric_grzechowski",
+    "logo": "https://ph-files.imgix.net/a4a42fea-9aa3-44e8-b7dc-17ae8598a41a.webp?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WJACCINHOHJWJN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/V7H3C4WVRDRHR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1202669",
+    "name": "Garmin CIRQA™ Smart Band",
+    "tagline": "The screenless health + fitness tracker with no subscription",
+    "description": "CIRQA™ Smart Band is a screenless smart band that can automatically detect activities, has 24/7 health monitoring, stress tracking, and up to 10 days of battery.",
+    "website": "https://www.producthunt.com/r/67DGGDJ3OQF4VZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/garmin-cirqa-smart-band/launches/garmin-cirqa-smart-band",
+    "ph_product_url": "https://www.producthunt.com/products/garmin-cirqa-smart-band/launches/garmin-cirqa-smart-band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 123,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "Health & Fitness, Wearables, Fitness",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/9109436e-68c7-4597-abff-1fa577b1fab0.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/67DGGDJ3OQF4VZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LGSPX3YACYIS34?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YAQSEMHQME6QNM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/R2J25D6NNTRMXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1201051",
+    "name": "UltraPod",
+    "tagline": "Turn your old iPhone into a music-first dumbphone",
+    "description": "UltraPod turns an old iPhone into a music-first dumbphone without abandoning the useful parts of a modern device. Stream with Apple Music, keep HealthKit workouts, reading, camera, and essential local tools, while stripping away social feeds and attention traps. It is a focused daily companion for people who want a digital detox without buying another piece of hardware.",
+    "website": "https://www.producthunt.com/r/BIEXAJR4MME7SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ultrapod/launches/ultrapod",
+    "ph_product_url": "https://www.producthunt.com/products/ultrapod/launches/ultrapod?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 113,
+    "featured_at": "2026-07-22T07:01:00Z",
+    "topics": "Health & Fitness, Music",
+    "makers": "gigass",
+    "logo": "https://ph-files.imgix.net/dfedbc93-41f3-41e1-8a5e-566abbd15319.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KMGFIBBSYC6UVS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BIEXAJR4MME7SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/TEOPPYWDVSOVCI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2QR3Q3MUGFTWTR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1215080",
+    "name": "Ododok",
+    "tagline": "Count every chew with your AirPods",
+    "description": "Ododok turns supported AirPods into a real-time chewing tracker. See your chew count, pace, chewing time, and meal duration as you eat, then review each meal afterward. No additional wearable is required—just your AirPods and iPhone.",
+    "website": "https://www.producthunt.com/r/NRQCV2PBC2P7CR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ododok/launches/ododok",
+    "ph_product_url": "https://www.producthunt.com/products/ododok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 107,
+    "featured_at": "2026-08-06T07:01:00Z",
+    "topics": "Health & Fitness, Wearables, Apple",
+    "makers": "ododok",
+    "logo": "https://ph-files.imgix.net/0e15f596-110a-4c86-9c64-51b8faa72ec2.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NRQCV2PBC2P7CR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1206798",
+    "name": "Edit Mind × Strava",
+    "tagline": "Every clip matched to the Strava activity it's from",
+    "description": "Connect Strava and Edit Mind matches every scene in your footage to the activity it was shot on: heart rate, speed, elevation, and distance, aligned to the frame. Any camera works, GoPro/action-cam GPS telemetry makes the match exact.",
+    "website": "https://www.producthunt.com/r/5CEBATVKMXJA2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/edit-mind-3/launches/edit-mind-x-strava",
+    "ph_product_url": "https://www.producthunt.com/products/edit-mind-3/launches/edit-mind-x-strava?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 106,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Health & Fitness, Artificial Intelligence, Video",
+    "makers": "iliashaddad3",
+    "logo": "https://ph-files.imgix.net/0022c433-ce97-4357-a41a-e0b662bc0926.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NVAYOQ4EBIJQV5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5CEBATVKMXJA2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1212654",
+    "name": "CoachAI",
+    "tagline": "Your iPhone camera watches your form, rep by rep",
+    "description": "CoachAI uses your phone's camera to count your reps and correct your form in real time - a personal trainer's eyes in your pocket.",
+    "website": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/coachai-fitness-coach/launches/coachai",
+    "ph_product_url": "https://www.producthunt.com/products/coachai-fitness-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 101,
+    "featured_at": "2026-08-03T07:01:00Z",
+    "topics": "iOS, Health & Fitness, Artificial Intelligence",
+    "makers": "mouhab_tarek",
+    "logo": "https://ph-files.imgix.net/c9d4b3e0-14f4-446a-bf3c-df8e95446513.webp?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1221818",
+    "name": "Kin Health",
+    "tagline": "Record doctor visits and get clear summaries",
+    "description": "Kin helps you prepare for healthcare appointments, capture the conversation, and follow through afterward so you can stay present during the visit instead of taking notes or trying to remember everything later. After each visit, Kin turns the conversation into a focused summary. Rather than giving you a word-for-word transcript, Kin organizes the key points, recommendations, and next steps so you can quickly understand what happened and what to do next.",
+    "website": "https://www.producthunt.com/r/EFIZODXGO5X2CK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/kin-health/launches/kin-health",
+    "ph_product_url": "https://www.producthunt.com/products/kin-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-13T07:01:00Z",
+    "votes_count": 97,
+    "featured_at": "2026-08-13T07:01:00Z",
+    "topics": "Health & Fitness, Notes, Artificial Intelligence",
+    "makers": "[REDACTED], amit_parikh2",
+    "logo": "https://ph-files.imgix.net/ee736fc3-92ad-4260-972e-0f4a4dfe7c87.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EFIZODXGO5X2CK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1202816",
+    "name": "Illume Labs",
+    "tagline": "24/7 personalized health companion you can text",
+    "description": "Illume is a 24/7 personal health companion that connects your wearables, nutrition, workouts, & lab results to give you personalized, actionable insights over text. Sign up: www.illumelabs.ai Illume connects patterns across your data that individual platforms can’t see, giving you a more complete picture of your health instead of another isolated score or dashboard. You can text your Illume agent for quick answers or use the platform to explore your data, trends, and history in depth.",
+    "website": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/illume-labs/launches/illume-labs",
+    "ph_product_url": "https://www.producthunt.com/products/illume-labs/launches/illume-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 95,
+    "featured_at": "2026-07-27T07:01:00Z",
+    "topics": "Health & Fitness, Biohacking, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], pari_latawa",
+    "logo": "https://ph-files.imgix.net/a581ee29-b24b-4e9b-a95e-0ccbd625d27e.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/A6OXRYJKXNJALJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3PQXSRGWJHJYDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JZ5YA5Z2WM7S7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1196926",
+    "name": "Node Health",
+    "tagline": "Your private home for every lab result",
+    "description": "Lab results arrive as printouts, PDFs and in portals that differ by provider — and scatter further when you switch labs or move. Node Health brings them into one place you own, your phone: scan, upload, or type in any report, and 150+ biomarkers are matched to reference ranges personalized to your age, sex and, where relevant, life stage. What's different: a doctor-reviewed biomarker database instead of AI-generated content, data encrypted on your iPhone, and core tracking that is free forever.",
+    "website": "https://www.producthunt.com/r/YBJP7E3JNNAVL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/node-health/launches/node-health",
+    "ph_product_url": "https://www.producthunt.com/products/node-health/launches/node-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 88,
+    "featured_at": "2026-07-16T07:01:00Z",
+    "topics": "iOS, Health & Fitness, Medical, Vercel Day",
+    "makers": "renhuldt",
+    "logo": "https://ph-files.imgix.net/472610b8-a9f6-4cda-981a-d66a67a19ca5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YBJP7E3JNNAVL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GFRYMJGVW6TEXL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7WOMWTST5NPP5B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IGHDBU47DIKHRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1194787",
+    "name": "Linetta",
+    "tagline": "The AI journal you talk to. Voice in, clarity out.",
+    "description": "Linetta is an AI journal you talk to. Speak for 30 seconds, and it turns the stream in your head into structure: a named emotion, the essence, and one honest question that goes deeper. Over time it shows your patterns. Hands-free call mode. Native EN and RU.",
+    "website": "https://www.producthunt.com/r/ZCQARWW22ZVJJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/linetta/launches/linetta",
+    "ph_product_url": "https://www.producthunt.com/products/linetta/launches/linetta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 31,
+    "featured_at": null,
+    "topics": "Health & Fitness, Notes, Artificial Intelligence",
+    "makers": "sabyrzhan",
+    "logo": "https://ph-files.imgix.net/dfac6b85-58e8-4406-b2c8-87dbd90248ea.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/ZCQARWW22ZVJJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3TG3OTPND3QVXX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3UDUZMQR2BDN2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CVDIJZRCT2EXSC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1198861",
+    "name": "Wyser",
+    "tagline": "A mirror for your inner life, not a manual",
+    "description": "We live in an age generous with advice and stingy with understanding. There are apps to fix your habits, track your moods, optimise your mornings, and yet, most of us go to bed unsure of what we felt all day. Because most of what shapes a life is invisible from the inside. Wyser is a quieter proposition: a companion for the slow, unglamorous work of understanding yourself. Not to improve you or fix you, but to help you notice, with a little more kindness, what was there in you all along.",
+    "website": "https://www.producthunt.com/r/IX3J2MNNGLXQWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/wyser/launches/wyser",
+    "ph_product_url": "https://www.producthunt.com/products/wyser/launches/wyser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 27,
+    "featured_at": null,
+    "topics": "Health & Fitness, Education, Artificial Intelligence",
+    "makers": "arpan_jha",
+    "logo": "https://ph-files.imgix.net/a17a03be-2dcc-41b4-8819-b9778f289e38.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IX3J2MNNGLXQWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FTAIIW3YY3H3FA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JAUF3Q53TL6CWI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1216610",
+    "name": "Pocket Fit",
+    "tagline": "AI Workout & Food",
+    "description": "Most people quit fitness apps in week three. You do everything right for 21 days, the mirror looks identical, and all the app gives back is a number. Pocket Fit makes progress visible. Take one photo and AI shows you 1, 2, 3 and 6 months ahead and a 3D avatar changes as you train. Underneath: workouts with weights auto-picked and progressed, food logged by photo, muscle coverage tracking, mood, streaks, and a crew who roast you for skipping leg day. Built by two people in London.",
+    "website": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pocket-fit/launches/pocket-fit",
+    "ph_product_url": "https://www.producthunt.com/products/pocket-fit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 26,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], georgerabotov",
+    "logo": "https://ph-files.imgix.net/f630140d-1738-415f-a6c4-9119160f3201.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BCXG6MV7WHX6W4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SJ46LWF6R4IAXK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1210861",
+    "name": "BitePad",
+    "tagline": "Minimalist voice calorie tracker",
+    "description": "BitePad is intentionally minimal. Instead of packing in bloated features, we focus on one thing: making calorie tracking fast and effortless. Simply speak or type what you ate, and BitePad turns it into a meal log in seconds. Unlike AI photo logging, which often misidentifies foods and requires manual corrections, BitePad lets you review the estimated calories and macros, make any quick edits if needed, and save your meal. Simple by design, built for everyday use.",
+    "website": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bitepad/launches/bitepad-2",
+    "ph_product_url": "https://www.producthunt.com/products/bitepad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 26,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Audio",
+    "makers": "[REDACTED], [REDACTED], rahulhunt",
+    "logo": "https://ph-files.imgix.net/9d4565d4-b522-409b-b59a-fbab2d103340.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1196158",
+    "name": "Life by Synheart ",
+    "tagline": "An Ai Companion app built to actually understands you",
+    "description": "For decades, technology has understood what you type. Today, it starts understanding you. Life is the first cognitive wellness app, built on top of Synheart's Human State Interface infrastructure. It learns from how you type and reads your biosignals, then shows you how you're actually doing across your focus, stress, and recovery. Ask syni, your AI companion why your focus is dropping, or when you're usually at your best, and it answers from your real patterns.",
+    "website": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/life-by-synheart/launches/life-by-synheart",
+    "ph_product_url": "https://www.producthunt.com/products/life-by-synheart/launches/life-by-synheart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 23,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "isrugeek",
+    "logo": "https://ph-files.imgix.net/3f1b521c-eb1c-4cca-b603-ee5899449a2a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HBWB74IGGLLH2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1175611",
+    "name": "TextMyPill",
+    "tagline": "WhatsApp medicine reminders. No app needed. 🦦",
+    "description": "Set medicine reminders for yourself or your entire family from one dashboard — anywhere in the world. Pillo delivers reminders on WhatsApp automatically. Snap a prescription, AI reads it, done. Track who took what. No app needed. Free 7-day trial.",
+    "website": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/textmypill/launches/textmypill",
+    "ph_product_url": "https://www.producthunt.com/products/textmypill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 20,
+    "featured_at": null,
+    "topics": "Health & Fitness, Messaging, Artificial Intelligence",
+    "makers": "itsbhavesh",
+    "logo": "https://ph-files.imgix.net/6943d037-c8a7-4f53-865a-c6067f68f7e2.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WB4HOFGMKWOBRO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1220734",
+    "name": "BikeQuest",
+    "tagline": "MORE FUN 🎉 EVERY RIDE 🚲",
+    "description": "Pick real-world cycling quests, upload photo proof, and collect BikeQuest badges. No pressure. No leaderboard.",
+    "website": "https://www.producthunt.com/r/YEXVKOF2527PW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bikequest/launches/bikequest",
+    "ph_product_url": "https://www.producthunt.com/products/bikequest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 20,
+    "featured_at": null,
+    "topics": "Health & Fitness, Games",
+    "makers": "alexislamouv",
+    "logo": "https://ph-files.imgix.net/89d623f1-33bf-4445-8a36-381014320c3a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YEXVKOF2527PW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FM64WKAQFSGOV2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/NZF2A3KT7SKTKI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/32EYIGIZYHPHQ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1192419",
+    "name": "Alora Wake",
+    "tagline": "Wakes you gently and always wakes you",
+    "description": "Smart Wake times your alarm to your lightest sleep. Night Mode simulates sunrise. A spoken briefing starts your morning. Underneath: an engineering guarantee that no alarm can end in silence — layered fallbacks through audio, haptics, and Apple Watch.",
+    "website": "https://www.producthunt.com/r/S6KSVCBP7MC7AY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/alora-wake/launches/alora-wake",
+    "ph_product_url": "https://www.producthunt.com/products/alora-wake/launches/alora-wake?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 19,
+    "featured_at": null,
+    "topics": "iOS, Health & Fitness",
+    "makers": "alorawake",
+    "logo": "https://ph-files.imgix.net/8b5b271e-89d6-4e0f-bf13-e39dd4eba57f.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/S6KSVCBP7MC7AY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Health & Fitness",
+    "source_topic_slug": "health-fitness"
+  },
+  {
+    "id": "1201633",
+    "name": "NeuroSpicy",
+    "tagline": "Energy and mood tracking built for ADHD brains",
+    "description": "ADHD energy and mood tracking app. 10-second check-ins reveal your patterns and help you stop the boom-bust cycle. Free and private.",
+    "website": "https://www.producthunt.com/r/UUQDZASHLQWTY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/neurospicy-adhd-mood-tracker/launches/neurospicy",
+    "ph_product_url": "https://www.producthunt.com/products/neurospicy-adhd-mood-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 9,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Quantified Self",
+    "makers": "[REDACTED], nlagges",
+    "logo": "https://ph-files.imgix.net/a6078312-5d73-459c-a0b3-0d6b8431a6d6.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UUQDZASHLQWTY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1200547",
+    "name": "24 Tarot",
+    "tagline": "Interactive Tarot for clearer self-reflection",
+    "description": "A Russian-language web service where adults choose cards themselves and receive structured prompts, questions and possible next steps—not deterministic predictions. Includes interactive Tarot spreads, a 78-card meaning library, a card of the day, numerology, compatibility and natal-chart tools. Core practices are free and work without required registration. Personal audio readings by Diana Iveris are also available. 18+.",
+    "website": "https://www.producthunt.com/r/F6DB22GTW7LKLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/24-tarot/launches/24-tarot",
+    "ph_product_url": "https://www.producthunt.com/products/24-tarot/launches/24-tarot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 9,
+    "featured_at": null,
+    "topics": "Quantified Self",
+    "makers": "viktoriost24",
+    "logo": "https://ph-files.imgix.net/2b2e29f0-e61e-4097-b621-a23c92e90a76.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/F6DB22GTW7LKLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1197957",
+    "name": "SelfAssay",
+    "tagline": "Your personal biohacking lab",
+    "description": "Research any supplement, peptide, or longevity compound, inspect community benefit and observed adverse-event signals where the data supports them, and measure whether it’s actually working for you. For biohacking, longevity, and serious stacks.",
+    "website": "https://www.producthunt.com/r/KJJ2PKI2FJOBYC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/selfassay/launches/selfassay",
+    "ph_product_url": "https://www.producthunt.com/products/selfassay/launches/selfassay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 8,
+    "featured_at": null,
+    "topics": "Biohacking, Artificial Intelligence, Quantified Self",
+    "makers": "jumerboy",
+    "logo": "https://ph-files.imgix.net/cc4fe13d-460f-4f58-b4a6-2510b194dee8.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KJJ2PKI2FJOBYC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1197953",
+    "name": "UnderTree",
+    "tagline": "An AI mood diary for self-care with a pet by your side",
+    "description": "UnderTree is an AI-guided mood diary that turns everyday thoughts into gentle reflections and mood insights. Build your inner forest one entry at a time, with a pet companion by your side.",
+    "website": "https://www.producthunt.com/r/OWWO3CQGBRU6YU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/undertree/launches/undertree",
+    "ph_product_url": "https://www.producthunt.com/products/undertree/launches/undertree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 6,
+    "featured_at": null,
+    "topics": "Android, Artificial Intelligence, Quantified Self, Health",
+    "makers": "[REDACTED], yx_developer",
+    "logo": "https://ph-files.imgix.net/343e3745-388b-4131-8560-72f255f4f719.x-icon?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OWWO3CQGBRU6YU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/RAKHHIBVBMOOOV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/KEJH67NUJH4JWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1200398",
+    "name": "Good Day Recipe",
+    "tagline": "Practical Tools for Emotional Chaos",
+    "description": "Most wellness apps tell you what you should do. Good Day Recipe helps you discover what actually works for you. It’s a guilt-free awareness tool that replaces streaks and perfection with curiosity. Track the ingredients behind your best days, uncover patterns, and build a personalized recipe for more good days—without relying on motivation.",
+    "website": "https://www.producthunt.com/r/VIJG53TWRKSPIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/good-day-recipe/launches/good-day-recipe",
+    "ph_product_url": "https://www.producthunt.com/products/good-day-recipe/launches/good-day-recipe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Android, Health & Fitness, Quantified Self, Lifestyle",
+    "makers": "justinlong",
+    "logo": "https://ph-files.imgix.net/0b9e88af-2195-44dc-884f-6b0b1dd5ecdc.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VIJG53TWRKSPIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FHXVRI6RYWDPTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5IWOX7QRUM2QF2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1198731",
+    "name": "NeuroSprint — The daily brain benchmark",
+    "tagline": "A daily 6-minute brain benchmark you race with friends",
+    "description": "Three brain-training events, two minutes each, every day. Everyone plays the same daily challenge, so your Brain Score comes with a real top-% rank against everyone who played today — not a score in a vacuum. When you finish, you get an emoji grid to share (think Wordle) and can challenge a friend to beat it. No signup to try. Built for people who bounce off single-player brain apps and want a reason to come back daily.",
+    "website": "https://www.producthunt.com/r/KQD3YBEPUE4RT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/neurosprint-the-daily-brain-benchmark/launches/neurosprint-the-daily-brain-benchmark",
+    "ph_product_url": "https://www.producthunt.com/products/neurosprint-the-daily-brain-benchmark/launches/neurosprint-the-daily-brain-benchmark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Productivity, Games, Quantified Self",
+    "makers": "yokusern",
+    "logo": "https://ph-files.imgix.net/2d66f7d6-21a6-4991-9b2b-3f0064f94390.vnd.microsoft.icon?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KQD3YBEPUE4RT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Vercel"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QDU74NUQZZQT7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1205961",
+    "name": "HabitMkr",
+    "tagline": "A cozy habit tracker for routines that actually stick",
+    "description": "HabitMkr is a beautifully simple habit tracker for iPhone, iPad, and Mac. Build routines, see your progress at a glance, celebrate streaks, and stay consistent without turning self-improvement into another stressful task. Designed to make daily habits feel calm, personal, and rewarding.",
+    "website": "https://www.producthunt.com/r/DYSUBXCUZEKA4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/habitmkr/launches/habitmkr",
+    "ph_product_url": "https://www.producthunt.com/products/habitmkr/launches/habitmkr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-25T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Quantified Self",
+    "makers": "carlos_martinez_sandoval",
+    "logo": "https://ph-files.imgix.net/d3c5bacd-d0d9-4215-b5c8-0f1c5084c8a3.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/DYSUBXCUZEKA4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/K37LRW5TMNNVB3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1220140",
+    "name": "One Mental Hub",
+    "tagline": "Understand Your Mental Health in Minutes!",
+    "description": "Take a quick, evidence-based assessment to gain clarity about your mental wellbeing — and get a report ready to bring to your GP. Now with MHS - One number. One reliable indicator for your mental health and Insomnia Severity Index (ISI), an adult ADHD screener, Work and Social Adjustment Scale, and much more!",
+    "website": "https://www.producthunt.com/r/UOMF6INSNADCWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/one-mental-hub/launches/one-mental-hub-2",
+    "ph_product_url": "https://www.producthunt.com/products/one-mental-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Quantified Self, Health",
+    "makers": "nikitay",
+    "logo": "https://ph-files.imgix.net/530813fd-5b8e-4ecb-9948-0533e6f1ce70.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NJIINKAWFTXCMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7GLTG7KZ6ECXUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/43S6GLHTFNDETD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UOMF6INSNADCWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1197561",
+    "name": "Pax Gate Doomscrolling Audit",
+    "tagline": "Find your doomscrolling pattern and how to break it",
+    "description": "Most tools block apps or report screen time after the fact. The Doomscrolling Audit helps uncover what drives the habit. In about three minutes, it identifies your triggers, estimates how much time doomscrolling costs you, and creates a personalized 7-day reset plan. It is private, requires no login, and uses a supportive, shame-free approach focused on realistic changes, not harsh restrictions.",
+    "website": "https://www.producthunt.com/r/2I3AX2T7SPE54O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pax-gate-doomscrolling-audit/launches/pax-gate-doomscrolling-audit",
+    "ph_product_url": "https://www.producthunt.com/products/pax-gate-doomscrolling-audit/launches/pax-gate-doomscrolling-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Productivity, Quantified Self, Health, Vercel Day",
+    "makers": "paxgateapp",
+    "logo": "https://ph-files.imgix.net/b5cfe88a-1c19-4739-9d41-de3210b9cc48.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/2I3AX2T7SPE54O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1207569",
+    "name": "Pendi",
+    "tagline": "Be the best YOU that YOU can be! ",
+    "description": "Pendi is an AI day-planning companion that learns your energy, rhythms and life, and shapes days that fit how you actually feel. Weather-aware, show-tracking, research-grounded, gentle by design.",
+    "website": "https://www.producthunt.com/r/5ZYH7M7VIUZ5DL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pendi-a-day-actually-worth-living/launches/pendi",
+    "ph_product_url": "https://www.producthunt.com/products/pendi-a-day-actually-worth-living/launches/pendi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 5,
+    "featured_at": null,
+    "topics": "Time Tracking, Quantified Self, Social Impact",
+    "makers": "[REDACTED], saksham_altruoso",
+    "logo": "https://ph-files.imgix.net/43ddfecc-7333-4511-a931-4061703223a5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5ZYH7M7VIUZ5DL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/UXDTQSNVQTYRPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1197399",
+    "name": "LifeTracker",
+    "tagline": "Your collections, habits, and data — fully customizable ",
+    "description": "LifeTracker is a fully customizable, offline-first tracker for anything you want to organize. Track movie collections like Letterboxd, daily habits with timers and scores, or build your own categories from scratch with custom fields, layouts, and filters. Your data stays on your device in a standard SQLite database — no account needed, no vendor lock-in. Optional E2E encrypted cloud sync available. One app to replace all the specialized trackers you've been juggling.",
+    "website": "https://www.producthunt.com/r/N4UC55OLZ7Z3TO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/lifetracker-track-anything-own-it/launches/lifetracker-3",
+    "ph_product_url": "https://www.producthunt.com/products/lifetracker-track-anything-own-it/launches/lifetracker-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Android, Productivity, Privacy, Quantified Self",
+    "makers": "bertrand_coulombel",
+    "logo": "https://ph-files.imgix.net/454f9a6c-2d13-4e7e-ab59-97b0eb3125cb.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/N4UC55OLZ7Z3TO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1217465",
+    "name": "Habit Wellness Tracker",
+    "tagline": "A quiet place to keep your habits honest",
+    "description": "Daily Reset is a single-file habit tracker built around one idea: a habit tracker shouldn't feel like one more thing guilt-tripping you. Add any habit, check it off when it's done, and watch a calm daily ring and automatic streak counter do the rest. A 7-day history shows your actual pattern, and a private daily journal line gives you a place to note how the day went — no prompts, no pressure. Saves automatically, no account, no subscription.",
+    "website": "https://www.producthunt.com/r/FMKA6XGSRP4O7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/habit-wellness-tracker/launches/habit-wellness-tracker",
+    "ph_product_url": "https://www.producthunt.com/products/habit-wellness-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Health & Fitness, Meditation, Quantified Self",
+    "makers": "sharmin18april",
+    "logo": "https://ph-files.imgix.net/ea576a64-d569-465e-b8c7-3774b4638ea9.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FMKA6XGSRP4O7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Gumroad"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1203915",
+    "name": "Health Check-In",
+    "tagline": "Track how you feel. Test what helps.",
+    "description": "Health Check-In helps you stop guessing what affects how you feel. Log quick check-ins, connect health data from your smart watch, run personal experiments, save results, build daily routines from what you learn, and get reminders to help you stay engaged. Use AI to help analyze your history and connect the dots that you miss. Built for people tracking fatigue, brain fog, sleep, supplements, recovery, or chronic symptoms — simple, private, and designed around real-life self-experimentation.",
+    "website": "https://www.producthunt.com/r/6X7UPMBOALK5J7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/health-check-in/launches/health-check-in",
+    "ph_product_url": "https://www.producthunt.com/products/health-check-in/launches/health-check-in?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Android, Health & Fitness, Artificial Intelligence, Quantified Self",
+    "makers": "robineseaberg",
+    "logo": "https://ph-files.imgix.net/61720baf-7099-4566-8358-71fdb9680cb7.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/6X7UPMBOALK5J7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OZN3UODGYT72HF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VIMQ3DY42DYMPW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1202084",
+    "name": "Life Tile",
+    "tagline": "Track Your Time, See Your Day",
+    "description": "Life Tile tracks where you spend your time and shows your day as a Mondrian-style tile grid. What makes it different: * Square tiles + treemap that stay readable with many categories * Fully on-device. No accounts, no servers, no ads * One-time purchase, no subscription * Import your data from other time trackers via CSV * Widgets, Shortcuts, and Apple Health (sleep + workouts) Built for people who want to see where their time actually goes, without handing their location history to a server.",
+    "website": "https://www.producthunt.com/r/DYRUCIIQRWRC2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/life-tile/launches/life-tile",
+    "ph_product_url": "https://www.producthunt.com/products/life-tile/launches/life-tile?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Health & Fitness, Productivity, Quantified Self",
+    "makers": "choyongjoon",
+    "logo": "https://ph-files.imgix.net/8a389f36-cc1e-4d5d-a1fc-72f478e7033f.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/DYRUCIIQRWRC2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1202639",
+    "name": "Manifest App: See it happen",
+    "tagline": "Manifest your goals with vision boards & tracking",
+    "description": "Most goal apps make you write lists. Manifest is different — it combines a visual vision board with structured goal tracking, so you don’t just set goals, you see them every day. Built for people who believe in the law of attraction but want something more actionable than a Pinterest board. Set your goals, build your vision board, track your progress, and let the app keep you anchored to what you’re working towards. No fluff. Just clarity, focus, and momentum.",
+    "website": "https://www.producthunt.com/r/EXEZRFVGBLDSNJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/manifest-app-see-it-happen/launches/manifest-app-see-it-happen",
+    "ph_product_url": "https://www.producthunt.com/products/manifest-app-see-it-happen/launches/manifest-app-see-it-happen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Productivity, Quantified Self",
+    "makers": "manifest_app",
+    "logo": "https://ph-files.imgix.net/50facbdf-e81e-4680-bc0c-96e7bb17e126.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EXEZRFVGBLDSNJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1215552",
+    "name": "HabitLoop",
+    "tagline": "Build lasting routines with zero noise, total privacy",
+    "description": "HabitLoop helps you build better daily habits with visual progress, smart streak tracking, and focus timers. No intrusive ads, 100% offline-first privacy, and no complex setup required. Small daily loops, big long-term results.",
+    "website": "https://www.producthunt.com/r/HJOB3CTPHKBSZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/habitloop-4/launches/habitloop-13da19cb-8816-48ad-96f3-214517b29b1e",
+    "ph_product_url": "https://www.producthunt.com/products/habitloop-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Android, Productivity, Time Tracking, Quantified Self",
+    "makers": "juan_pablo_lozano_barrera",
+    "logo": "https://ph-files.imgix.net/a9460868-17a4-4213-95e4-389ae8ff84e7.webp?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HJOB3CTPHKBSZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      }
+    ],
+    "source_query": "Health Tech",
+    "source_topic": "Quantified Self",
+    "source_topic_slug": "quantified-self"
+  },
+  {
+    "id": "1199224",
+    "name": "Universal Dictation on Stream",
+    "tagline": "Private Voice Ring for dictation across iOS & Mac",
+    "description": "Introducing Universal Dictation on Stream. Push-to-talk across iOS and Mac: Instantly. No app switching, no reconnection. We built Notes so nothing gets lost, and Chat so you can think out loud. With Dictation, your voice goes anywhere. Notes, Chat, Dictation—in one voice ring",
+    "website": "https://www.producthunt.com/r/V2MEWWL6IXRWDL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar/launches/universal-dictation-on-stream",
+    "ph_product_url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar/launches/universal-dictation-on-stream?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 102,
+    "featured_at": "2026-07-21T07:01:00Z",
+    "topics": "Wearables, Artificial Intelligence, Audio",
+    "makers": "minafahmi_",
+    "logo": "https://ph-files.imgix.net/8e22c976-bfed-433d-be1d-f62334143b8e.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/V2MEWWL6IXRWDL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6ELRCJLKC2MK5O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3AMGTAVBIUNLVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1199155",
+    "name": "Murph",
+    "tagline": "OpenClaw for your health",
+    "description": "Murph is a personal health AI that lives in iMessage. It referees challenges in your group chat or emails your family a weekly roundup of everyone’s health wins. It syncs any wearable, reads all bloodwork, runs health experiments on you to find what works for your body, and helps you build habits that actually stick. It can call the dentist, book DEXA scans, reorder supplements, and basically do anything you want for health. Open source, private by default.",
+    "website": "https://www.producthunt.com/r/FSPSMGN4XSRWL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/murph/launches/murph",
+    "ph_product_url": "https://www.producthunt.com/products/murph/launches/murph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 10,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Artificial Intelligence, GitHub, OpenAI Day",
+    "makers": "[REDACTED], w_kocjan",
+    "logo": "https://ph-files.imgix.net/1f1f0325-3a0d-4875-86a7-1baecc16e256.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FSPSMGN4XSRWL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6HNKYXXWIZ25WG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Github"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SVA5YZ5EEW34TN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MBFAGH2WKGOCJY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1198139",
+    "name": "DreamKnock",
+    "tagline": "Your Apple Watch senses REM and cues you into lucid dreams",
+    "description": "DreamKnock turns your Apple Watch into a lucid dreaming trainer. While you sleep, it senses REM from heart-rate dynamics and wrist stillness, then plays a gentle haptic rhythm — quiet enough to slip into the dream instead of ending it. Train the rhythm by day with reality checks, so at night it means one thing: this is a dream. Wake to a map of your night: REM windows, cues, trends, dream journal. 100% on-device — no servers, no accounts. PH exclusive: 3 months free (see promo code) 🌙",
+    "website": "https://www.producthunt.com/r/3URSNQ7PJYXT6I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/dreamknock/launches/dreamknock",
+    "ph_product_url": "https://www.producthunt.com/products/dreamknock/launches/dreamknock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 7,
+    "featured_at": null,
+    "topics": "Health & Fitness, Meditation, Wearables",
+    "makers": "dream_hz",
+    "logo": "https://ph-files.imgix.net/5c8bb5d7-646a-41d4-8954-0051b8f63208.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/3URSNQ7PJYXT6I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/YEXGRBSMT4VIEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1196919",
+    "name": "Memoket Gem",
+    "tagline": "You made us #1 on Product Hunt. Now we're shipping!",
+    "description": "Most AI wearables capture one meeting and stop there. Memoket Gem connects conversations across time. When a topic comes up today that you discussed weeks ago, Gem surfaces it automatically with a source link. Since our #1 launch in May we've shipped: Weekly Briefs, AI Integrations with Claude and ChatGPT, Action Item Auto-Sync to Google, Outlook and Apple Reminders, desktop app now in beta, 153 languages, and 20-hour battery. Now shipping worldwide.",
+    "website": "https://www.producthunt.com/r/KLYWT6Z3KTU3B6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/memoket-gem/launches/memoket-gem-2",
+    "ph_product_url": "https://www.producthunt.com/products/memoket-gem/launches/memoket-gem-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 7,
+    "featured_at": null,
+    "topics": "Productivity, Meetings, Wearables",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], terrence_wang1",
+    "logo": "https://ph-files.imgix.net/dd328732-ac7b-43b0-8561-1b833a45473a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KLYWT6Z3KTU3B6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1202482",
+    "name": "RuckZone",
+    "tagline": "Apple Watch coach for rucking & weighted walking",
+    "description": "RuckZone turns your Apple Watch into a dedicated rucking coach. Track load weight, distance, pace and heart-rate zones live on your wrist, get a Load Score after every ruck, follow beginner and base training plans, and review your weekly trends. Now with live iPhone GPS tracking, route maps and elevation too.",
+    "website": "https://www.producthunt.com/r/I5G7DAIBE6ZKSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ruckzone/launches/ruckzone",
+    "ph_product_url": "https://www.producthunt.com/products/ruckzone/launches/ruckzone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 7,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Apple",
+    "makers": "deland_wu",
+    "logo": "https://ph-files.imgix.net/c6631fc7-0692-4e6d-aa88-017f950efa62.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/I5G7DAIBE6ZKSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1208299",
+    "name": "Paw Clicker",
+    "tagline": "Dog training clicker for phone, Apple Watch + Wear OS",
+    "description": "Paw Clicker - The hands-free dog training clicker on your smartwatch. Train smarter, bond fPaw Clicker turns your phone, Apple Watch or Wear OS watch into a complete dog training kit: precise click timing, session tracking and 34 step-by-step guides. No account, no data collection, no subscription. Start free; unlock everything forever for $9.99.aster.",
+    "website": "https://www.producthunt.com/r/PRDRMA2QB6NE2J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/paw-clicker/launches/paw-clicker",
+    "ph_product_url": "https://www.producthunt.com/products/paw-clicker/launches/paw-clicker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Android, Dogs, Pets, Wearables",
+    "makers": "metehanariman",
+    "logo": "https://ph-files.imgix.net/e399607e-88ad-47a1-a6a5-3719c5e2127b.svg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/PRDRMA2QB6NE2J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/G6Y62JJNEUAY3Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ACC53UHAYTXO5N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XDJNWGF5Z4ZLRG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LGS4GY7EZUQDSW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1214109",
+    "name": "GymRiff",
+    "tagline": "Private strength tracking on Android and Wear OS",
+    "description": "GymRiff is a local-first strength workout tracker for Android and Wear OS. Plan workouts and review history on your phone, then log the complete session from your watch. No required account, no ads and no recurring subscription. Unlimited plans and history, the Smart Plan Builder, phone tracking, active Wear OS logging and core statistics are free. Premium is an optional one-time unlock for advanced insights, rule-based Coach guidance and full local backup and restore.",
+    "website": "https://www.producthunt.com/r/R3OCFOXN7Y5RYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/gymriff/launches/gymriff",
+    "ph_product_url": "https://www.producthunt.com/products/gymriff?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Android, Wearables, Fitness",
+    "makers": "erdodi_zoltan",
+    "logo": "https://ph-files.imgix.net/f081fe29-7185-4af3-a315-bdd81a860bca.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/TOWOKFAIXYKJZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/R3OCFOXN7Y5RYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1199619",
+    "name": "UNITY",
+    "tagline": "Your health, unified. One timeline for all with AI insights.",
+    "description": "Modern health fails between appointments. Clinicians get minutes; your real story vanishes. UNITY. Your Health, Unified. One timeline for fitness, nutrition, journal, habits & wearables — with NOVA AI that knows your day. Privacy-first. Coach Studio free forever. The moat: habits → dense daily data → better wellness insights. Mission: 500M people stop losing their health story (modeled impact on site — not clinical claims today). → unity-health.app",
+    "website": "https://www.producthunt.com/r/LYYQ2ENS7J2II4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/unity-3/launches/unity-2",
+    "ph_product_url": "https://www.producthunt.com/products/unity-3/launches/unity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Artificial Intelligence",
+    "makers": "vitalis_health",
+    "logo": "https://ph-files.imgix.net/b4e23d62-43ef-4525-95df-8d63b14436f6.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LYYQ2ENS7J2II4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZMTJNVVVFJSXVR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WKRLHYSVX22AI2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1202049",
+    "name": "RivalRings",
+    "tagline": "Fitness Competition App",
+    "description": "RivalRings turns the activity you already track — steps, workouts, Apple Watch rings — into daily races with friends. Free on the App Store.",
+    "website": "https://www.producthunt.com/r/OCB7TNRUTL5A25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/rivalrings-your-rings-just-got-rivals/launches/rivalrings",
+    "ph_product_url": "https://www.producthunt.com/products/rivalrings-your-rings-just-got-rivals/launches/rivalrings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Apple",
+    "makers": "20cwaters",
+    "logo": "https://ph-files.imgix.net/15abc73c-bd32-402b-9f8f-c4a0f0b28078.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/OCB7TNRUTL5A25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1206764",
+    "name": "Telegram Voice Calls on Apple Watch",
+    "tagline": "The first watchOS Telegram client to support voice calls",
+    "description": "This update to the Pigeon for Telegram watchOS client app introduces CallKit-based E2EE Voice Calls support and Rich Text Messages which are great for AI agents. The new calling features allows users to call or receive calls from any other Telegram client apps, including official apps, directly from the Apple Watch, no companion apps needed. The update also supports Rich Text messages, which is a new Telegram feature, for better AI agent support such as OpenClaw / Hermes based bots.",
+    "website": "https://www.producthunt.com/r/IYLBHUVPTK2YWB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pigeon-a-watchos-telegram-client-app/launches/telegram-voice-calls-on-apple-watch",
+    "ph_product_url": "https://www.producthunt.com/products/pigeon-a-watchos-telegram-client-app/launches/telegram-voice-calls-on-apple-watch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Telegram, Messaging, Wearables",
+    "makers": "vincentneo",
+    "logo": "https://ph-files.imgix.net/66bb8acc-407f-41f7-820e-41301073215a.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/IYLBHUVPTK2YWB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1201580",
+    "name": "Focal",
+    "tagline": "A training and food tracker that’s beautifully built.",
+    "description": "Most people juggle three or four apps to train properly: Hevy or Strong for lifting, MyFitnessPal or Cal AI for food, Happy Scale for weight. None of them talk to each other. Focal puts it all in one place: log sets fast mid-session, snap or describe a meal for instant macros, track your weight trend instead of daily noise, and see how training, food and recovery add up each week. One app, one honest picture of your progress.",
+    "website": "https://www.producthunt.com/r/XNAQDT4D76D2V2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/focal-4/launches/focal-4",
+    "ph_product_url": "https://www.producthunt.com/products/focal-4/launches/focal-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 4,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Fitness",
+    "makers": "focalapp",
+    "logo": "https://ph-files.imgix.net/75230290-0af4-4d08-8038-333dc23d5396.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/XNAQDT4D76D2V2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/CCUUESSWOFIWCS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1193655",
+    "name": "TheInstaViewer",
+    "tagline": "View public Instagram stories without logging in",
+    "description": "View public Instagram stories, reels, posts and highlights anonymously. No login, no app, no password. Enter a username and check available public content instantly.",
+    "website": "https://www.producthunt.com/r/KAVCE6DLJBWXYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/theinstaviewer/launches/theinstaviewer",
+    "ph_product_url": "https://www.producthunt.com/products/theinstaviewer/launches/theinstaviewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-22T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Productivity, Social Media, Wearables",
+    "makers": "madiha_zeeshan",
+    "logo": "https://ph-files.imgix.net/86a2992c-8d17-40cc-86ef-a30bd345f535.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KAVCE6DLJBWXYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AWD3XPVLYXLZAY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/POGMKSO563MA7B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OCH73TU7VD5KRJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1200293",
+    "name": "Heart health tips",
+    "tagline": "Heart health tips ",
+    "description": "Great the heart health tips ebook it will help you resolve all the heart diseases at only $25 buy now",
+    "website": "https://www.producthunt.com/r/RDHFNCLKPBFY3S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/heart-health-tips/launches/heart-health-tips",
+    "ph_product_url": "https://www.producthunt.com/products/heart-health-tips/launches/heart-health-tips?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-19T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Books",
+    "makers": "murana_douglas_",
+    "logo": "https://ph-files.imgix.net/89420dae-71bb-43da-a556-7dd0358e11b7.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RDHFNCLKPBFY3S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/ZFEBYAI4GPNHJS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1204901",
+    "name": "FastFlow",
+    "tagline": "Fasting tracker that reads your Garmin live",
+    "description": "FastFlow is the only fasting tracker that connects to your Garmin and Apple Watch in real time over BLE. Instead of a countdown, it coaches you through six metabolic stages — Fed, Clearing, Shifting, Burning, Cleansing, Renewing — while showing live heart rate, HRV, Body Battery and stress. iOS Live Activity + Dynamic Island keep your fast a glance away. Built for people 40+ who want to work with the body, not against it.",
+    "website": "https://www.producthunt.com/r/BOIFBHYP5MWBSS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/fastflow/launches/fastflow-2",
+    "ph_product_url": "https://www.producthunt.com/products/fastflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Fitness",
+    "makers": "vincent_ooi",
+    "logo": "https://ph-files.imgix.net/ecce936e-4ae7-4052-a340-10d37df8792a.jpeg?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BOIFBHYP5MWBSS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2LNBIIYKZLJ2BD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MYLES5J5AQFPOZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1206804",
+    "name": "Just VO2 Max",
+    "tagline": "Your VO2 max, right on your Apple Watch face",
+    "description": "Just VO2 Max puts your latest Apple Health VO2 max estimate on your Apple Watch face. The free iPhone and Watch app adds a circular complication, refreshes after newer HealthKit samples, needs no account, and keeps Health data on your paired devices.",
+    "website": "https://www.producthunt.com/r/YUDD232BUO3N6S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/just-vo2-max/launches/just-vo2-max",
+    "ph_product_url": "https://www.producthunt.com/products/just-vo2-max/launches/just-vo2-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-30T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Health & Fitness, Wearables, Apple",
+    "makers": "dohnalj",
+    "logo": "https://ph-files.imgix.net/2f18405c-5e97-46e1-9097-0193f4785fbf.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YUDD232BUO3N6S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SCZRQHFIWUTJKH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1217844",
+    "name": "AiPI",
+    "tagline": "A tiny physical AI you talk to out loud. ",
+    "description": "A tiny physical AI you talk to out loud. Give it any personality, a cloned voice, or your own knowledge, and it answers back. Lives on your desk, no phone screen needed.",
+    "website": "https://www.producthunt.com/r/3SHNJZA3UG3LKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/aipi-2/launches/aipi-2",
+    "ph_product_url": "https://www.producthunt.com/products/aipi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-08-10T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Wearables, Artificial Intelligence, Tech",
+    "makers": "",
+    "logo": "https://ph-files.imgix.net/78d261c6-8baa-494b-ad4f-aa3bfb7ce6db.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BOXCRCA5Y3GYVP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3DHPAL3SX4KOE5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4QHIUV4ULYYWLC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3SHNJZA3UG3LKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1205289",
+    "name": "Smart Nasal Ring",
+    "tagline": "Real airflow sensor to detect sleep apnea at home",
+    "description": "Smart Nasal Ring — a wearable device that measures real nasal airflow during sleep to detect apnea events at home. No clinic visits required.",
+    "website": "https://www.producthunt.com/r/NLASJQHQ44UHM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/smart-nasal-ring/launches/smart-nasal-ring",
+    "ph_product_url": "https://www.producthunt.com/products/smart-nasal-ring/launches/smart-nasal-ring?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Health & Fitness, Hardware, Wearables",
+    "makers": "alexander_sobolko",
+    "logo": "https://ph-files.imgix.net/3c0527db-000d-4fc2-8e0b-6193053ed401.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/NLASJQHQ44UHM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Netlify"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  },
+  {
+    "id": "1199616",
+    "name": "Amber Classic Round Sunglasses for men",
+    "tagline": "retro amber sunglasses bhgwa color for men",
+    "description": "Shop FramesVista Amber Classic Round Sunglasses with UV400 protection and lightweight medium-fit frame. Perfect for daily wear, driving, travel and outdoor",
+    "website": "https://www.producthunt.com/r/4OSM57U4VZTDZ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/amber-classic-round-sunglasses-for-men/launches/amber-classic-round-sunglasses-for-men",
+    "ph_product_url": "https://www.producthunt.com/products/amber-classic-round-sunglasses-for-men/launches/amber-classic-round-sunglasses-for-men?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "created_at": "2026-07-18T07:01:00Z",
+    "votes_count": 3,
+    "featured_at": null,
+    "topics": "Wearables, Shopping",
+    "makers": "framesvista",
+    "logo": "https://ph-files.imgix.net/9dbe7da8-3e4c-4692-8c66-93c8f792ced5.png?auto=format",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/4OSM57U4VZTDZ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/D6O6XQBIBYDNKP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MMDWKFFNGZA4I4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MK32GDRUDDAVLE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "source_query": "Wearable Health Devices",
+    "source_topic": "Wearables",
+    "source_topic_slug": "wearables"
+  }
+]

@@ -32,11 +32,23 @@ uv run pytest
 
 ## Running the Pipeline
 
-Before running, create a `pipeline/.env` file with the required credentials:
+The pipeline reads its credentials from a `pipeline/.env` file, which is gitignored and not committed. Create your own copy before running anything:
 
 ```bash
-OPENAI_API_KEY=sk-...
-PRODUCT_HUNT_TOKEN=...
+cd pipeline
+touch .env
+```
+
+Populate it with your own keys:
+
+- `OPENAI_API_KEY` - from the [OpenAI API keys dashboard](https://platform.openai.com/api-keys); used by `llm.py` for shortlist gating, scoring, and memo generation.
+- `PRODUCT_HUNT_TOKEN` - a developer token for the [Product Hunt API](https://api.producthunt.com/v2/docs); used by `product_hunt.py` for sourcing candidates.
+
+Sample `pipeline/.env`:
+
+```bash
+OPENAI_API_KEY=sk-proj-abc123examplekeydonotcommit
+PRODUCT_HUNT_TOKEN=ph_dev_example1234567890token
 ```
 
 Run the full pipeline (source → analyze → memo) for a topic:
@@ -69,3 +81,9 @@ Logs for each run are written to `pipeline/logs/<stage>_<timestamp>.log`.
 ## Context
 
 You're the first engineering hire at a seed-stage VC firm. Partners spend ~10 hours/week scanning Product Hunt, YC, Hacker News, Twitter/X, and Crunchbase for promising startups, then writing memos by hand. Most candidates get passed on. Your job is to build the first version of an internal pipeline that automates the triage layer so partners can spend their time on the top 10%.
+
+## How It Works
+
+- **Sourcing**: an LLM turns your topic into short Product Hunt-style search phrases, pulls matching posts, then funnels the raw results down to a shortlist via a traction floor, a keyword pre-filter, and a batched LLM relevance gate (also rejecting big-company launches).
+- **Analysis**: each shortlisted candidate is scored on traction (pure math, normalized votes) plus three LLM-judged criteria - product specificity, differentiation, market fit - weighted into one overall score, with a "what would change my mind" rationale per criterion.
+- **Memo**: one Jinja2-rendered memo per candidate is generated straight from the analysis data (no extra API calls), ending in a deterministic call - 70+ Take a meeting, 45-69 Watch, below 45 Pass.

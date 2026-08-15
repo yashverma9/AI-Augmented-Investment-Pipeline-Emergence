@@ -1,0 +1,514 @@
+[
+  {
+    "name": "ClinicFrame ",
+    "tagline": "Like Granola, but for healthcare. Fully HIPAA-compliant.",
+    "description": "An ambient AI scribe that writes clinical notes in real time so you can focus on your patient. It passively captures every visit, whether in person or virtual, and delivers a complete, structured clinical note the moment the encounter ends. HIPAA compliant, desktop native, and EHR ready in seconds. We're launching Scribe today, with a much bigger vision ahead: a medical intelligence platform that goes beyond documentation to support the entire clinical workflow.",
+    "website": "https://www.producthunt.com/r/DBV5VMI6JYIDKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/clinic-scribe-clinicframe/launches/clinicframe",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 200,
+    "topics": "Artificial Intelligence, Medical, Health",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], dana_fridman",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/DBV5VMI6JYIDKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 100.0,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It names a specific problem of writing clinical notes and explains the mechanism of an ambient AI scribe that captures visits in real time.",
+        "would_change_mind": "If it specified the types of healthcare providers it targets, such as primary care physicians or specialists.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It mentions being HIPAA compliant and EHR ready, which implies a specific approach to healthcare documentation.",
+        "would_change_mind": "If it explicitly compared its features to a specific competitor in the healthcare documentation space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "It targets healthcare providers, which aligns with the AI Health thesis, but does not specify a particular size or type of provider.",
+        "would_change_mind": "If it named a specific type of healthcare provider, such as small clinics or solo practitioners.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 81.25,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "NS1",
+    "tagline": "Personalized Nervous System Training",
+    "description": "The NS1 Assessment is a personalized assessment tool that will give you a breakdown of how your system responds to stress, what this means for your specific situation & what you can do to improve. In 5 minutes you'll receive: - Your regulation score: a realistic baseline of how well your system settles after stress - A five-skill scorecard: your strengths and growth edges across the core skills - A personalized path: a structured learning journey to increase your capacity and reclaim agency",
+    "website": "https://www.producthunt.com/r/3XTD266XEJ4YT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/ns1/launches/ns1",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 120,
+    "topics": "Education, Health",
+    "makers": "jonnym1ller",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HBUWXF5F64YD2H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3XTD266XEJ4YT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3HD524D7S664B7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 55.55555555555556,
+      "product_specificity": 50.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "moderate",
+        "basis": "It describes a personalized assessment tool for stress response but lacks a specific user persona or mechanism.",
+        "would_change_mind": "If it identified a specific user group, such as individuals in high-stress jobs or athletes.",
+        "score": 50.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It does not provide a clear comparison to alternatives or a specific point of difference.",
+        "would_change_mind": "If it mentioned how its assessment tool is different from existing stress management tools.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health niche.",
+        "would_change_mind": "If it specified a target audience, such as corporate employees or students.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 43.39,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "CoachAI",
+    "tagline": "Your iPhone camera watches your form, rep by rep",
+    "description": "CoachAI uses your phone's camera to count your reps and correct your form in real time - a personal trainer's eyes in your pocket.",
+    "website": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/coachai-fitness-coach/launches/coachai",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 101,
+    "topics": "iOS, Health & Fitness, Artificial Intelligence",
+    "makers": "mouhab_tarek",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BMPXGGLGTBQZUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 45.0,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of monitoring workout form and explains the mechanism of using a phone's camera.",
+        "would_change_mind": "If it specified the types of users, such as fitness enthusiasts or personal trainers.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It does not provide a clear differentiation from other fitness apps or personal training solutions.",
+        "would_change_mind": "If it compared its technology to a specific competitor in the fitness app market.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health and fitness niche.",
+        "would_change_mind": "If it named a specific user group, such as gym-goers or home fitness users.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 49.5,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "ChikitAI",
+    "tagline": "Agentic AI for Healthcare Triage and Care Automation",
+    "description": "ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers. It talks to patients in natural language, captures a clinical-grade history, assesses urgency, and routes them to the right care. Built on proprietary clinical LLMs, it cuts wait times, reduces no-shows, and gives clinicians their time back.",
+    "website": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/chikitai/launches/chikitai",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 96,
+    "topics": "SaaS, Artificial Intelligence, Health, Vercel Day",
+    "makers": "[REDACTED], [REDACTED], _arjunrao",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B67QO52OLP62M7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Z6RUS4BA4ZQGKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 42.22222222222222,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "It names a specific problem of patient intake and triage, identifies healthcare providers as users, and explains the mechanism of using AI to automate the process.",
+        "would_change_mind": "If it stated that it only serves large hospitals, which would disqualify its current positioning.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "It explicitly states its unique approach of using proprietary clinical LLMs and mentions increasing patient intake capacity by 30%.",
+        "would_change_mind": "If it claimed to be targeting only enterprise-level healthcare providers.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "It targets healthcare providers, which aligns with the AI Health thesis, and implies a focus on small to medium-sized practices.",
+        "would_change_mind": "If it stated that it is designed exclusively for large healthcare systems.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 81.81,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Illume Labs",
+    "tagline": "24/7 personalized health companion you can text",
+    "description": "Illume is a 24/7 personal health companion that connects your wearables, nutrition, workouts, & lab results to give you personalized, actionable insights over text. Sign up: www.illumelabs.ai Illume connects patterns across your data that individual platforms can’t see, giving you a more complete picture of your health instead of another isolated score or dashboard. You can text your Illume agent for quick answers or use the platform to explore your data, trends, and history in depth.",
+    "website": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/illume-labs/launches/illume-labs",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 95,
+    "topics": "Health & Fitness, Biohacking, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], pari_latawa",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/X4X2TMUVEUR57X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/A6OXRYJKXNJALJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3PQXSRGWJHJYDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JZ5YA5Z2WM7S7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 41.66666666666667,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It describes a specific problem of connecting various health data and explains the mechanism of providing insights via text.",
+        "would_change_mind": "If it specified the types of users, such as individuals managing chronic conditions.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It does not provide a clear differentiation from other health companion apps or platforms.",
+        "would_change_mind": "If it compared its features to a specific competitor in the health tracking space.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health niche.",
+        "would_change_mind": "If it named a specific user group, such as fitness enthusiasts or patients with specific health conditions.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 48.67,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Node Health",
+    "tagline": "Your private home for every lab result",
+    "description": "Lab results arrive as printouts, PDFs and in portals that differ by provider — and scatter further when you switch labs or move. Node Health brings them into one place you own, your phone: scan, upload, or type in any report, and 150+ biomarkers are matched to reference ranges personalized to your age, sex and, where relevant, life stage. What's different: a doctor-reviewed biomarker database instead of AI-generated content, data encrypted on your iPhone, and core tracking that is free forever.",
+    "website": "https://www.producthunt.com/r/YBJP7E3JNNAVL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/node-health/launches/node-health",
+    "created_at": "2026-07-16T07:01:00Z",
+    "votes_count": 88,
+    "topics": "iOS, Health & Fitness, Medical, Vercel Day",
+    "makers": "renhuldt",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YBJP7E3JNNAVL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GFRYMJGVW6TEXL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7WOMWTST5NPP5B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IGHDBU47DIKHRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 37.77777777777778,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of managing lab results and explains the mechanism of consolidating them into one app.",
+        "would_change_mind": "If it specified the types of users, such as patients with chronic illnesses.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It mentions a doctor-reviewed biomarker database as a point of difference from AI-generated content.",
+        "would_change_mind": "If it compared its service to a specific competitor in the lab result management space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health niche.",
+        "would_change_mind": "If it named a specific user group, such as individuals managing multiple health conditions.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 58.94,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Pocket Fit",
+    "tagline": "AI Workout & Food",
+    "description": "Most people quit fitness apps in week three. You do everything right for 21 days, the mirror looks identical, and all the app gives back is a number. Pocket Fit makes progress visible. Take one photo and AI shows you 1, 2, 3 and 6 months ahead and a 3D avatar changes as you train. Underneath: workouts with weights auto-picked and progressed, food logged by photo, muscle coverage tracking, mood, streaks, and a crew who roast you for skipping leg day. Built by two people in London.",
+    "website": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/pocket-fit/launches/pocket-fit",
+    "created_at": "2026-08-08T07:01:00Z",
+    "votes_count": 26,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "[REDACTED], georgerabotov",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BCXG6MV7WHX6W4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/SJ46LWF6R4IAXK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Play Store"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AXPIUPDBWJ3CA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 3.3333333333333335,
+      "product_specificity": 75.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It describes a specific problem of making fitness progress visible and explains the mechanism of using AI to show future results.",
+        "would_change_mind": "If it specified the types of users, such as casual gym-goers or serious athletes.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "It does not provide a clear differentiation from other fitness apps that track progress.",
+        "would_change_mind": "If it compared its approach to a specific competitor in the fitness app market.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health and fitness niche.",
+        "would_change_mind": "If it named a specific user group, such as beginners or those looking to lose weight.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 39.08,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "BitePad",
+    "tagline": "Minimalist voice calorie tracker",
+    "description": "BitePad is intentionally minimal. Instead of packing in bloated features, we focus on one thing: making calorie tracking fast and effortless. Simply speak or type what you ate, and BitePad turns it into a meal log in seconds. Unlike AI photo logging, which often misidentifies foods and requires manual corrections, BitePad lets you review the estimated calories and macros, make any quick edits if needed, and save your meal. Simple by design, built for everyday use.",
+    "website": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bitepad/launches/bitepad-2",
+    "created_at": "2026-08-04T07:01:00Z",
+    "votes_count": 26,
+    "topics": "Health & Fitness, Productivity, Audio",
+    "makers": "[REDACTED], [REDACTED], rahulhunt",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BTOVEGPFMOGMTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 3.3333333333333335,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies a specific problem of calorie tracking and explains the mechanism of using voice or text input.",
+        "would_change_mind": "If it specified the types of users, such as individuals on specific diets.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It highlights its focus on simplicity and speed as a differentiator from more complex calorie tracking apps.",
+        "would_change_mind": "If it compared its features to a specific competitor in the calorie tracking space.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific customer segment within the health and fitness niche.",
+        "would_change_mind": "If it named a specific user group, such as busy professionals or fitness enthusiasts.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 50.33,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Life by Synheart ",
+    "tagline": "An Ai Companion app built to actually understands you",
+    "description": "For decades, technology has understood what you type. Today, it starts understanding you. Life is the first cognitive wellness app, built on top of Synheart's Human State Interface infrastructure. It learns from how you type and reads your biosignals, then shows you how you're actually doing across your focus, stress, and recovery. Ask syni, your AI companion why your focus is dropping, or when you're usually at your best, and it answers from your real patterns.",
+    "website": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/life-by-synheart/launches/life-by-synheart",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 23,
+    "topics": "Health & Fitness, Productivity, Artificial Intelligence",
+    "makers": "isrugeek",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/FUVRA52JFVJDQC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/HBWB74IGGLLH2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 1.6666666666666667,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It names a specific problem of cognitive wellness and explains the mechanism of learning from typing and biosignals, but does not specify a clear user persona.",
+        "would_change_mind": "If it explicitly stated that it targets a specific user group, such as individuals with mental health challenges or wellness enthusiasts.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "It implies a unique approach with the Human State Interface but does not provide a direct comparison to existing alternatives.",
+        "would_change_mind": "If it named specific competitors and detailed how its approach is different from theirs.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It shares a broad category of health and wellness but does not explicitly target small businesses or a specific small-business vertical.",
+        "would_change_mind": "If it mentioned a specific small-business vertical, such as wellness clinics or mental health professionals.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 43.67,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "TextMyPill",
+    "tagline": "WhatsApp medicine reminders. No app needed. 🦦",
+    "description": "Set medicine reminders for yourself or your entire family from one dashboard — anywhere in the world. Pillo delivers reminders on WhatsApp automatically. Snap a prescription, AI reads it, done. Track who took what. No app needed. Free 7-day trial.",
+    "website": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/textmypill/launches/textmypill",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 20,
+    "topics": "Health & Fitness, Messaging, Artificial Intelligence",
+    "makers": "itsbhavesh",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5BE7NZQRZZC3KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WB4HOFGMKWOBRO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 0.0,
+      "product_specificity": 95.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "It names a specific problem of medicine reminders, identifies the user as individuals or families, and explains the mechanism of using WhatsApp for reminders.",
+        "would_change_mind": "If it stated that it only serves large healthcare providers instead of individual users or families.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It implies a clear differentiator by using WhatsApp for reminders, which is a specific approach compared to traditional apps.",
+        "would_change_mind": "If it provided a direct comparison to other reminder services that do not use messaging platforms.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "It targets individuals and families for medicine reminders, which aligns with the thesis of AI Health, but is not the primary focus on small businesses.",
+        "would_change_mind": "If it explicitly stated that it is designed for small pharmacies or healthcare providers serving small communities.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 63.25,
+    "status": "complete",
+    "error": null
+  }
+]

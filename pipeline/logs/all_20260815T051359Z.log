@@ -1,0 +1,108 @@
+2026-08-15 10:44:01,302 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:44:01,327 INFO product_hunt: GraphQL request variables={'query': 'Budgeting Apps', 'first': 10}
+2026-08-15 10:44:01,876 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:01,876 INFO product_hunt: Rate limit remaining=3850/6250
+2026-08-15 10:44:01,877 INFO product_hunt: GraphQL request variables={'query': 'Budgeting', 'first': 10}
+2026-08-15 10:44:02,721 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:02,722 INFO product_hunt: Rate limit remaining=3750/6250
+2026-08-15 10:44:02,723 INFO product_hunt: GraphQL request variables={'query': 'Apps', 'first': 10}
+2026-08-15 10:44:03,186 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:03,188 INFO product_hunt: Rate limit remaining=3650/6250
+2026-08-15 10:44:03,188 INFO product_hunt: Query='Budgeting Apps' had no direct match; word-level fallback via ['Budgeting', 'Apps'] matched 9 topic(s): ['budgeting', 'email', 'design-tools', 'music', 'weather', 'crypto', 'menu-bar-apps', 'imessage-apps', 'touch-bar-apps']
+2026-08-15 10:44:03,189 INFO product_hunt: GraphQL request variables={'topic': 'budgeting', 'first': 20}
+2026-08-15 10:44:03,961 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:03,964 INFO product_hunt: Rate limit remaining=3550/6250
+2026-08-15 10:44:03,965 INFO product_hunt: Topic='budgeting' fetched 20 post(s)
+2026-08-15 10:44:03,966 INFO product_hunt: GraphQL request variables={'topic': 'email', 'first': 20}
+2026-08-15 10:44:04,915 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:04,917 INFO product_hunt: Rate limit remaining=3450/6250
+2026-08-15 10:44:04,918 INFO product_hunt: Topic='email' fetched 20 post(s)
+2026-08-15 10:44:04,919 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-15 10:44:05,805 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:05,808 INFO product_hunt: Rate limit remaining=3350/6250
+2026-08-15 10:44:05,809 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-15 10:44:05,809 INFO product_hunt: GraphQL request variables={'query': 'Expense Tracking', 'first': 10}
+2026-08-15 10:44:06,283 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:06,283 INFO product_hunt: Rate limit remaining=3250/6250
+2026-08-15 10:44:06,283 INFO product_hunt: GraphQL request variables={'query': 'Expense', 'first': 10}
+2026-08-15 10:44:06,930 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:06,931 INFO product_hunt: Rate limit remaining=3150/6250
+2026-08-15 10:44:06,931 INFO product_hunt: GraphQL request variables={'query': 'Tracking', 'first': 10}
+2026-08-15 10:44:07,362 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:07,364 INFO product_hunt: Rate limit remaining=3050/6250
+2026-08-15 10:44:07,365 INFO product_hunt: Query='Expense Tracking' had no direct match; word-level fallback via ['Expense', 'Tracking'] matched 1 topic(s): ['time-tracking']
+2026-08-15 10:44:07,365 INFO product_hunt: GraphQL request variables={'topic': 'time-tracking', 'first': 20}
+2026-08-15 10:44:08,132 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:08,144 INFO product_hunt: Rate limit remaining=2950/6250
+2026-08-15 10:44:08,149 INFO product_hunt: Topic='time-tracking' fetched 20 post(s)
+2026-08-15 10:44:08,150 INFO product_hunt: GraphQL request variables={'query': 'Investment Management', 'first': 10}
+2026-08-15 10:44:08,634 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:08,635 INFO product_hunt: Rate limit remaining=2850/6250
+2026-08-15 10:44:08,636 INFO product_hunt: GraphQL request variables={'query': 'Investment', 'first': 10}
+2026-08-15 10:44:09,184 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:09,186 INFO product_hunt: Rate limit remaining=2750/6250
+2026-08-15 10:44:09,186 INFO product_hunt: GraphQL request variables={'query': 'Management', 'first': 10}
+2026-08-15 10:44:09,643 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:09,645 INFO product_hunt: Rate limit remaining=2650/6250
+2026-08-15 10:44:09,645 INFO product_hunt: Query='Investment Management' had no direct match; word-level fallback via ['Investment', 'Management'] matched 6 topic(s): ['investing', 'task-management', 'customer-success', 'crm', 'database', 'change-management']
+2026-08-15 10:44:09,645 INFO product_hunt: GraphQL request variables={'topic': 'investing', 'first': 20}
+2026-08-15 10:44:10,341 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:10,363 INFO product_hunt: Rate limit remaining=2550/6250
+2026-08-15 10:44:10,369 INFO product_hunt: Topic='investing' fetched 20 post(s)
+2026-08-15 10:44:10,369 INFO product_hunt: GraphQL request variables={'topic': 'task-management', 'first': 20}
+2026-08-15 10:44:11,128 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:11,129 INFO product_hunt: Rate limit remaining=2450/6250
+2026-08-15 10:44:11,129 INFO product_hunt: Topic='task-management' fetched 20 post(s)
+2026-08-15 10:44:11,130 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-15 10:44:11,949 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:11,951 INFO product_hunt: Rate limit remaining=2350/6250
+2026-08-15 10:44:11,952 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-15 10:44:11,953 INFO product_hunt: GraphQL request variables={'query': 'Savings Tools', 'first': 10}
+2026-08-15 10:44:12,402 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:12,403 INFO product_hunt: Rate limit remaining=2250/6250
+2026-08-15 10:44:12,403 INFO product_hunt: GraphQL request variables={'query': 'Savings', 'first': 10}
+2026-08-15 10:44:12,869 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:12,871 INFO product_hunt: Rate limit remaining=2150/6250
+2026-08-15 10:44:12,871 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-15 10:44:13,330 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:13,331 INFO product_hunt: Rate limit remaining=2050/6250
+2026-08-15 10:44:13,331 INFO product_hunt: Query='Savings Tools' had no direct match; word-level fallback via ['Savings', 'Tools'] matched 10 topic(s): ['design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-15 10:44:13,332 INFO product_hunt: Skipping already-fetched topic='design-tools' for query='Savings Tools'
+2026-08-15 10:44:13,332 INFO product_hunt: Skipping already-fetched topic='customer-success' for query='Savings Tools'
+2026-08-15 10:44:13,332 INFO product_hunt: GraphQL request variables={'topic': 'writing', 'first': 20}
+2026-08-15 10:44:14,773 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:14,794 INFO product_hunt: Rate limit remaining=1950/6250
+2026-08-15 10:44:14,795 INFO product_hunt: Topic='writing' fetched 20 post(s)
+2026-08-15 10:44:14,796 INFO product_hunt: GraphQL request variables={'query': 'Financial Planning', 'first': 10}
+2026-08-15 10:44:15,327 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:15,327 INFO product_hunt: Rate limit remaining=1850/6250
+2026-08-15 10:44:15,327 INFO product_hunt: GraphQL request variables={'query': 'Financial', 'first': 10}
+2026-08-15 10:44:15,843 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:15,844 INFO product_hunt: Rate limit remaining=1750/6250
+2026-08-15 10:44:15,844 INFO product_hunt: GraphQL request variables={'query': 'Planning', 'first': 10}
+2026-08-15 10:44:16,351 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:16,353 INFO product_hunt: Rate limit remaining=1650/6250
+2026-08-15 10:44:16,353 INFO product_hunt: Query='Financial Planning' had no direct match; word-level fallback via ['Financial', 'Planning'] matched 2 topic(s): ['fintech', 'calendar']
+2026-08-15 10:44:16,353 INFO product_hunt: GraphQL request variables={'topic': 'fintech', 'first': 20}
+2026-08-15 10:44:17,580 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:17,582 INFO product_hunt: Rate limit remaining=1550/6250
+2026-08-15 10:44:17,583 INFO product_hunt: Topic='fintech' fetched 20 post(s)
+2026-08-15 10:44:17,583 INFO product_hunt: GraphQL request variables={'topic': 'calendar', 'first': 20}
+2026-08-15 10:44:18,292 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:44:18,300 INFO product_hunt: Rate limit remaining=1450/6250
+2026-08-15 10:44:18,301 INFO product_hunt: Topic='calendar' fetched 20 post(s)
+2026-08-15 10:44:18,303 INFO product_hunt: Fetched 192 unique post(s) across 10 unique topic(s) from 5 quer(y/ies)
+2026-08-15 10:44:18,318 INFO sourcing: Rule-based shortlist kept 31/192 post(s) for thesis='Personal finance tools'
+2026-08-15 10:44:20,768 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:44:20,772 INFO sourcing: LLM shortlist kept 0/15 post(s) for thesis='Personal finance tools' batch=0-15
+2026-08-15 10:44:22,805 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:44:22,810 INFO sourcing: LLM shortlist kept 3/15 post(s) for thesis='Personal finance tools' batch=15-30
+2026-08-15 10:44:24,112 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:44:24,116 INFO sourcing: LLM shortlist kept 0/1 post(s) for thesis='Personal finance tools' batch=30-31
+2026-08-15 10:44:24,118 INFO analysis: Loaded 3 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-personal-finance-tools-20260815T051359Z/shortlisted.json; votes range=28..120
+2026-08-15 10:44:30,587 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:44:30,593 INFO analysis: Wrote analysis for 3 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-personal-finance-tools-20260815T051359Z/analysis.json
+2026-08-15 10:44:30,609 INFO memo: wrote rightcard.md — Take a meeting (74.5)
+2026-08-15 10:44:30,609 INFO memo: wrote spendkeep.md — Watch (50.0)
+2026-08-15 10:44:30,610 INFO memo: wrote wealthnest-ai.md — Take a meeting (71.2)
+2026-08-15 10:44:30,610 INFO memo: Wrote 3 memo(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-personal-finance-tools-20260815T051359Z/memos

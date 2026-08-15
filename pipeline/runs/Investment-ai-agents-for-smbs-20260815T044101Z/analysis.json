@@ -1,0 +1,1162 @@
+[
+  {
+    "name": "Prefactor",
+    "tagline": "Evaluate your AI Agents in real-time",
+    "description": "Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.",
+    "website": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/prefactor/launches/prefactor",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 616,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "ethan_lee8, joshgillies, simonrussell_au, rheu, matt_doughty, joeys",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/QAODM4FNSULKAP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/Y5XXYGBXLHNUGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LRZWS7UQXUFGQW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ],
+    "scores": {
+      "traction": 100.0,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale.",
+        "would_change_mind": "If it specified the types of agents being evaluated or the specific industries of the engineering teams.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "Prefactor is the evaluation layer that closes the gap, but does not explicitly compare itself to existing evaluation tools or methods.",
+        "would_change_mind": "If it named specific competitors and detailed how its evaluation process is superior.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The description mentions engineering teams but does not specify if these teams are part of SMBs or larger enterprises.",
+        "would_change_mind": "If it explicitly stated that it targets small engineering teams or startups.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 68.25,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Nautis",
+    "tagline": "The AI-native Operating System for founders.",
+    "description": "Nautis is the AI-native Operating System for founders. Manage fundraising, planning, finance, documents, meetings, CRM, hiring, and daily operations from one connected workspace. Unlike disconnected SaaS tools, every module shares one AI brain, giving you context-aware automation, smarter insights, and a Chief of Staff that understands your business—not just one app. Spend less time managing tools and more time building.",
+    "website": "https://www.producthunt.com/r/RVQOOZX7DXALRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/nautis/launches/nautis-2",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 451,
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "baltejsingh88",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RVQOOZX7DXALRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/37RGV7ARBTZCSR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OHGJXBLO7SG37A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3TBKOD2C7SCK2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ],
+    "scores": {
+      "traction": 72.26890756302521,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Manage fundraising, planning, finance, documents, meetings, CRM, hiring, and daily operations from one connected workspace.",
+        "would_change_mind": "If it named specific types of founders or startups it is designed for, such as tech startups or small business founders.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Unlike disconnected SaaS tools, every module shares one AI brain, giving you context-aware automation, smarter insights, and a Chief of Staff that understands your business.",
+        "would_change_mind": "If it provided a specific example of how its integrated approach outperforms traditional tools.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "The description implies a focus on founders, which can include small business owners, but does not explicitly state this.",
+        "would_change_mind": "If it named specific small business types or indicated a price point that suggests targeting SMBs.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 74.32,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "AgentSky",
+    "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
+    "description": "Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.",
+    "website": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agentsky/launches/agentsky",
+    "created_at": "2026-08-03T07:01:00Z",
+    "votes_count": 448,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], xiaoyin_qu1",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/VKQBZ233EK3JBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 71.76470588235294,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "Managed agent as a service: launch a long-horizon AI agent in one click, but lacks specificity on the problem it solves or the user persona.",
+        "would_change_mind": "If it detailed a specific problem that its managed agents address for a particular user group.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The description mentions managed agent as a service but does not provide a clear point of differentiation from other agent services.",
+        "would_change_mind": "If it compared its service to a specific competitor and highlighted a unique feature.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "The description does not mention any specific target market or business size, focusing instead on a general service offering.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or a specific small business vertical.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 37.44,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "CartAI",
+    "tagline": "The AI agent that handles checkout.",
+    "description": "Checkout is the hard part, and most solutions clear it only where the merchant has integrated. CartAI completes checkout on any live merchant surface with no merchant-side work, cooperating with bot detection instead of evading it. One developer-first API, four products: Catalog (search and live pricing across merchants), Checkouts (clear and track orders to confirmation), Payments (PCI off your stack via Visa and Mastercard agent rails), Monetization (commissions on every agent sale).",
+    "website": "https://www.producthunt.com/r/LZD2Q2Q6VJPRPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cartai/launches/cartai",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 442,
+    "topics": "SaaS, Developer Tools, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], amit_uppal",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/LZD2Q2Q6VJPRPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/XD2A3LROSCW4M5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/PW4VOQJ6PUZGXP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 70.75630252100841,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "CartAI completes checkout on any live merchant surface with no merchant-side work, indicating a specific problem and mechanism.",
+        "would_change_mind": "If it specified the types of merchants it serves, such as local retailers or e-commerce businesses.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Cooperating with bot detection instead of evading it provides a clear differentiation in approach.",
+        "would_change_mind": "If it named specific competitors and explained how its approach is superior.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "The description implies a focus on merchants, which can include small businesses, but does not explicitly state this.",
+        "would_change_mind": "If it named specific small business types or indicated a price point that suggests targeting SMBs.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 73.94,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Cekura",
+    "tagline": "The self-improvement loop for voice agents",
+    "description": "Cekura is the testing, observability, and self-improvement platform for production voice and chat AI agents. It simulates thousands of scenarios, catches failures, diagnoses the root cause, rewrites prompts and config, then re-validates with a full regression sweep. Unlike tools that hand failures back to your team, Cekura closes the loop by fixing the agent itself and proving the fix holds without overfitting.",
+    "website": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/vocera/launches/cekura-3",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 395,
+    "topics": "SaaS, Developer Tools, Audio",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], krishyv",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/KH2LLNVN2ZL3SR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LJOLRCK5MPU5DR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B2O2RTYBQAR355?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 62.857142857142854,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Cekura is the testing, observability, and self-improvement platform for production voice and chat AI agents, indicating a specific problem and mechanism.",
+        "would_change_mind": "If it specified the types of voice and chat AI agents it supports, such as those used by small businesses.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Unlike tools that hand failures back to your team, Cekura closes the loop by fixing the agent itself, providing a clear point of difference.",
+        "would_change_mind": "If it compared its self-improvement capabilities to a specific competitor's offering.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The description does not mention any specific target market or business size, focusing instead on a general service offering.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or a specific small business vertical.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 65.21,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Zinley",
+    "tagline": "Your Personal AI Representative for calls, email, and tasks",
+    "description": "Most AI waits inside a chat. Zinley is reachable by you and the people around you. With its own phone number and email, it answers calls, handles email, books things, and gets work done within your rules. It remembers your people and relationships, then reports back in your language. Not another chatbot. A second you that shows up.",
+    "website": "https://www.producthunt.com/r/IQRSF4SZFC3JK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zinley/launches/zinley",
+    "created_at": "2026-08-02T07:01:00Z",
+    "votes_count": 389,
+    "topics": "Productivity, Artificial Intelligence, Virtual Assistants",
+    "makers": "jasonzinley, kn1026, peter_bakas, hoangnm_zinley, some4254, victoria_quynh_anh_nguyen",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/7JO2SUUBYSIVTW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/IQRSF4SZFC3JK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WZSKVNSNA6CPPJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/2G7NNQK5R4MF5T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/BHWXL7J4E7IH44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 61.84873949579832,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Zinley is reachable by you and the people around you, indicating a specific problem and mechanism for personal assistance.",
+        "would_change_mind": "If it specified the types of users it is designed for, such as busy professionals or small business owners.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "A second you that shows up provides a clear differentiation from traditional chatbots.",
+        "would_change_mind": "If it compared its capabilities to a specific competitor and highlighted a unique feature.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "The description implies a focus on personal assistance, which can include small business owners, but does not explicitly state this.",
+        "would_change_mind": "If it named specific small business types or indicated a price point that suggests targeting SMBs.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 71.71,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Agently",
+    "tagline": "Your whole stack, running itself!",
+    "description": "Every other tool answers, retrieves, or runs brittle rules. Agently holds your whole company in context and does the work. 100+ connectors flow into one brain that never forgets. It links a Stripe event to a Slack thread to a Linear ticket on its own. When something needs doing, Jarvis routes it to an agent that runs it end to end: triggered, running, shipped. The work lands without you, nothing falls through the cracks. Connecting takes minutes. The layer between today's AI and tomorrow's AGI.",
+    "website": "https://www.producthunt.com/r/WSQCJVSEX7VIBA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/agently/launches/agently-2",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 363,
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], ahmadhajj",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/WSQCJVSEX7VIBA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B7LXRGUAMDOQYB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VN3BVFMFKRNJ27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OVSCUXN3U3I34Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      }
+    ],
+    "scores": {
+      "traction": 57.47899159663865,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "Agently holds your whole company in context and does the work, indicating a specific problem and mechanism for automation.",
+        "would_change_mind": "If it specified the types of companies it serves, such as small startups or specific industries.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "The layer between today's AI and tomorrow's AGI suggests a unique positioning in the market.",
+        "would_change_mind": "If it compared its capabilities to a specific competitor and highlighted a unique feature.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The description does not mention any specific target market or business size, focusing instead on a general service offering.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or a specific small business vertical.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 63.87,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "BetterClaw",
+    "tagline": "Deploy AI Agent, 60 seconds & $0 forever ",
+    "description": "BetterClaw is a no-code platform for building AI agents that run on a schedule without you. Connect Gmail, Slack, or Telegram, and your agent triages inbox, sends morning briefings, or monitors what you care about. Agents start as Interns that ask before acting. Bring your own AI key and it's genuinely $0.",
+    "website": "https://www.producthunt.com/r/RSXEQOXULUOFQR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/betterclaw/launches/betterclaw",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 321,
+    "topics": "Productivity, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED], harshit_bhardwaj2",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RSXEQOXULUOFQR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/OO4TWYL4STMVSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/JYHPFXNMVWXATG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Reddit"
+      }
+    ],
+    "scores": {
+      "traction": 50.42016806722689,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 75.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "BetterClaw is a no-code platform for building AI agents that run on a schedule without you, indicating a specific problem and mechanism.",
+        "would_change_mind": "If it specified the types of tasks or industries its agents are designed to assist with, such as small business operations.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "Agents start as Interns that ask before acting provides a clear differentiation in how the agents operate.",
+        "would_change_mind": "If it compared its no-code platform to a specific competitor and highlighted a unique feature.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "strong",
+        "basis": "The description implies a focus on users who need automation, which can include small business owners, but does not explicitly state this.",
+        "would_change_mind": "If it named specific small business types or indicated a price point that suggests targeting SMBs.",
+        "score": 75.0
+      }
+    },
+    "overall_score": 68.86,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Skippr AI",
+    "tagline": "The live AI employee inside your product, serving every user",
+    "description": "Real-time agents that see, talk, and operate software. They onboard, activate, and unblock your users. On their own. Skippr agents keep agenda and memory across full sessions, speak 10 languages, and act on screen with built-in browser automation. Fully self-serve: spin up an agent in minutes, embed with 2 lines of code, or share a meeting link. Trained on your knowledge, styled to your brand. 200 free credits to start, no card required. Talk to me for the deeper enterprise version.",
+    "website": "https://www.producthunt.com/r/BR76ZLZHNBMYUU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/skippr-3/launches/skippr-ai",
+    "created_at": "2026-07-20T07:01:00Z",
+    "votes_count": 312,
+    "topics": "Customer Success, User Experience, Artificial Intelligence",
+    "makers": "[REDACTED], niv_gold",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/BR76ZLZHNBMYUU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7ZNSUV6FBSPTTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/47CMJTFYVLAK3X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/J2CN6G6MJOQ5EN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      }
+    ],
+    "scores": {
+      "traction": 48.90756302521008,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "names a specific problem of user onboarding and activation, and explains the mechanism of real-time agents that operate software and assist users.",
+        "would_change_mind": "If it specified the types of users or industries that benefit from the agents, such as specific software sectors or user demographics.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "mentions being fully self-serve and having built-in browser automation, but lacks a direct comparison to specific competitors.",
+        "would_change_mind": "If it explicitly compared its features or pricing to a known competitor in the user onboarding space.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "does not explicitly mention small businesses or a specific small-business vertical, focusing instead on general user activation.",
+        "would_change_mind": "If it stated that it is specifically designed for small businesses or a particular small-business vertical, such as startups or local services.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 55.48,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Cleanlist AI",
+    "tagline": "Natural-language prospecting: find, enrich and sync leads.",
+    "description": "Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list. Upload a CSV, paste LinkedIn or Sales Navigator URLs, add domains, or use search filters, then let AI agents enrich contacts, verify emails, research each lead, and sync the final list to your CRM. With a 15-provider enrichment waterfall, AI research columns, and one-click CRM sync, Cleanlist helps GTM teams build lists without stitching together six tools.",
+    "website": "https://www.producthunt.com/r/HHVI7RICWYWVFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/cleanlist-ai/launches/cleanlist-ai-3",
+    "created_at": "2026-07-31T07:01:00Z",
+    "votes_count": 288,
+    "topics": "Sales, SaaS, Artificial Intelligence",
+    "makers": "[REDACTED], [REDACTED], msanvarov",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HHVI7RICWYWVFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FYFMFQEUELN4KB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Chrome"
+      }
+    ],
+    "scores": {
+      "traction": 44.87394957983194,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of lead generation and enrichment, and explains the mechanism of turning inputs into verified lead lists.",
+        "would_change_mind": "If it named specific types of users or industries that would benefit from the lead generation process, such as sales teams in tech startups.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "highlights a unique feature of a 15-provider enrichment waterfall, which implies a specific approach to lead enrichment.",
+        "would_change_mind": "If it provided a direct comparison to a specific competitor's lead generation process or pricing.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "does not mention small businesses or specific small-business verticals, focusing instead on general GTM teams.",
+        "would_change_mind": "If it specified that it is tailored for small businesses or a particular small-business vertical, such as local retailers or service providers.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 60.72,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "RunEvr",
+    "tagline": "Agentic project management environment for creatives",
+    "description": "One AI-powered workspace where your projects, conversations, reviews, and creative work stay connected. Every tool switch interrupts creative thinking, scatters context, and adds unnecessary cognitive load. RunEvr is built to keep your entire creative workflow in one place, helping teams stay focused, collaborate naturally, and create without losing momentum.",
+    "website": "https://www.producthunt.com/r/C3ZSCUH4BNRBIC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/runevr/launches/runevr",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 196,
+    "topics": "Task Management, SaaS, Chat rooms, OpenAI Day",
+    "makers": "[REDACTED], rafik_mkhitaryan",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/C3ZSCUH4BNRBIC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 29.411764705882355,
+      "product_specificity": 50.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "moderate",
+        "basis": "describes a general problem of project management for creatives but lacks a specific user persona or detailed mechanism.",
+        "would_change_mind": "If it identified a specific type of creative professional or team that would benefit from the workspace.",
+        "score": 50.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "uses general terms about keeping workflows connected without providing a specific point of difference from other project management tools.",
+        "would_change_mind": "If it explicitly stated how it differs from a known competitor in the project management space.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "does not mention small businesses or specific small-business verticals, focusing instead on creatives in general.",
+        "would_change_mind": "If it specified that it is designed for small creative teams or a particular small-business vertical, such as freelance designers or small marketing agencies.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 36.85,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Aymo AI",
+    "tagline": "All-in-one AI Platform for Teams",
+    "description": "Get access to latest models of GPT, Claude, Gemini, DeepSeek, Grok, Kimi, GLM and 45+ top AI models in one secure workspace with powerful team features. Compare outputs AI model response side by side, upload and chat with files, search the web, generate images, and collaborate with your team on every plan. Free and decent plans that can replace a dozen AI tools: Bundled with a Chrome extension, apps, useful AI tools, and AI Docs on the way.",
+    "website": "https://www.producthunt.com/r/B2AAONAFWVZST6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/aymo-ai/launches/aymo-ai",
+    "created_at": "2026-07-26T07:01:00Z",
+    "votes_count": 183,
+    "topics": "Productivity, Artificial Intelligence, Business Intelligence",
+    "makers": "musharofchy, naimur_rahman55, shihab_u, vinish_bhaskar, shafiqhammad5, said7388, johurul_haque",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B2AAONAFWVZST6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/F2PIU76FHYL6QP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6OL64RX3SUKNMW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 27.22689075630252,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "describes a general AI platform without naming a specific problem, user, or mechanism.",
+        "would_change_mind": "If it identified a specific problem that teams face when using multiple AI tools and how its platform addresses that.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "uses broad terms about being an all-in-one platform without a clear comparative claim to alternatives.",
+        "would_change_mind": "If it provided a specific feature or pricing comparison to a known competitor in the AI tools market.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "does not target small businesses or specific small-business verticals, focusing instead on teams in general.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or a specific small-business vertical, such as startups or local service providers.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 26.31,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Basedash Suggestions",
+    "tagline": "Your AI data analyst, now with ideas of its own.",
+    "description": "Basedash now suggests the analysis before you ask. It studies your connected data, your past chats, and the dashboards you've built, then generates personalized suggestions — questions worth asking, dashboards worth building, automations worth scheduling. Click one and the work starts. Used ideas are replaced with fresh ones, so the well never runs dry. Every suggestion is generated per person, for growth, finance, and ops alike. No more blank page. Your analyst makes the first move.",
+    "website": "https://www.producthunt.com/r/5WFCKM6N2GBEV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/basedash/launches/basedash-suggestions",
+    "created_at": "2026-07-17T07:01:00Z",
+    "votes_count": 153,
+    "topics": "Artificial Intelligence, Data & Analytics, Business Intelligence",
+    "makers": "[REDACTED], [REDACTED], kris_lachance",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/5WFCKM6N2GBEV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/LJFP7FWZJ3WVWL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 22.18487394957983,
+      "product_specificity": 75.0,
+      "differentiation": 50.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of data analysis and suggests personalized insights, explaining the mechanism of studying connected data.",
+        "would_change_mind": "If it specified the types of users or industries that would benefit from the data analysis suggestions.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "moderate",
+        "basis": "mentions generating personalized suggestions but lacks a direct comparison to specific competitors.",
+        "would_change_mind": "If it explicitly compared its suggestion capabilities to a known competitor in the data analytics space.",
+        "score": 50.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "does not mention small businesses or specific small-business verticals, focusing instead on general business functions.",
+        "would_change_mind": "If it specified that it is tailored for small businesses or a particular small-business vertical, such as local retailers or small consulting firms.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 48.8,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Estera",
+    "tagline": "AI Receptionist that Answers Calls & WhatsApp 24/7",
+    "description": "Meet Estera, the AI receptionist built for real estate, hotels, restaurants, and more. AI agent receptionist that answers every phone call and WhatsApp message in under 5 seconds, qualifies leads, books appointments, and follows up automatically. Built for real estate, hotels, restaurants, dental clinics, and more. Create your own AI agent assistant in under 3 minutes.",
+    "website": "https://www.producthunt.com/r/GSPE3HHD2AHU47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/estera/launches/estera",
+    "created_at": "2026-07-27T07:01:00Z",
+    "votes_count": 143,
+    "topics": "Productivity, Customer Success, Artificial Intelligence",
+    "makers": "[REDACTED], toma_rares",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/GSPE3HHD2AHU47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FKNLDZKXDAICEG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/FXBR2RDRQKKDKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.producthunt.com/r/7IQHPA4X3LAATS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/MC5VTBDPM3VRJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3J3IZ5C6GAPAIT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3322HBNPC2Z2BR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 20.504201680672267,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "names a specific problem of lead qualification and appointment booking for real estate, hotels, and restaurants, and explains the mechanism of an AI receptionist.",
+        "would_change_mind": "If it stated that it is only for enterprise clients or large chains, which would disqualify its small business focus.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "explicitly states its unique function as an AI receptionist for specific industries, providing a clear point of difference.",
+        "would_change_mind": "If it stated that it is only a basic chatbot without the advanced features it currently offers.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "explicitly targets small businesses in real estate, hotels, and restaurants as its primary customers.",
+        "would_change_mind": "If it stated that it is designed for large enterprises or corporate clients instead of small businesses.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 76.38,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "BackEngine MCP",
+    "tagline": "Make private company knowledge usable for AI",
+    "description": "Most companies wire Claude or ChatGPT into Slack, email, calls, tickets, and their CRM over one singular MCP. That's raw pipes into scattered systems. The model reads a slice and guesses at the rest. BackEngine MCP connects to the same tools, but reads everything first, joins all of it into one permissioned record per account, kept current, so Claude and ChatGPT always work from the whole picture. Head-to-head: 67% fewer errors, 2.4x more key facts, 65% fewer tokens vs. direct connectors.",
+    "website": "https://www.producthunt.com/r/C6WAGOOHUENQ5Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/backengine-mcp/launches/backengine-mcp",
+    "created_at": "2026-08-05T07:01:00Z",
+    "votes_count": 139,
+    "topics": "API, Artificial Intelligence, Business Intelligence",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], sara_baranski",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/C6WAGOOHUENQ5Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 19.831932773109244,
+      "product_specificity": 75.0,
+      "differentiation": 95.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "describes a specific problem of knowledge management for AI and explains the mechanism of connecting various tools into one record.",
+        "would_change_mind": "If it specified the types of users or industries that would benefit from this knowledge management solution.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "provides a clear comparison of performance metrics against direct connectors, highlighting its unique approach.",
+        "would_change_mind": "If it stated that it is less effective than direct connectors, which would disqualify its current strong differentiation.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "does not mention small businesses or specific small-business verticals, focusing instead on general company knowledge management.",
+        "would_change_mind": "If it specified that it is designed for small businesses or a particular small-business vertical, such as startups or local service providers.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 59.46,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Bo AI",
+    "tagline": "An AI personal assistant that lives in your texts 💬",
+    "description": "Bo is the first consumer AI product that exists to serve everyday people. Bo helps you stay organized, save time, live healthier, and answer your questions—all via text.",
+    "website": "https://www.producthunt.com/r/HKCHIY3OYYT4LW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bo-ai/launches/bo-ai",
+    "created_at": "2026-07-29T07:01:00Z",
+    "votes_count": 138,
+    "topics": "Productivity, Artificial Intelligence, Virtual Assistants",
+    "makers": "[REDACTED], diksha_giri13",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HKCHIY3OYYT4LW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/6IK22QB4T2NK7L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 19.66386554621849,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "describes a general personal assistant without naming a specific problem, user, or mechanism.",
+        "would_change_mind": "If it identified a specific problem that everyday people face and how its assistant addresses that.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "uses broad terms about being a personal assistant without a clear comparative claim to alternatives.",
+        "would_change_mind": "If it provided a specific feature or pricing comparison to a known competitor in the personal assistant market.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "does not target small businesses or specific small-business verticals, focusing instead on everyday people in general.",
+        "would_change_mind": "If it explicitly stated that it is designed for small businesses or a specific small-business vertical, such as local service providers.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 24.42,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Conduit",
+    "tagline": "AI agents purpose-built for Hospitality",
+    "description": "Conduit automates guest conversations and the work behind it. Conduit agents reply across email, WhatsApp, OTAs and social, voice calls. Agents dispatch subagents to act inside your PMS and tech stack: dispatching cleaners, updating calendars, closing the loop. Agents learn from every interaction, and you can inspect every step. 140+ languages, SOC 2 Type II. 50M+ conversations and $3B+ in reservation value for 300+ brands including Marriott, Hilton, Nobu and Fairmont.",
+    "website": "https://www.producthunt.com/r/YDRU7ZJOP4RYSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/conduit-ai/launches/conduit-16",
+    "created_at": "2026-07-28T07:01:00Z",
+    "votes_count": 126,
+    "topics": "Customer Communication, Travel, Artificial Intelligence",
+    "makers": "will_garman, emily_chau, _cpan_, bohdan_onyshchenko, yjain4, shruti_mittal1",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/YDRU7ZJOP4RYSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/VQLJBYELOM3RWB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 17.647058823529413,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "The description mentions automating guest conversations but lacks a specific user persona beyond 'guest' and does not clearly explain the mechanism of how it works in detail.",
+        "would_change_mind": "If it specified the type of hospitality businesses it serves, such as hotels or restaurants, and detailed how the automation process works.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The text does not provide a clear comparison to alternatives or a specific point of difference beyond general automation claims.",
+        "would_change_mind": "If it explicitly compared its features or pricing to a specific competitor in the hospitality automation space.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "The description targets hospitality broadly without mentioning small businesses or specific business sizes.",
+        "would_change_mind": "If it stated that it is specifically designed for small hotels or boutique accommodations.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 23.91,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Basedash Tasks",
+    "tagline": "Run your business on autopilot",
+    "description": "Tasks is an AI operator for your business. It reads your real data — revenue, churn, activation, pipeline — and turns it into a prioritized backlog of specific, actionable tasks: why now, the expected outcome, and step-by-step instructions. Copy a task into Linear or your agent, or kick it off with the Basedash agent. When it ships, Basedash tracks how your metrics move and learns what actually works. Now in research preview. Your data knows what to do next — Tasks writes it down.",
+    "website": "https://www.producthunt.com/r/H5ZKTO47Q2TXUH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/basedash/launches/basedash-tasks",
+    "created_at": "2026-08-14T07:01:00Z",
+    "votes_count": 81,
+    "topics": "Analytics, Artificial Intelligence, Business Intelligence",
+    "makers": "[REDACTED], [REDACTED], kris_lachance",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/RTREKEMQZ2YHRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/H5ZKTO47Q2TXUH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 10.084033613445378,
+      "product_specificity": 50.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "moderate",
+        "basis": "The description outlines a general problem of task management but does not specify a clear user persona or detailed mechanism of operation.",
+        "would_change_mind": "If it named a specific type of business or user that would benefit from the AI operator, such as small tech startups.",
+        "score": 50.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The differentiation claim is vague and does not provide a specific comparison to existing task management tools.",
+        "would_change_mind": "If it highlighted a unique feature that sets it apart from other task management solutions, such as a specific integration or pricing model.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The text does not explicitly target small businesses or provide a clear signal that it is designed for that market.",
+        "would_change_mind": "If it mentioned a specific small business use case or a price point that indicates it is aimed at SMBs.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 32.02,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Salestrics MCP",
+    "tagline": "Your Agents. Your Business. Connected. ",
+    "description": "Without live CRM, inbox, and financial context, AI agents operate completely blind. Salestrics MCP (Model Context Protocol) connects tools like Cursor, Claude Desktop, and VS Code directly to your live workspace. Empower your agents to query pipeline data, update deal stages, trigger automations, and sync across tools like Stripe and Slack—all through one secure, org-scoped connection. Stop tab-switching and copying context. Connect your agents today at salestrics.com.",
+    "website": "https://www.producthunt.com/r/WAW63FIHV27IIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/salestrics/launches/salestrics-mcp",
+    "created_at": "2026-08-06T07:01:00Z",
+    "votes_count": 39,
+    "topics": "API, Artificial Intelligence, CRM",
+    "makers": "[REDACTED], savannah_shropshire",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/B6IMMH3JWJJKW2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/WAW63FIHV27IIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 3.0252100840336134,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 10.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "The description discusses connecting tools but lacks a specific problem, user persona, or detailed mechanism.",
+        "would_change_mind": "If it specified a particular type of user or business that would benefit from the integration of these tools.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The text does not provide a clear differentiation from other integration tools or platforms.",
+        "would_change_mind": "If it compared its integration capabilities directly to a specific competitor's offering.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "very_weak",
+        "basis": "The description does not mention small businesses or any specific business size, focusing instead on general tool integration.",
+        "would_change_mind": "If it stated that it is specifically designed for small businesses or provided a price point that indicates it is aimed at SMBs.",
+        "score": 10.0
+      }
+    },
+    "overall_score": 20.26,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Zinng.ai",
+    "tagline": "Never Miss a Call. Never Lose a Customer.",
+    "description": "Zinng is a 24/7 AI receptionist for small businesses. It answers every call, books appointments, captures leads, filters spam, and hands off to a human when it matters. Outbound web calls, two-way SMS, website chat widget, recordings, and transcripts all live in one inbox. iOS and Android apps coming soon. Born in our own dental office, not a Silicon Valley accelerator. Fully self-funded and built for trades, home services, dental, medical, legal, and more. Live in minutes from $49/mo.",
+    "website": "https://www.producthunt.com/r/E2XAMOKANLSBWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/zinng-ai/launches/zinng-ai",
+    "created_at": "2026-07-15T07:01:00Z",
+    "votes_count": 28,
+    "topics": "Messaging, Virtual Assistants",
+    "makers": "timothybramlett",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/E2XAMOKANLSBWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/5G52WDAVHGSFTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/3ZBVP6PSVWFKRO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 1.1764705882352942,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "The description clearly identifies a specific problem (missed calls) and a specific user (small businesses) with a concrete mechanism (AI receptionist).",
+        "would_change_mind": "If it stated that it only serves large enterprises or provided a pricing model that suggests a focus on larger clients.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "The text explicitly states how it functions differently from traditional receptionists and highlights its specific features.",
+        "would_change_mind": "If it claimed to serve only enterprise clients or provided a pricing model that suggests a focus on larger businesses.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "The description explicitly targets small businesses and mentions specific verticals like dental and home services, aligning perfectly with the thesis.",
+        "would_change_mind": "If it stated that it is also suitable for large enterprises or provided a pricing model that suggests a focus on larger clients.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 71.54,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "BizDraft",
+    "tagline": "Tailored business agreements in 90 seconds",
+    "description": "BizDraft is an AI contract assistant for small business owners and freelancers. No generic templates to fine-tune with a lawyer — every document is tailored to your specific business, state laws included, in about 90 seconds. Draft agreements, get a plain-English read on contracts you receive, adjust terms, and catch risks before signing. It's entirely yours: free, fully editable, in whatever format you need.",
+    "website": "https://www.producthunt.com/r/HD66RV6QE245XP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/bizdraft/launches/bizdraft",
+    "created_at": "2026-07-21T07:01:00Z",
+    "votes_count": 26,
+    "topics": "Legal, Artificial Intelligence, Business",
+    "makers": "saranyababu",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/HD66RV6QE245XP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 0.8403361344537815,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "The description identifies a specific problem (contract drafting) for a specific user (small business owners and freelancers) and explains the mechanism clearly.",
+        "would_change_mind": "If it stated that it is designed only for large corporations or provided a pricing model that suggests a focus on larger clients.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "The text clearly differentiates itself by offering tailored contracts rather than generic templates, which is a specific point of difference.",
+        "would_change_mind": "If it claimed to serve only enterprise clients or provided a pricing model that suggests a focus on larger businesses.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "The description explicitly targets small business owners and freelancers, aligning perfectly with the thesis.",
+        "would_change_mind": "If it stated that it is also suitable for large enterprises or provided a pricing model that suggests a focus on larger clients.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 71.46,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "Voiact - Your Trello AI Coworker ",
+    "tagline": "The Most Capable AI & Voice Assistant for Trello",
+    "description": "Voiact is an AI & Voice assistant that runs Trello for you. Talk or type where you work, whether WhatsApp, Telegram, or Trello, and it turns your words into action. Speak a note and it becomes a card, ask a question and get a live answer, or bulk update dozens of cards at once. It warns you before deadlines slip and pulls in web data. It also handles automations, running actions on a trigger or schedule, and connects to email and calendar. Turn an email into a card, or one into an event.",
+    "website": "https://www.producthunt.com/r/UKT4NIUZ3TYYBB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/voiact-your-trello-ai-coworker/launches/voiact-your-trello-ai-coworker",
+    "created_at": "2026-08-11T07:01:00Z",
+    "votes_count": 21,
+    "topics": "Task Management, Artificial Intelligence, Virtual Assistants",
+    "makers": "[REDACTED], [REDACTED], fatih144",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UKT4NIUZ3TYYBB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 0.0,
+      "product_specificity": 30.0,
+      "differentiation": 30.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "weak",
+        "basis": "The description discusses task management but lacks a specific user persona or detailed mechanism of how it operates within Trello.",
+        "would_change_mind": "If it specified the type of users or businesses that would benefit from the AI assistant, such as small project teams.",
+        "score": 30.0
+      },
+      "differentiation": {
+        "label": "weak",
+        "basis": "The differentiation claim is vague and does not provide a specific comparison to existing Trello integrations or task management tools.",
+        "would_change_mind": "If it highlighted a unique feature that sets it apart from other Trello integrations, such as a specific automation capability.",
+        "score": 30.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "The text does not explicitly target small businesses or provide a clear signal that it is designed for that market.",
+        "would_change_mind": "If it mentioned a specific small business use case or a price point that indicates it is aimed at SMBs.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 22.5,
+    "status": "complete",
+    "error": null
+  }
+]

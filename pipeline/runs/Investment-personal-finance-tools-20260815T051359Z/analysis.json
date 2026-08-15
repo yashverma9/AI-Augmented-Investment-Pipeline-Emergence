@@ -1,0 +1,164 @@
+[
+  {
+    "name": "RightCard",
+    "tagline": "The honest credit card picker — no bank login",
+    "description": "RightCard tells you which of your cards to use at any store and auto-adds the bank offers you'd forget to activate (Amex, Chase, Citi, Wells Fargo). It keeps rotating 5% categories straight so you don't have to remember them, and warns you before card credits and annual fees renew. No bank login, no account, no tracking — the Safari extension reads the offers page you're already signed into, and recommendations are computed on your phone, even offline. Honest numbers only. Free, no ads.",
+    "website": "https://www.producthunt.com/r/QBAV2SQH3UB2NZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/rightcard/launches/rightcard",
+    "created_at": "2026-08-12T07:01:00Z",
+    "votes_count": 120,
+    "topics": "iOS, Fintech, Personal Finance",
+    "makers": "parikshit_builds",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/L524WTVCAHAUWH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/QBAV2SQH3UB2NZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "App Store"
+      }
+    ],
+    "scores": {
+      "traction": 100.0,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It names a specific problem of choosing the right credit card and explains the mechanism of using a Safari extension to provide recommendations based on offers.",
+        "would_change_mind": "If it specified a particular user persona, such as 'frequent travelers' or 'budget-conscious consumers,' instead of a general audience.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It implies a clear differentiator by stating 'no bank login, no account, no tracking,' which sets it apart from typical finance apps that require bank integration.",
+        "would_change_mind": "If it explicitly compared its features to a specific competitor, such as Mint or YNAB, highlighting a unique advantage.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific business size or vertical, focusing instead on general credit card users.",
+        "would_change_mind": "If it named a specific user group, such as 'small business owners' or 'individual freelancers,' to clarify its market fit.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 74.5,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "SpendKeep",
+    "tagline": "The Privacy-First Expense Tracker. No Bank Login Required.",
+    "description": "Track expenses without bank sync. AI categorization via email forwarding & CSV import. No PSpendKeep is a privacy-first AI finance tracker. It automatically categorizes expenses by parsing bank SMS and forwarded emails using LLMs—no Plaid or bank sync required. Beyond budgeting, it features an institutional-grade portfolio analyzer that calculates Sharpe ratios, risk volatility, and concentration, complete with personalized AI financial health verdicts.",
+    "website": "https://www.producthunt.com/r/EB675ACPQVGFPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/spendkeep/launches/spendkeep",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 30,
+    "topics": "Finance, Personal Finance, Budgeting",
+    "makers": "abhistha",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/EB675ACPQVGFPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/GJGBPLISHLN3ZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://www.producthunt.com/r/B6SSAJZQBO7W2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Instagram"
+      },
+      {
+        "url": "https://www.producthunt.com/r/4DEZFS7WYXB2RQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AB25YOGCUUPRW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Twitter"
+      }
+    ],
+    "scores": {
+      "traction": 2.1739130434782608,
+      "product_specificity": 75.0,
+      "differentiation": 75.0,
+      "market_fit": 30.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "strong",
+        "basis": "It identifies the problem of tracking expenses without bank sync and explains the mechanism of using AI to categorize expenses via email and SMS.",
+        "would_change_mind": "If it specified a particular user persona, such as 'freelancers' or 'small business owners,' to clarify who would benefit most.",
+        "score": 75.0
+      },
+      "differentiation": {
+        "label": "strong",
+        "basis": "It differentiates itself by emphasizing 'no Plaid or bank sync required,' which is a specific point of difference from other expense trackers.",
+        "would_change_mind": "If it provided a direct comparison to a specific competitor, such as Expensify, detailing how its approach is superior.",
+        "score": 75.0
+      },
+      "market_fit": {
+        "label": "weak",
+        "basis": "It does not explicitly target a specific business size or vertical, focusing instead on general expense tracking.",
+        "would_change_mind": "If it named a specific user group, such as 'small business owners' or 'independent contractors,' to clarify its market fit.",
+        "score": 30.0
+      }
+    },
+    "overall_score": 50.04,
+    "status": "complete",
+    "error": null
+  },
+  {
+    "name": "WealthNest.ai",
+    "tagline": "AI-powered personalized family office for your wealth",
+    "description": "Your family's entire financial life — investments, insurance, tax, and inheritance — in one AI-powered dashboard. See everything in one place, get smart insights on risks and opportunities, and personalized advice on what to do next. Built for families.",
+    "website": "https://www.producthunt.com/r/AVGCYJAHRF6GRS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+    "ph_launch_url": "https://www.producthunt.com/products/wealthnest-ai/launches/wealthnest-ai",
+    "created_at": "2026-07-23T07:01:00Z",
+    "votes_count": 28,
+    "topics": "Fintech, Artificial Intelligence, Personal Finance",
+    "makers": "[REDACTED], [REDACTED], [REDACTED], sssaudagar",
+    "product_links": [
+      {
+        "url": "https://www.producthunt.com/r/UMLZSBOQOHMPSD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      },
+      {
+        "url": "https://www.producthunt.com/r/AVGCYJAHRF6GRS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+test+%28ID%3A+204263%29",
+        "type": "Website"
+      }
+    ],
+    "scores": {
+      "traction": 0.0,
+      "product_specificity": 95.0,
+      "differentiation": 95.0,
+      "market_fit": 95.0
+    },
+    "scores_detail": {
+      "product_specificity": {
+        "label": "very_strong",
+        "basis": "It names a specific problem of managing a family's financial life and identifies the user as families, explaining the mechanism of an AI-powered dashboard.",
+        "would_change_mind": "If it stated that it is only for high-net-worth families, which would disqualify its broad appeal.",
+        "score": 95.0
+      },
+      "differentiation": {
+        "label": "very_strong",
+        "basis": "It explicitly states that it provides a comprehensive view of investments, insurance, tax, and inheritance, which is a concrete point of difference from typical financial management tools.",
+        "would_change_mind": "If it introduced a new competitor that offers a similar all-in-one solution specifically for families.",
+        "score": 95.0
+      },
+      "market_fit": {
+        "label": "very_strong",
+        "basis": "It explicitly targets families as its primary customer, aligning perfectly with the personal finance tools thesis.",
+        "would_change_mind": "If it stated that it is also suitable for corporate clients or large enterprises, which would shift its focus away from families.",
+        "score": 95.0
+      }
+    },
+    "overall_score": 71.25,
+    "status": "complete",
+    "error": null
+  }
+]
