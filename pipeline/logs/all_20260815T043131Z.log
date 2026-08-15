@@ -1,0 +1,119 @@
+2026-08-15 10:01:33,610 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:01:33,619 INFO product_hunt: GraphQL request variables={'query': 'AI Tools', 'first': 10}
+2026-08-15 10:01:33,937 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:33,937 INFO product_hunt: Rate limit remaining=6250/6250
+2026-08-15 10:01:33,937 INFO product_hunt: GraphQL request variables={'query': 'Tools', 'first': 10}
+2026-08-15 10:01:34,238 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:34,239 INFO product_hunt: Rate limit remaining=6150/6250
+2026-08-15 10:01:34,239 INFO product_hunt: Query='AI Tools' had no direct match; word-level fallback via ['Tools'] matched 10 topic(s): ['design-tools', 'customer-success', 'writing', 'social-media', 'seo', 'photography', 'meetings', 'developer-tools', 'maker-tools', 'remote-work']
+2026-08-15 10:01:34,239 INFO product_hunt: GraphQL request variables={'topic': 'design-tools', 'first': 20}
+2026-08-15 10:01:34,916 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:34,937 INFO product_hunt: Rate limit remaining=6050/6250
+2026-08-15 10:01:34,937 INFO product_hunt: Topic='design-tools' fetched 20 post(s)
+2026-08-15 10:01:34,938 INFO product_hunt: GraphQL request variables={'topic': 'customer-success', 'first': 20}
+2026-08-15 10:01:35,696 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:35,702 INFO product_hunt: Rate limit remaining=5950/6250
+2026-08-15 10:01:35,704 INFO product_hunt: Topic='customer-success' fetched 20 post(s)
+2026-08-15 10:01:35,705 INFO product_hunt: GraphQL request variables={'topic': 'writing', 'first': 20}
+2026-08-15 10:01:36,571 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:36,589 INFO product_hunt: Rate limit remaining=5850/6250
+2026-08-15 10:01:36,590 INFO product_hunt: Topic='writing' fetched 20 post(s)
+2026-08-15 10:01:36,590 INFO product_hunt: GraphQL request variables={'query': 'Small Business Automation', 'first': 10}
+2026-08-15 10:01:37,394 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:37,395 INFO product_hunt: Rate limit remaining=5750/6250
+2026-08-15 10:01:37,395 INFO product_hunt: GraphQL request variables={'query': 'Small', 'first': 10}
+2026-08-15 10:01:37,693 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:37,694 INFO product_hunt: Rate limit remaining=5650/6250
+2026-08-15 10:01:37,694 INFO product_hunt: GraphQL request variables={'query': 'Business', 'first': 10}
+2026-08-15 10:01:38,000 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:38,001 INFO product_hunt: Rate limit remaining=5550/6250
+2026-08-15 10:01:38,001 INFO product_hunt: GraphQL request variables={'query': 'Automation', 'first': 10}
+2026-08-15 10:01:38,304 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:38,305 INFO product_hunt: Rate limit remaining=5450/6250
+2026-08-15 10:01:38,305 INFO product_hunt: Query='Small Business Automation' had no direct match; word-level fallback via ['Small', 'Business', 'Automation'] matched 7 topic(s): ['business', 'saas', 'business-books', 'business-intelligence', 'business-travel', 'home-automation', 'marketing-automation']
+2026-08-15 10:01:38,305 INFO product_hunt: GraphQL request variables={'topic': 'business', 'first': 20}
+2026-08-15 10:01:38,862 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:38,880 INFO product_hunt: Rate limit remaining=5350/6250
+2026-08-15 10:01:38,881 INFO product_hunt: Topic='business' fetched 20 post(s)
+2026-08-15 10:01:38,882 INFO product_hunt: GraphQL request variables={'topic': 'saas', 'first': 20}
+2026-08-15 10:01:39,530 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:39,561 INFO product_hunt: Rate limit remaining=5250/6250
+2026-08-15 10:01:39,561 INFO product_hunt: Topic='saas' fetched 20 post(s)
+2026-08-15 10:01:39,562 INFO product_hunt: GraphQL request variables={'topic': 'business-books', 'first': 20}
+2026-08-15 10:01:39,943 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:39,945 INFO product_hunt: Rate limit remaining=5150/6250
+2026-08-15 10:01:39,945 INFO product_hunt: Topic='business-books' fetched 3 post(s)
+2026-08-15 10:01:39,945 INFO product_hunt: GraphQL request variables={'query': 'Virtual Assistants', 'first': 10}
+2026-08-15 10:01:40,234 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:40,234 INFO product_hunt: Rate limit remaining=5050/6250
+2026-08-15 10:01:40,234 INFO product_hunt: Query='Virtual Assistants' matched 1 topic(s) directly: ['virtual-assistants']
+2026-08-15 10:01:40,234 INFO product_hunt: GraphQL request variables={'topic': 'virtual-assistants', 'first': 20}
+2026-08-15 10:01:41,065 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:41,087 INFO product_hunt: Rate limit remaining=4950/6250
+2026-08-15 10:01:41,088 INFO product_hunt: Topic='virtual-assistants' fetched 20 post(s)
+2026-08-15 10:01:41,089 INFO product_hunt: GraphQL request variables={'query': 'Customer Support AI', 'first': 10}
+2026-08-15 10:01:41,383 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:41,383 INFO product_hunt: Rate limit remaining=4850/6250
+2026-08-15 10:01:41,383 INFO product_hunt: GraphQL request variables={'query': 'Customer', 'first': 10}
+2026-08-15 10:01:41,716 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:41,717 INFO product_hunt: Rate limit remaining=4750/6250
+2026-08-15 10:01:41,717 INFO product_hunt: GraphQL request variables={'query': 'Support', 'first': 10}
+2026-08-15 10:01:42,027 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:42,028 INFO product_hunt: Rate limit remaining=4650/6250
+2026-08-15 10:01:42,028 INFO product_hunt: Query='Customer Support AI' had no direct match; word-level fallback via ['Customer', 'Support'] matched 3 topic(s): ['customer-success', 'customer-communication', 'crm']
+2026-08-15 10:01:42,029 INFO product_hunt: Skipping already-fetched topic='customer-success' for query='Customer Support AI'
+2026-08-15 10:01:42,029 INFO product_hunt: GraphQL request variables={'topic': 'customer-communication', 'first': 20}
+2026-08-15 10:01:42,937 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:42,939 INFO product_hunt: Rate limit remaining=4550/6250
+2026-08-15 10:01:42,939 INFO product_hunt: Topic='customer-communication' fetched 20 post(s)
+2026-08-15 10:01:42,940 INFO product_hunt: GraphQL request variables={'topic': 'crm', 'first': 20}
+2026-08-15 10:01:43,478 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:43,499 INFO product_hunt: Rate limit remaining=4450/6250
+2026-08-15 10:01:43,500 INFO product_hunt: Topic='crm' fetched 20 post(s)
+2026-08-15 10:01:43,500 INFO product_hunt: GraphQL request variables={'query': 'Business Intelligence', 'first': 10}
+2026-08-15 10:01:43,799 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:43,800 INFO product_hunt: Rate limit remaining=4350/6250
+2026-08-15 10:01:43,801 INFO product_hunt: Query='Business Intelligence' matched 1 topic(s) directly: ['business-intelligence']
+2026-08-15 10:01:43,801 INFO product_hunt: GraphQL request variables={'topic': 'business-intelligence', 'first': 20}
+2026-08-15 10:01:44,687 INFO httpx: HTTP Request: POST https://api.producthunt.com/v2/api/graphql "HTTP/1.1 200 OK"
+2026-08-15 10:01:44,742 INFO product_hunt: Rate limit remaining=4250/6250
+2026-08-15 10:01:44,743 INFO product_hunt: Topic='business-intelligence' fetched 20 post(s)
+2026-08-15 10:01:44,743 INFO product_hunt: Fetched 173 unique post(s) across 10 unique topic(s) from 5 quer(y/ies)
+2026-08-15 10:01:44,748 INFO sourcing: Rule-based shortlist kept 54/173 post(s) for thesis='AI Agents for SMBs'
+2026-08-15 10:01:46,793 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:01:46,794 INFO sourcing: LLM shortlist kept 10/15 post(s) for thesis='AI Agents for SMBs' batch=0-15
+2026-08-15 10:01:48,700 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:01:48,708 INFO sourcing: LLM shortlist kept 6/15 post(s) for thesis='AI Agents for SMBs' batch=15-30
+2026-08-15 10:01:51,181 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:01:51,186 INFO sourcing: LLM shortlist kept 3/15 post(s) for thesis='AI Agents for SMBs' batch=30-45
+2026-08-15 10:01:52,791 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:01:52,795 INFO sourcing: LLM shortlist kept 4/9 post(s) for thesis='AI Agents for SMBs' batch=45-54
+2026-08-15 10:01:52,798 INFO analysis: Loaded 23 shortlisted candidate(s) from /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-ai-agents-for-smbs-20260815T043131Z/shortlisted.json; votes range=21..616
+2026-08-15 10:02:06,310 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:02:22,283 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:02:34,673 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-15 10:02:34,678 INFO analysis: Wrote analysis for 23 candidate(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-ai-agents-for-smbs-20260815T043131Z/analysis.json
+2026-08-15 10:02:34,684 INFO memo: wrote prefactor.md — Watch (68.2)
+2026-08-15 10:02:34,685 INFO memo: wrote nautis.md — Take a meeting (77.3)
+2026-08-15 10:02:34,685 INFO memo: wrote agentsky.md — Pass (37.4)
+2026-08-15 10:02:34,685 INFO memo: wrote cartai.md — Take a meeting (73.9)
+2026-08-15 10:02:34,686 INFO memo: wrote cekura.md — Watch (59.0)
+2026-08-15 10:02:34,686 INFO memo: wrote zinley.md — Take a meeting (71.7)
+2026-08-15 10:02:34,686 INFO memo: wrote agently.md — Watch (63.9)
+2026-08-15 10:02:34,686 INFO memo: wrote betterclaw.md — Watch (68.9)
+2026-08-15 10:02:34,686 INFO memo: wrote skippr-ai.md — Watch (55.5)
+2026-08-15 10:02:34,686 INFO memo: wrote cleanlist-ai.md — Watch (60.7)
+2026-08-15 10:02:34,687 INFO memo: wrote runevr.md — Pass (45.6)
+2026-08-15 10:02:34,687 INFO memo: wrote aymo-ai.md — Pass (26.3)
+2026-08-15 10:02:34,687 INFO memo: wrote basedash-suggestions.md — Pass (48.8)
+2026-08-15 10:02:34,688 INFO memo: wrote estera.md — Take a meeting (76.4)
+2026-08-15 10:02:34,688 INFO memo: wrote backengine-mcp.md — Watch (59.5)
+2026-08-15 10:02:34,689 INFO memo: wrote bo-ai.md — Pass (24.4)
+2026-08-15 10:02:34,689 INFO memo: wrote conduit.md — Pass (11.9)
+2026-08-15 10:02:34,689 INFO memo: wrote product-analytics-for-agents-and-users.md — Pass (23.3)
+2026-08-15 10:02:34,689 INFO memo: wrote min.md — Pass (17.7)
+2026-08-15 10:02:34,690 INFO memo: wrote basedash-tasks.md — Pass (22.0)
+2026-08-15 10:02:34,690 INFO memo: wrote salestrics-mcp.md — Pass (20.3)
+2026-08-15 10:02:34,690 INFO memo: wrote zinng-ai.md — Watch (66.5)
+2026-08-15 10:02:34,691 INFO memo: wrote voiact-your-trello-ai-coworker.md — Pass (19.5)
+2026-08-15 10:02:34,691 INFO memo: Wrote 23 memo(s) to /Users/vermayash/Developer/AI-Augmented-Investment-Pipeline-Emergence/pipeline/runs/Investment-ai-agents-for-smbs-20260815T043131Z/memos
